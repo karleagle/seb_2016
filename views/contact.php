@@ -26,36 +26,40 @@
 <?php // INCLUDE HEADER
 	include('templates/header.php');
 ?>
-	<div class="header bgImg white realbride">
-    <h1 class="underscore">LAN &amp; EMMERSON</h1>
-    <a class="white" href="#">BACK TO VIEW ALL</a>
-  </div>
-  <div class="titlebox">
-    <h2>LAN</h2>
-  </div>
-  <p class="large blue">
-    Immediately after seeing Sally&#39;s dresses and talking to her on the phone I knew I&#39;d found something really special.
-  </p>
-  <p>
-    I cannot recommend her enough&#59; the whole process was so relaxed, easy and enjoyable&#8212;even with me living in Dunedin!
-  </p>
-  <p>
-    Sally took my initial vision and made it into something which completely blew my expectations out of the water. I loved every step as Sally made me feel completely at ease in her expert hands with her ideas, advice and obvious skill and talent.
-  </p>
-	<section class="dresses">
-	<!-- SHOW COLLECTION IMAGES -->
-		<div class="dresses">
-		<!-- HOLD COLLECTION IMAGES -->
-			<img class="bridesmaids p1" src="images/collections/wedding_45.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-			<img class="bridesmaids l1" src="images/collections/wedding_54.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-			<img class="bridesmaids p1" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-			<img class="bridesmaids l2" src="images/collections/wedding_72.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-			<img class="bridesmaids l2" src="images/collections/wedding_74.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
+  <div class="contact">
+    <h1 class="underscore stockist blue"
+      href="">
+      CONTACT SALLY
+    </h1>
+    <h2 class="ls_thin blue light">
+			Sally Eagle Boutique
+		</h2>
+		<div>
+	    <a class="ls_thin black contact"
+	      href="https://www.google.co.nz/maps/place/Sally+Eagle+Bridal/@-41.2914281,174.7763628,17z/data=!4m5!3m4!1s0x6d38b02708301a8d:0xcb0272ff22e64c0d!8m2!3d-41.290618!4d174.777382" target="_blank">
+	      Level 1, Cuba Street, Wellington, New Zealand
+	    </a>
 		</div>
-		<a href="index.php">VIEW ALL</a>
-	</section>
+		<p>
+			Open Tuesday to Saturday, 10am to 4pm
+		</p>
+		<div>
+	    <a class="email dk_grey ls_thin contact"
+	      href="mailto&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Website%20enquiry">
+	      enquiries@sallyeagle.co.nz
+	    </a>
+		</div>
+		<p>
+			Phone <span class="dk_grey">020 4005 9959</span>
+		</p>
+		<div class="booking">
+	    <a class="blue box ls_wide"
+	      href="mailto&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Website%20enquiry">
+	      MAKE A BOOKING
+	    </a>
+		</div>
+  </div>
 	<!-- END MAIN BLOCK -->
-	</div>
 <?php // INCLUDE FOOTER
 	include('templates/footer.php');
 ?>

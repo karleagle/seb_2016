@@ -50,10 +50,23 @@
 	    </a>
 		</div>
     <h1 class="blue underscore dress_name">
-      AUDREY
+      TERESA &amp; BETTE
     </h1>
-    <p>
-      Audrey Hepburn was everybody&#39;s dream girl. The Audrey dress speaks of her glamour and sophisticated style. The dress is made from silk georgette that gently falls over the hips creating fullness at the hem. While Audrey is known for wearing simple shaped, elegant dresses she always glammed them up with a bit of sparkle and personality. The delicate beading on the bodice bring that hint of sparkle, while the bow on the shoulder drapes down giving the dress that feminine touch.
+		<h2 class='separates blue'>
+			TERESA TOP
+		</h2>
+    <p class='separates'>
+			This silk brouse is delicate and humble, having the coverage of a long
+			sleeve while still being sheer and light.
+			The deep V, with soft lave detailing front and back,
+			gives it a modern touch.
+    </p>
+		<h2 class='separates blue second_separate'>
+			BETTE SKIRT
+		</h2>
+    <p class='separates'>
+			This skirt is slim over the hips and full at the hem giving it amazing movement.
+			The vertical lines of the pleats and the fitted waistband flatter the body.
     </p>
     <a class="box enquire ls_wide" href='mail&#116;&#111;&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Dress%20enquiry%20-%20AUDREY'>
       ENQUIRE NOW

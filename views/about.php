@@ -26,34 +26,34 @@
 <?php // INCLUDE HEADER
 	include('templates/header.php');
 ?>
-	<div class="header bgImg white realbride">
-    <h1 class="underscore">LAN &amp; EMMERSON</h1>
-    <a class="white" href="#">BACK TO VIEW ALL</a>
+	<div class="header white about bgImg">
+    <h1 class="underscore">MEET SALLY</h1>
   </div>
-  <div class="titlebox">
-    <h2>LAN</h2>
-  </div>
-  <p class="large blue">
-    Immediately after seeing Sally&#39;s dresses and talking to her on the phone I knew I&#39;d found something really special.
-  </p>
-  <p>
-    I cannot recommend her enough&#59; the whole process was so relaxed, easy and enjoyable&#8212;even with me living in Dunedin!
-  </p>
-  <p>
-    Sally took my initial vision and made it into something which completely blew my expectations out of the water. I loved every step as Sally made me feel completely at ease in her expert hands with her ideas, advice and obvious skill and talent.
-  </p>
-	<section class="dresses">
-	<!-- SHOW COLLECTION IMAGES -->
-		<div class="dresses">
-		<!-- HOLD COLLECTION IMAGES -->
-			<img class="bridesmaids p1" src="images/collections/wedding_45.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-			<img class="bridesmaids l1" src="images/collections/wedding_54.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-			<img class="bridesmaids p1" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-			<img class="bridesmaids l2" src="images/collections/wedding_72.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-			<img class="bridesmaids l2" src="images/collections/wedding_74.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-		</div>
-		<a href="index.php">VIEW ALL</a>
-	</section>
+	<div class="left_align">
+	  <p class="large blue">
+			Sally Eagle loves beautiful things, which comes as no
+			surprise to those who have seen her dresses.
+			Her passion for clothing as a method of enhancing the
+			beauty of those wearing them is instilled in every dress she makes.
+	  </p>
+		<p>
+			As a designer, Sally Eagle&#39;s name has become synonymous with contemporary
+			but delicate wedding dresses. Her designs are both romantic and
+			classic&#8212;wedding dresses that move with the bride,
+			yet won&#39;t lose their well&#45;constructed shape.
+		</p>
+		<p>
+			Having planned her own wedding, for which she made her own wedding dress,
+			Sally understands that finding the perfect wedding dress can be a stressful time.
+			That is why Sally has made an effort to make it as easy and enjoyable as possible for
+			brides that come to her. From the initial consultation to the final fitting,
+			everything should be an experience to remember and treasure.
+		</p>
+		<p>
+			When not designing gorgeous bridal gowns, Sally enjoys
+			spending time with her husband and their two young boys.
+		</p>
+	</div>
 	<!-- END MAIN BLOCK -->
 	</div>
 <?php // INCLUDE FOOTER

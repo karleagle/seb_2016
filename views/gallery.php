@@ -17,38 +17,9 @@
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
+<script type="text/javascript" src="js/menu_hover.js"></script>
 <!--SCROLL TO TOP-->
-<script>
-$(document).ready(function(){
-
-	//Check to see if the window is top if not then display button
-	$(window).scroll(function(){
-		if ($(this).scrollTop() > 100) {
-			$('.scrollToTop').fadeIn();
-		} else {
-			$('.scrollToTop').fadeOut();
-		}
-	});
-
-	//Click event to scroll to top
-	$('.scrollToTop').click(function(){
-		$('html, body').animate({scrollTop : 0},800);
-		return false;
-	});
-
-  //Remove element's fixed attributes at bottom of screen
-  $(window).scroll(function() {
-     if($(window).scrollTop() + $(window).height() > $(document).height() - 80
-       && $(".scrollToTop").hasClass('fixedScroll') ){
-         $(".scrollToTop").toggleClass('fixedScroll');
-     } else if (
-       $(window).scrollTop() + $(window).height() < $(document).height() - 110
-       && $(".scrollToTop").attr('class') != 'scrollToTop fixedScroll') {
-       $(".scrollToTop").attr('class', 'scrollToTop fixedScroll')
-     }
-  });
-});
-</script>
+<script type="text/javascript" src="js/to_top.js"></script>
 
 <link rel="stylesheet" type="text/css" href="css/style.css" media="all" />
 <link rel="icon" type="image/ico" href="images/favicon.ico"/>
@@ -58,34 +29,127 @@ $(document).ready(function(){
 <?php // INCLUDE HEADER
 	include('templates/header.php');
 ?>
-	<div class="content">
-    <div class="gallery_image_holder relative" href="#">
-      <a class="hover_reveal" href="#">
+	<div class="submenu ">
+		<ul class="opaque88">
+	<!-- UNCOMMENT WHEN 'ALL DRESSES' SECTION PROPERLY FORMATTED
+			<li>
+				<a href="index.php?view=g">ALL DRESSES</a>
+			</li>
+	-->
+			<li>
+				<p>BRIDAL</p>
+			</li>
+			<li>
+				<a href="index.php?view=gallery&category=bridesmaids">BRIDESMAIDS</a>
+			</li>
+			<li>
+				<a href="index.php?view=gallery&category=flowergirls">FLOWER GIRLS</a>
+			</li>
+			<li>
+				<a href="index.php?view=gallery&category=realbrides">REAL BRIDES</a>
+			</li>
+			<li>
+				<a href="index.php?view=gallery&category=accessories">ACCESSORIES</a>
+			</li>
+		</ul>
+	</div>
+	<div class="content gallery">
+    <div class="gallery_image_holder relative">
+      <a class="hover_reveal image_swap"
+				href="index.php?view=collection">
         <img src="images/collections/wedding_45.jpg" />
         <img class="hidden" src="images/collections/wedding_51.jpg" />
         <div class="gallery_details absolute opaque75 hidden">
           <h2>VICTORIA</h2>
-          <p class="box" href="#">VIEW DRESS</p>
+          <p class="box">VIEW DRESS</p>
         </div>
       </a>
     </div>
     <div class="gallery_image_holder relative">
-      <a class="hover_reveal" href="#">
+      <a class="hover_reveal image_swap"
+				href="index.php?view=collection&a=separates">
         <img src="images/collections/wedding_45.jpg" />
         <img class="hidden" src="images/collections/wedding_51.jpg" />
         <div class="gallery_details absolute opaque75 hidden">
           <h2>VICTORIA</h2>
-          <p class="box" href="#">VIEW DRESS</p>
+          <p class="box">VIEW DRESS</p>
         </div>
       </a>
     </div>
     <div class="gallery_image_holder relative">
-      <a class="hover_reveal" href="#">
+      <a class="hover_reveal image_swap"
+				href="index.php?view=realbrides">
         <img src="images/collections/wedding_45.jpg" />
         <img class="hidden" src="images/collections/wedding_51.jpg" />
         <div class="gallery_details absolute opaque75 hidden">
           <h2>VICTORIA</h2>
-          <p class="box" href="#">VIEW DRESS</p>
+          <p class="box">VIEW DRESS</p>
+        </div>
+      </a>
+    </div>
+    <div class="gallery_image_holder relative">
+      <a class="hover_reveal image_swap"
+				href="index.php?view=realbrides">
+        <img src="images/collections/wedding_45.jpg" />
+        <img class="hidden" src="images/collections/wedding_51.jpg" />
+        <div class="gallery_details absolute opaque75 hidden">
+          <h2>VICTORIA</h2>
+          <p class="box">VIEW DRESS</p>
+        </div>
+      </a>
+    </div>
+    <div class="gallery_image_holder relative">
+      <a class="hover_reveal image_swap"
+				href="index.php?view=realbrides">
+        <img src="images/collections/wedding_45.jpg" />
+        <img class="hidden" src="images/collections/wedding_51.jpg" />
+        <div class="gallery_details absolute opaque75 hidden">
+          <h2>VICTORIA</h2>
+          <p class="box">VIEW DRESS</p>
+        </div>
+      </a>
+    </div>
+    <div class="gallery_image_holder relative">
+      <a class="hover_reveal image_swap"
+				href="index.php?view=realbrides">
+        <img src="images/collections/wedding_45.jpg" />
+        <img class="hidden" src="images/collections/wedding_51.jpg" />
+        <div class="gallery_details absolute opaque75 hidden">
+          <h2>VICTORIA</h2>
+          <p class="box">VIEW DRESS</p>
+        </div>
+      </a>
+    </div>
+    <div class="gallery_image_holder relative">
+      <a class="hover_reveal image_swap"
+				href="index.php?view=realbrides">
+        <img src="images/collections/wedding_45.jpg" />
+        <img class="hidden" src="images/collections/wedding_51.jpg" />
+        <div class="gallery_details absolute opaque75 hidden">
+          <h2>VICTORIA</h2>
+          <p class="box">VIEW DRESS</p>
+        </div>
+      </a>
+    </div>
+    <div class="gallery_image_holder relative">
+      <a class="hover_reveal image_swap"
+				href="index.php?view=realbrides">
+        <img src="images/collections/wedding_45.jpg" />
+        <img class="hidden" src="images/collections/wedding_51.jpg" />
+        <div class="gallery_details absolute opaque75 hidden">
+          <h2>VICTORIA</h2>
+          <p class="box">VIEW DRESS</p>
+        </div>
+      </a>
+    </div>
+    <div class="gallery_image_holder relative">
+      <a class="hover_reveal image_swap"
+				href="index.php?view=realbrides">
+        <img src="images/collections/wedding_45.jpg" />
+        <img class="hidden" src="images/collections/wedding_51.jpg" />
+        <div class="gallery_details absolute opaque75 hidden">
+          <h2>VICTORIA</h2>
+          <p class="box">VIEW DRESS</p>
         </div>
       </a>
     </div>

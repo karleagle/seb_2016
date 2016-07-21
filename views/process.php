@@ -41,7 +41,7 @@
 <script src="https://use.typekit.net/vyq5cic.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
+<script type="text/javascript" src="js/menu_hover.js"></script>
 
 <link rel="stylesheet" type="text/css" href="css/style.css" media="all" />
 <link rel="icon" type="image/ico" href="images/favicon.ico"/>
