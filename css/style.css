@@ -1,0 +1,944 @@
+/***************** GENERIC STYLES ***************/
+
+header,nav,footer,section{display:block;}
+
+body{
+	background: #ffffff;
+	text-align: center;
+	font-family: azo-sans-web, Calibri, sans-serif;
+  color:#686C72;
+	min-width:20em;
+	margin:0 auto;
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+img { -ms-interpolation-mode: bicubic; }
+
+
+/***************** GENERIC FONT ***************/
+
+h1{
+  font-weight:500;
+	font-size:1.313em;
+  letter-spacing:.25em;
+  line-height:1.313em;
+}
+
+h2{
+	font-weight:500;
+	font-size:.875em;
+  letter-spacing:.25em;
+  line-height:1.7em;
+}
+
+h3{
+	font-weight:500;
+	font-size:.833em;
+  letter-spacing:.25em;
+  line-height:1.7em;
+}
+
+h4{
+  font-size:.6em;
+}
+
+p{
+	font-size:.875em;
+  line-height:2em;
+  margin:0.7em auto 0;
+  max-width:51.875em;
+}
+
+a {
+	color: #8ca4d5;
+  letter-spacing:.15em;
+  text-decoration:none;
+}
+
+/* COLOR */
+.white {
+  color:#fff;
+  border-color:#fff;
+}
+
+.blue {
+  color:#8CA4D5;
+}
+
+.dk_grey{
+  color:#A3A6A9
+}
+
+.lt_grey{
+  color:#DADBDC
+}
+
+.ltr_grey{
+  color:#eceded
+}
+
+.black{
+	color:#686C72;
+}
+
+/* SIZE */
+.small{
+  font-size:.6875em;
+}
+
+/* WIDTH */
+.ls_wide{
+  letter-spacing:.35em;
+}
+
+.ls_thin {
+  letter-spacing:0.02em;
+}
+
+/* ALIGN */
+.left_align{
+  text-align:left;
+	padding-left: .5em;
+	padding-right: .2em;
+}
+
+/* FONT WEIGHT */
+.light{
+	font-weight:300;
+}
+
+.medium{
+	font-weight:500;
+}
+
+/* LINKS */
+.email{
+	text-decoration:underline;
+}
+
+/****************** STRUCTURE ****************/
+
+div.content{
+  margin:5em auto 0;
+  max-width:75em;
+}
+
+.opaque{
+  background-color:rgba(255, 255, 255, 0.35);
+}
+
+.opaque75{
+  background-color:rgba(255, 255, 255, 0.75);
+}
+
+.opaque88{
+  background-color:rgba(255, 255, 255, 0.88);
+}
+
+.hidden{
+  display:none;
+}
+
+
+/* POSITION */
+.margin_right{
+  margin-right:33em;
+}
+
+.relative{
+  position:relative;
+}
+
+.absolute{
+  position:absolute;
+}
+
+.float_left{
+	float: left;
+}
+
+/* OUTLINE */
+.box{
+  border:solid 1px;
+  font-size:.75em;
+  padding:1.042em;
+}
+
+.underscore {
+  border-bottom:1px solid;
+  display:inline-block;
+  margin-bottom: .45em;
+  padding-bottom:.2em;
+}
+
+
+p.large{
+  font-size:1.875em;
+  font-weight:300;
+  line-height:1.6em;
+  max-width:24.21em;
+}
+
+/* PAGE HEADER */
+.bgImg {
+	background-size:100%;
+	background-repeat:no-repeat;
+  background-position:50% 50%;
+  margin:5em auto 0;
+}
+
+div.header h1{
+  margin-top:11.42em;
+}
+
+div.header a{
+  display:block;
+}
+
+
+div.bgImg.realbride{
+  padding-bottom:15em;
+  background-image:url('../images/collections/wedding_53.jpg');
+}
+
+div.bgImg.boutique{
+  background-image:url('../images/boutique/boutique01.jpg');
+}
+
+div.bgImg.about{
+  background-image:url('../images/sally1.jpg');
+}
+
+/* TITLEBOX */
+div.titlebox{
+  border-left:1px solid #E9EEF8;
+  border-right:1px solid #E9EEF8;
+  border-top:1px solid #E9EEF8;
+  height:2.813em;
+  margin:5.9em auto 0.1em;
+  position:relative;
+  width:25.938em;
+}
+
+div.titlebox h2{
+  background-color:#fff;
+  color:#686C72;
+  display:inline-block;
+  margin:-.78em;
+  padding:0 .6em 0 1em;
+  position:relative;
+	top:-.75em;
+}
+
+div.title {
+
+}
+
+
+/**************** HEADER NAVIGATION ****************/
+
+header{
+	border-bottom:1px solid #e6e9f6;
+	font-weight:300;
+  left:0;
+  position:fixed;
+  top:0;
+	width:100%;
+  z-index:100
+}
+
+/* TOP LEVEL */
+nav.main ul {
+  line-height:5em;
+	list-style-type:none;
+	position:relative;
+}
+
+ul.main li{
+	cursor:default;
+	display:inline-table;
+	margin:0 0 0 6.75em;
+	text-align:left;
+}
+
+nav.main li:first-child {
+	margin:0;
+}
+
+nav.main li a{
+	color:#8ca4d5;
+	font-size:.8em;
+	padding:0 0 0.6em 0;
+	text-decoration:none;
+}
+
+a.home_img{
+  display:block;
+	margin-right:2em;
+  position:relative;
+  width:5em;
+}
+
+ul.main img{
+  left:-3.3em;
+	padding:.5em .5em .5em 0;
+  position:absolute;
+  top:-2.8em;
+}
+
+
+
+/* SECOND LEVEL */
+nav.main ul ul{
+  border-top:1px solid #E6E9F6;
+  border-bottom:1px solid #E6E9F6;
+	left:0;
+  line-height:3em;
+	list-style-type:none;
+	margin:0;
+	position:absolute;
+  width:100%;
+	z-index:100;
+}
+
+nav.main ul ul{
+  padding-left:5em;
+}
+
+nav.main ul ul.about{
+  padding-left:54%;
+}
+
+nav.main ul li.underline:hover > a {
+	border-bottom:1px solid #8CA4D5;
+}
+
+nav.main ul li.dropdown:hover > ul {
+	display:block;
+}
+
+nav.main ul ul li a, div.submenu li a{
+  color:#A3A6A9;
+}
+
+nav.main ul ul li:hover > a{
+	border-bottom:1px solid #A3A6A9;
+}
+
+/* SUBMENU  */
+div.submenu {
+	font-weight:300;
+  left:0;
+  position:fixed;
+  top:5em;
+	width:100%;
+	z-index:10;
+}
+
+div.submenu ul{
+  border-top:1px solid #E6E9F6;
+	font-size:.8em;
+  line-height:3em;
+	list-style-type:none;
+	margin:0;
+	position:absolute;
+  width:100%;
+}
+
+div.submenu li{
+	cursor:default;
+	display:inline-table;
+	margin:0 3em;
+	text-align:left;
+}
+
+nav.main ul ul li:hover > a, div.submenu li a:hover {
+	border-bottom:1px solid #A3A6A9;
+}
+
+div.submenu p{
+	border-bottom:1px solid;
+	cursor:default;
+	display:inline-table;
+	font-size:1em;
+	font-weight:500;
+	letter-spacing:.15em;
+	padding-left:.2em;
+	text-align:left;
+	width: auto;
+}
+
+/************** BREADCRUMBS NAV *****************/
+
+
+
+/******************** CART NAV *********************/
+
+
+/******************** HOME PAGE ********************/
+
+div.main_image {
+	height:100%;
+}
+
+div.main_image img.welcome {
+	width:100%;
+}
+
+div.main_image img.down_arrow {
+	margin-top:-2em;
+}
+
+/* DRESS BOXES */
+section.image_box {
+	padding:1em 0.1em;
+}
+
+div.image_box {
+	border:1px solid #eceded;
+	margin:0 auto;
+	max-width:76.25em;
+	position:relative;
+}
+
+p.top_bar{
+	left:47.5%;
+	line-height:0em;
+	margin:auto;
+	position:absolute;
+	top:-8px;
+	width:5%;
+}
+
+div.border {
+	border:3px solid #fff;
+	overflow:hidden;
+}
+
+div.holder{
+	height:20.7em;
+	width:76.063em;
+}
+
+/* BOX TITLE */
+section.image_box h1{
+	font-size: 1em;
+	margin:3em auto 1em;
+}
+
+/* BOX IMAGES */
+section.image_box img{
+	float:left;
+}
+
+section.image_box div.relative{
+	margin:0 .188em 0 0;
+}
+
+section.image_box div.l2{
+	margin-bottom:.188em
+}
+
+section.image_box img.l1, div.l1{
+	width:31.1em;
+}
+
+section.image_box img.l2, div.l2, div.l3{
+	width:15.4em;
+}
+
+section.image_box img.p1, div.p1{
+	width:13.8em;
+}
+
+/* IMAGE LINKS */
+div.holder p{
+	width: 6em;
+}
+
+div.holder div.gallery_details{
+	padding-bottom:1.8em;
+}
+
+/* VIEW ALL */
+section.image_box a.box{
+	display: inline-block;
+	letter-spacing:.25em;
+	margin: 3em auto 0;
+}
+
+/******************** GALLERY ********************/
+
+/*GALLERY BODY*/
+div.gallery{
+	margin-top: 8em;
+}
+
+div.gallery_image_holder{
+  display:inline-block;
+  padding:.375em;
+}
+
+div.gallery_image_holder img{
+  width:24em;
+}
+
+div.gallery_image_holder p{
+  display:initial;
+}
+
+a.gallery_image_holder{
+  display:inline-block;
+  padding:.375em;
+}
+
+a.gallery_image_holder img{
+  width:24.844em;
+}
+
+div.gallery_details{
+  padding:1em 0 2.2em;
+  bottom:0em;
+  width:100%;
+}
+
+div.gallery_details h2{
+  margin-bottom:1.3em;
+}
+
+a.hover_reveal:hover > div.hidden{
+  display:block;
+}
+
+a.image_swap:hover img:first-child{
+  display:none;
+}
+
+a.image_swap:hover img.hidden{
+  display:inline-block;
+}
+
+/******************** DRESS *********************/
+
+h1.dress_name{
+  margin:1em 0;
+}
+
+div.dresses{
+  margin-top:7em;
+	padding-left:.3em;
+}
+
+div.dresses p{
+  width:100%;
+}
+
+a.enquire{
+  display:inline-block;
+  margin:4em 0;
+  padding:1em 2em;
+}
+
+section.details{
+  border-color:#eceded;
+  display:inline-block;
+  padding:2em;
+  width:37.5em;
+}
+
+section.details h3.margin_top{
+  margin-top:2em;
+}
+
+section.details p{
+  color:#8D939A;
+  font-size:1em;
+}
+
+/*SEPARARTES*/
+h2.separates{
+	font-size:0.7em;
+	margin-bottom:.7em;
+}
+
+h2.second_separate{
+	margin-top:1.8em;
+}
+
+p.separates{
+	margin:auto;
+}
+
+/* IMAGEBOX */
+div.image_container{
+  float:left;
+  width:680px;
+}
+
+div.image_thumbs{
+  float:left;
+  width:164px;
+}
+
+img.dress.main{
+  width:483px;
+}
+
+img.dress.thumb{
+  margin-bottom:.3em;
+  width:100%;
+}
+
+div.overlay{
+	position: relative;
+	width:157px;
+}
+
+div.overlay:after{
+    content: '\A';
+    position: absolute;
+    width: 100%; height:100%;
+    top:0; left:0;
+    background:rgba(255,255,255,0.4);
+    opacity: 1;
+}
+
+div.overlay:hover:after {
+    opacity: 0;
+}
+
+/* SIMILAR STYLES */
+section.similar_styles img{
+	height: inherit;
+}
+
+div.styles_gallery{
+	margin: 0 0.5%;
+	width:98.2%;
+}
+
+div.gallery_slide{
+	height:29.5em;
+	width:159em;
+}
+
+
+/**************** REAL WEDDINGS *****************/
+
+
+/****************** STOCKIST ********************/
+
+div.stockist{
+	margin:5em auto 0;
+}
+
+div.stockist div{
+	margin:.5em auto;
+}
+
+div.stockist p{
+	margin:0 auto 1.6em;
+	width: auto;
+}
+
+h2.stockist {
+  margin-top:8.8em;
+}
+
+h1.stockist {
+	margin-top:2em;
+}
+
+a.stockist {
+  font-size:1.3em;
+}
+
+div.bar{
+  border-bottom:1px solid #E9EEF8;
+  height:0.5em;
+  letter-spacing:-0.1em;
+  margin-bottom:0.625em;
+}
+
+div.bar p{
+  color:#8ca4d5;
+  line-height:1px;
+  width:2em;
+}
+
+
+/****************** BOUTIQUE ********************/
+
+div.boutique {
+  margin-bottom:6.5em;
+}
+
+div.boutique a.centered {
+  display:inline-block;
+  margin:6.66em 0;
+}
+
+div.boutique p {
+  padding-bottom:.8em;
+}
+
+/********************* ABOUT ********************/
+
+div.about {
+  margin-bottom:6.5em;
+	padding-bottom:17em;
+	position:relative;
+}
+
+div.darken::before{
+    content: '\A';
+		position:absolute;
+    width: 100%; height:100%;
+    top:0; left:0;
+    background:rgba(0,0,0,0.65);
+    opacity: 0.65;
+}
+
+
+/******************* PROCESS ********************/
+
+section.process {
+	background-image:url('../images/collections/wedding_39.jpg');
+  padding:8.438em 0;
+}
+
+section.process p,section.process h2{
+  margin:0 auto;
+  width:22em;
+}
+
+section.process p.bar {
+  border-bottom:1px solid;
+  display:inline-block;
+  height: 0;
+  margin: 1.5em 0;
+  width: 2.143em;
+}
+
+section.process h2.gap {
+  margin-bottom:3em;
+}
+
+section.process h2.allow {
+  font-size:.9em;
+}
+
+section.process div{
+  border:1px solid;
+  display:inline-table;
+  height:13em;
+  padding:3em;
+  width:18em;
+}
+
+section.process div#top {
+   margin:1.2em -.3em -.05em -0.35em;
+}
+
+
+section.process div#bottom {
+   margin-bottom:1.2em;
+}
+
+section.process div h2, section.process div p{
+  width:100%;
+}
+
+/******************* CONTACT ********************/
+div.contact{
+	margin:5em auto 0;
+}
+
+div.contact h1{
+	margin-top:4em;
+}
+
+div.contact h2{
+	font-size:1.2em;
+	margin-top:1.8em;
+}
+
+div.contact div, div.contact p{
+	margin-top:.3em;
+}
+
+div.contact div.booking{
+	margin-top:3em;
+}
+
+a.contact{
+	font-size:.875em;
+}
+
+a.contact:hover{
+	text-decoration: underline;
+}
+
+
+/******************** FOOTER ********************/
+
+/* SCROLL TO TOP */
+a.scrollToTop{
+	background:
+		url('../images/icons/back.png')
+		no-repeat 0px .7em;
+	bottom:-2em;
+	display:none;
+	font-size:.8em;
+	padding:1em 1em 1em 2.4em;
+	position:relative;
+	text-align:center;
+	text-decoration: none;
+}
+
+a.fixedScroll{
+	bottom:1em;
+	left:50%;
+  margin-left:-5.8em;
+	position:fixed;
+}
+
+a.scrollToTop:hover{
+	text-decoration:none;
+}
+
+/* FOOTER */
+footer {
+	border-top:1px solid #e6e9f6;
+	margin-top:8em;
+	text-align:left;
+	width:100%;
+}
+
+footer div  {
+	padding:0 2.4em;
+}
+
+footer ul {
+	display:inline;
+	float:left;
+	height:6em;
+	line-height:6em;
+	list-style-type:none;
+}
+
+footer li {
+	display:inline-block;
+	padding:2em 0.6em 2em 0;
+
+}
+
+footer li:last-child {
+	border-right:1px solid #e6e9f6;
+	padding:2em 2.2em 2em 0;
+}
+
+footer li a {
+	display:block;
+	line-height:1.95em;
+	text-indent:-9999em;
+	width:1.95em;
+}
+
+footer li a#email {
+	background-image:url('../images/icons/mail.png');
+  background-repeat: no-repeat;
+}
+
+footer li a#facebook {
+	background-image:url('../images/icons/fbk.png');
+  background-repeat: no-repeat;
+}
+
+footer li a#pinterest {
+	background-image:url('../images/icons/pin.png');
+  background-repeat: no-repeat;
+}
+
+footer li a#instagram {
+	background-image:url('../images/icons/insta.png');
+  background-repeat: no-repeat;
+}
+
+footer h4 {
+	float:right;
+	line-height:6em;
+
+}
+
+
+/***************** BREAK POINTS *****************/
+/* BP1: below "normal" width */
+@media all and (max-width: 55.7em) {
+	/* shrinking menu margins */
+	ul.main li{
+		margin-left:10%;
+	}
+
+	ul.main li.about_menu{
+		margin-left:12%
+	}
+
+	/* smaller menu font size */
+	ul.main ul{
+		font-size:.9em;
+	}
+
+	div.submenu ul{
+		font-size:.7em;
+	}
+
+ 	div.submenu ul li,ul.main ul li{
+		margin:0 2.8% 0 2.8%;
+	}
+
+	/* shrinking header */
+	div.header h1{
+		margin-top:27.5%;
+	}
+
+	div.boutique{
+		margin-bottom:10%;
+	}
+
+	div.boutique a.centered{
+		margin:10% 0;
+	}
+
+	.bgImg{
+		background-size: 135%;
+	}
+
+	div.about{
+		margin-bottom:10%;
+		padding-bottom:31%;
+	}
+}
+
+/* BP2: Shrink biggest text */
+@media all and (max-width: 32em) {
+
+		p.large{
+			font-size:1.5em;
+		}
+
+}
+
+/* BP3: Fix BG in Auckland */
+@media all and (max-width: 25em) {
+
+		.bgImg{
+			background-size: 165%;
+		}
+
+}
