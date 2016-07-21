@@ -51,7 +51,7 @@ p{
 	font-size:.875em;
   line-height:2em;
   margin:0.7em auto 0;
-  width:51.875em;
+  max-width:51.875em;
 }
 
 a {
@@ -82,20 +82,44 @@ a {
   color:#eceded
 }
 
+.black{
+	color:#686C72;
+}
+
 /* SIZE */
 .small{
   font-size:.6875em;
 }
 
 /* WIDTH */
-.wide{
-  letter-spacing:.4em;
+.ls_wide{
+  letter-spacing:.35em;
 }
 
-.thin {
-  letter-spacing:0;
+.ls_thin {
+  letter-spacing:0.02em;
 }
 
+/* ALIGN */
+.left_align{
+  text-align:left;
+	padding-left: .5em;
+	padding-right: .2em;
+}
+
+/* FONT WEIGHT */
+.light{
+	font-weight:300;
+}
+
+.medium{
+	font-weight:500;
+}
+
+/* LINKS */
+.email{
+	text-decoration:underline;
+}
 
 /****************** STRUCTURE ****************/
 
@@ -122,10 +146,6 @@ div.content{
 
 
 /* POSITION */
-.alignLeft{
-  text-align:left;
-}
-
 .margin_right{
   margin-right:33em;
 }
@@ -136,6 +156,10 @@ div.content{
 
 .absolute{
   position:absolute;
+}
+
+.float_left{
+	float: left;
 }
 
 /* OUTLINE */
@@ -157,7 +181,7 @@ p.large{
   font-size:1.875em;
   font-weight:300;
   line-height:1.6em;
-  width:24.21em;
+  max-width:24.21em;
 }
 
 /* PAGE HEADER */
@@ -165,7 +189,7 @@ p.large{
 	background-size:100%;
 	background-repeat:no-repeat;
   background-position:50% 50%;
-  margin:0 auto;
+  margin:5em auto 0;
 }
 
 div.header h1{
@@ -186,13 +210,17 @@ div.bgImg.boutique{
   background-image:url('../images/boutique/boutique01.jpg');
 }
 
+div.bgImg.about{
+  background-image:url('../images/sally1.jpg');
+}
+
 /* TITLEBOX */
 div.titlebox{
   border-left:1px solid #E9EEF8;
   border-right:1px solid #E9EEF8;
   border-top:1px solid #E9EEF8;
   height:2.813em;
-  margin:5.9em auto 0;
+  margin:5.9em auto 0.1em;
   position:relative;
   width:25.938em;
 }
@@ -203,7 +231,8 @@ div.titlebox h2{
   display:inline-block;
   margin:-.78em;
   padding:0 .6em 0 1em;
-  position:absolute;
+  position:relative;
+	top:-.75em;
 }
 
 div.title {
@@ -213,7 +242,7 @@ div.title {
 
 /**************** HEADER NAVIGATION ****************/
 
-header {
+header{
 	border-bottom:1px solid #e6e9f6;
 	font-weight:300;
   left:0;
@@ -230,7 +259,7 @@ nav.main ul {
 	position:relative;
 }
 
-ul.main li {
+ul.main li{
 	cursor:default;
 	display:inline-table;
 	margin:0 0 0 6.75em;
@@ -243,12 +272,14 @@ nav.main li:first-child {
 
 nav.main li a{
 	color:#8ca4d5;
-	padding:0 0 0.3em 0;
+	font-size:.8em;
+	padding:0 0 0.6em 0;
 	text-decoration:none;
 }
 
 a.home_img{
   display:block;
+	margin-right:2em;
   position:relative;
   width:5em;
 }
@@ -266,14 +297,17 @@ ul.main img{
 nav.main ul ul{
   border-top:1px solid #E6E9F6;
   border-bottom:1px solid #E6E9F6;
-	display:none;
 	left:0;
   line-height:3em;
 	list-style-type:none;
 	margin:0;
-  padding-left:5em;
 	position:absolute;
   width:100%;
+	z-index:100;
+}
+
+nav.main ul ul{
+  padding-left:5em;
 }
 
 nav.main ul ul.about{
@@ -284,16 +318,59 @@ nav.main ul li.underline:hover > a {
 	border-bottom:1px solid #8CA4D5;
 }
 
-nav.main ul li.underline:hover > ul {
+nav.main ul li.dropdown:hover > ul {
 	display:block;
 }
 
-nav.main ul ul li a{
+nav.main ul ul li a, div.submenu li a{
   color:#A3A6A9;
 }
 
-nav.main ul ul li:hover > a {
+nav.main ul ul li:hover > a{
 	border-bottom:1px solid #A3A6A9;
+}
+
+/* SUBMENU  */
+div.submenu {
+	font-weight:300;
+  left:0;
+  position:fixed;
+  top:5em;
+	width:100%;
+	z-index:10;
+}
+
+div.submenu ul{
+  border-top:1px solid #E6E9F6;
+	font-size:.8em;
+  line-height:3em;
+	list-style-type:none;
+	margin:0;
+	position:absolute;
+  width:100%;
+}
+
+div.submenu li{
+	cursor:default;
+	display:inline-table;
+	margin:0 3em;
+	text-align:left;
+}
+
+nav.main ul ul li:hover > a, div.submenu li a:hover {
+	border-bottom:1px solid #A3A6A9;
+}
+
+div.submenu p{
+	border-bottom:1px solid;
+	cursor:default;
+	display:inline-table;
+	font-size:1em;
+	font-weight:500;
+	letter-spacing:.15em;
+	padding-left:.2em;
+	text-align:left;
+	width: auto;
 }
 
 /************** BREADCRUMBS NAV *****************/
@@ -326,6 +403,16 @@ div.image_box {
 	border:1px solid #eceded;
 	margin:0 auto;
 	max-width:76.25em;
+	position:relative;
+}
+
+p.top_bar{
+	left:47.5%;
+	line-height:0em;
+	margin:auto;
+	position:absolute;
+	top:-8px;
+	width:5%;
 }
 
 div.border {
@@ -334,30 +421,64 @@ div.border {
 }
 
 div.holder{
-	height:21em;
+	height:20.7em;
 	width:76.063em;
 }
 
+/* BOX TITLE */
+section.image_box h1{
+	font-size: 1em;
+	margin:3em auto 1em;
+}
+
+/* BOX IMAGES */
 section.image_box img{
 	float:left;
 }
 
-section.image_box img.l1{
-	margin-right:.188em;
-	width:31.6em;
+section.image_box div.relative{
+	margin:0 .188em 0 0;
 }
 
-section.image_box img.l2{
-	margin:0 .188em .188em 0;
-	width:15.65em;
+section.image_box div.l2{
+	margin-bottom:.188em
 }
 
-section.image_box img.p1{
-	margin-right:.188em;
-	width:14em;
+section.image_box img.l1, div.l1{
+	width:31.1em;
+}
+
+section.image_box img.l2, div.l2, div.l3{
+	width:15.4em;
+}
+
+section.image_box img.p1, div.p1{
+	width:13.8em;
+}
+
+/* IMAGE LINKS */
+div.holder p{
+	width: 6em;
+}
+
+div.holder div.gallery_details{
+	padding-bottom:1.8em;
+}
+
+/* VIEW ALL */
+section.image_box a.box{
+	display: inline-block;
+	letter-spacing:.25em;
+	margin: 3em auto 0;
 }
 
 /******************** GALLERY ********************/
+
+/*GALLERY BODY*/
+div.gallery{
+	margin-top: 8em;
+}
+
 div.gallery_image_holder{
   display:inline-block;
   padding:.375em;
@@ -381,25 +502,24 @@ a.gallery_image_holder img{
 }
 
 div.gallery_details{
-  padding-bottom:2.2em;
+  padding:1em 0 2.2em;
   bottom:0em;
   width:100%;
 }
 
 div.gallery_details h2{
   margin-bottom:1.3em;
-  padding-top:1.3em;
 }
 
 a.hover_reveal:hover > div.hidden{
   display:block;
 }
 
-a.hover_reveal:hover img:first-child{
+a.image_swap:hover img:first-child{
   display:none;
 }
 
-a.hover_reveal:hover img.hidden{
+a.image_swap:hover img.hidden{
   display:inline-block;
 }
 
@@ -411,10 +531,11 @@ h1.dress_name{
 
 div.dresses{
   margin-top:7em;
+	padding-left:.3em;
 }
 
 div.dresses p{
-  width:inherit;
+  width:100%;
 }
 
 a.enquire{
@@ -427,7 +548,7 @@ section.details{
   border-color:#eceded;
   display:inline-block;
   padding:2em;
-  width:39em;
+  width:37.5em;
 }
 
 section.details h3.margin_top{
@@ -439,13 +560,27 @@ section.details p{
   font-size:1em;
 }
 
+/*SEPARARTES*/
+h2.separates{
+	font-size:0.7em;
+	margin-bottom:.7em;
+}
+
+h2.second_separate{
+	margin-top:1.8em;
+}
+
+p.separates{
+	margin:auto;
+}
+
 /* IMAGEBOX */
-div.imageContainer{
+div.image_container{
   float:left;
   width:680px;
 }
 
-div.imageContainer div{
+div.image_thumbs{
   float:left;
   width:164px;
 }
@@ -456,7 +591,40 @@ img.dress.main{
 
 img.dress.thumb{
   margin-bottom:.3em;
-  width:157px;
+  width:100%;
+}
+
+div.overlay{
+	position: relative;
+	width:157px;
+}
+
+div.overlay:after{
+    content: '\A';
+    position: absolute;
+    width: 100%; height:100%;
+    top:0; left:0;
+    background:rgba(255,255,255,0.4);
+    opacity: 1;
+}
+
+div.overlay:hover:after {
+    opacity: 0;
+}
+
+/* SIMILAR STYLES */
+section.similar_styles img{
+	height: inherit;
+}
+
+div.styles_gallery{
+	margin: 0 0.5%;
+	width:98.2%;
+}
+
+div.gallery_slide{
+	height:29.5em;
+	width:159em;
 }
 
 
@@ -465,22 +633,29 @@ img.dress.thumb{
 
 /****************** STOCKIST ********************/
 
-div.stockist {
-	background-image:url('../images/collections/wedding_39.jpg');
-  margin-bottom:0.625em;
-  padding:11em 0;
+div.stockist{
+	margin:5em auto 0;
+}
+
+div.stockist div{
+	margin:.5em auto;
+}
+
+div.stockist p{
+	margin:0 auto 1.6em;
+	width: auto;
 }
 
 h2.stockist {
-  margin-top:1.8em;
+  margin-top:8.8em;
+}
+
+h1.stockist {
+	margin-top:2em;
 }
 
 a.stockist {
-  font-size:1.313em;
-}
-
-a.address {
-  font-size:.8em;
+  font-size:1.3em;
 }
 
 div.bar{
@@ -510,6 +685,23 @@ div.boutique a.centered {
 
 div.boutique p {
   padding-bottom:.8em;
+}
+
+/********************* ABOUT ********************/
+
+div.about {
+  margin-bottom:6.5em;
+	padding-bottom:17em;
+	position:relative;
+}
+
+div.darken::before{
+    content: '\A';
+		position:absolute;
+    width: 100%; height:100%;
+    top:0; left:0;
+    background:rgba(0,0,0,0.65);
+    opacity: 0.65;
 }
 
 
@@ -544,13 +736,13 @@ section.process h2.allow {
 section.process div{
   border:1px solid;
   display:inline-table;
-  height:12.3em;
+  height:13em;
   padding:3em;
   width:18em;
 }
 
 section.process div#top {
-   margin:1.2em -.35em -.05em -0.35em;
+   margin:1.2em -.3em -.05em -0.35em;
 }
 
 
@@ -562,27 +754,58 @@ section.process div h2, section.process div p{
   width:100%;
 }
 
+/******************* CONTACT ********************/
+div.contact{
+	margin:5em auto 0;
+}
+
+div.contact h1{
+	margin-top:4em;
+}
+
+div.contact h2{
+	font-size:1.2em;
+	margin-top:1.8em;
+}
+
+div.contact div, div.contact p{
+	margin-top:.3em;
+}
+
+div.contact div.booking{
+	margin-top:3em;
+}
+
+a.contact{
+	font-size:.875em;
+}
+
+a.contact:hover{
+	text-decoration: underline;
+}
+
 
 /******************** FOOTER ********************/
 
 /* SCROLL TO TOP */
 a.scrollToTop{
-	padding:10px;
-	text-align:center;
-	color: #444;
-	text-decoration: none;
-	display:none;
-	background: url('arrow_up.png') no-repeat 0px 20px;
+	background:
+		url('../images/icons/back.png')
+		no-repeat 0px .7em;
 	bottom:-2em;
+	display:none;
+	font-size:.8em;
+	padding:1em 1em 1em 2.4em;
 	position:relative;
+	text-align:center;
+	text-decoration: none;
 }
 
 a.fixedScroll{
 	bottom:1em;
 	left:50%;
-  margin-left:-15%;
+  margin-left:-5.8em;
 	position:fixed;
-	width:30%;
 }
 
 a.scrollToTop:hover{
@@ -592,7 +815,7 @@ a.scrollToTop:hover{
 /* FOOTER */
 footer {
 	border-top:1px solid #e6e9f6;
-	margin-top:8%;
+	margin-top:8em;
 	text-align:left;
 	width:100%;
 }
@@ -650,5 +873,72 @@ footer li a#instagram {
 footer h4 {
 	float:right;
 	line-height:6em;
+
+}
+
+
+/***************** BREAK POINTS *****************/
+/* BP1: below "normal" width */
+@media all and (max-width: 55.7em) {
+	/* shrinking menu margins */
+	ul.main li{
+		margin-left:10%;
+	}
+
+	ul.main li.about_menu{
+		margin-left:12%
+	}
+
+	/* smaller menu font size */
+	ul.main ul{
+		font-size:.9em;
+	}
+
+	div.submenu ul{
+		font-size:.7em;
+	}
+
+ 	div.submenu ul li,ul.main ul li{
+		margin:0 2.8% 0 2.8%;
+	}
+
+	/* shrinking header */
+	div.header h1{
+		margin-top:27.5%;
+	}
+
+	div.boutique{
+		margin-bottom:10%;
+	}
+
+	div.boutique a.centered{
+		margin:10% 0;
+	}
+
+	.bgImg{
+		background-size: 135%;
+	}
+
+	div.about{
+		margin-bottom:10%;
+		padding-bottom:31%;
+	}
+}
+
+/* BP2: Shrink biggest text */
+@media all and (max-width: 32em) {
+
+		p.large{
+			font-size:1.5em;
+		}
+
+}
+
+/* BP3: Fix BG in Auckland */
+@media all and (max-width: 25em) {
+
+		.bgImg{
+			background-size: 165%;
+		}
 
 }
