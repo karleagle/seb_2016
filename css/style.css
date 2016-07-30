@@ -249,13 +249,11 @@ header{
 	border-bottom:1px solid #e6e9f6;
 	font-weight:300;
   left:0;
+	min-width:20em;
   position:fixed;
   top:0;
 	width:100%;
   z-index:100;
-
-
-	min-width:20em;
 }
 
 a.home_solo{
