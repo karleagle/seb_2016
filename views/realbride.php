@@ -17,6 +17,11 @@
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="js/menu_hover.js"></script>
+<<<<<<< HEAD
+=======
+<!--SCROLL TO TOP-->
+<script type="text/javascript" src="js/to_top.js"></script>
+>>>>>>> 94e83077fc3b735d4397eb04ad678b74b3ce1966
 
 <link rel="stylesheet" type="text/css" href="css/style.css" media="all" />
 <link rel="icon" type="image/ico" href="images/favicon.ico"/>
@@ -28,11 +33,18 @@
 ?>
 	<div class="header bgImg white realbride">
     <h1 class="underscore">LAN &amp; EMMERSON</h1>
+<<<<<<< HEAD
     <a class="white" href="#">BACK TO VIEW ALL</a>
+=======
+    <div>
+			<a class="white link" href="#">BACK TO VIEW ALL</a>
+		</div>
+>>>>>>> 94e83077fc3b735d4397eb04ad678b74b3ce1966
   </div>
   <div class="titlebox">
     <h2>LAN</h2>
   </div>
+<<<<<<< HEAD
   <p class="large blue">
     Immediately after seeing Sally&#39;s dresses and talking to her on the phone I knew I&#39;d found something really special.
   </p>
@@ -53,6 +65,24 @@
 			<img class="bridesmaids l2" src="images/collections/wedding_74.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
 		</div>
 		<a href="index.php">VIEW ALL</a>
+=======
+  <p class="large blue padded">
+    Immediately after seeing Sally&#39;s dresses and talking to her on the phone I knew I&#39;d found something really special.
+  </p>
+  <p class="padded">
+    I cannot recommend her enough&#59; the whole process was so relaxed, easy and enjoyable&#8212;even with me living in Dunedin!
+  </p>
+  <p class="padded">
+    Sally took my initial vision and made it into something which completely blew my expectations out of the water. I loved every step as Sally made me feel completely at ease in her expert hands with her ideas, advice and obvious skill and talent.
+  </p>
+	<section class="bride_images">
+	<!-- SHOW COLLECTION IMAGES -->
+		<img class="bridesmaids p1" src="images/collections/wedding_45.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
+		<img class="bridesmaids p1" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
+		<img class="bridesmaids l2" src="images/collections/wedding_72.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
+		<img class="bridesmaids l2" src="images/collections/wedding_74.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
+		<img class="bridesmaids l2" src="images/collections/wedding_54.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
+>>>>>>> 94e83077fc3b735d4397eb04ad678b74b3ce1966
 	</section>
 	<!-- END MAIN BLOCK -->
 	</div>

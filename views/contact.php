@@ -35,7 +35,11 @@
 			Sally Eagle Boutique
 		</h2>
 		<div>
+<<<<<<< HEAD
 	    <a class="ls_thin black contact"
+=======
+	    <a class="ls_thin black contact link"
+>>>>>>> 94e83077fc3b735d4397eb04ad678b74b3ce1966
 	      href="https://www.google.co.nz/maps/place/Sally+Eagle+Bridal/@-41.2914281,174.7763628,17z/data=!4m5!3m4!1s0x6d38b02708301a8d:0xcb0272ff22e64c0d!8m2!3d-41.290618!4d174.777382" target="_blank">
 	      Level 1, Cuba Street, Wellington, New Zealand
 	    </a>
@@ -44,7 +48,11 @@
 			Open Tuesday to Saturday, 10am to 4pm
 		</p>
 		<div>
+<<<<<<< HEAD
 	    <a class="email dk_grey ls_thin contact"
+=======
+	    <a class="link dk_grey ls_thin contact"
+>>>>>>> 94e83077fc3b735d4397eb04ad678b74b3ce1966
 	      href="mailto&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Website%20enquiry">
 	      enquiries@sallyeagle.co.nz
 	    </a>

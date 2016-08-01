@@ -1,5 +1,11 @@
 	<header class="opaque88">
 		<nav class="main">
+<<<<<<< HEAD
+=======
+			<a class="home_solo" href="index.php">
+				<img src="images/icons/logo.png" alt="Home"/>
+			</a>
+>>>>>>> 94e83077fc3b735d4397eb04ad678b74b3ce1966
 			<ul class="main">
 				<li class="underline dropdown">
 					<a class=" under" href="index.php?view=gallery">BROWSE</a>
@@ -43,7 +49,11 @@
 						</li>
 					</ul>
 				</li>
+<<<<<<< HEAD
 				<li>
+=======
+				<li class="home_img">
+>>>>>>> 94e83077fc3b735d4397eb04ad678b74b3ce1966
 					<a class="home_img" href="index.php"><img src="images/icons/logo.png" id="logo" alt="Home"/></a>
 				</li>
 				<li class="underline dropdown about_menu">

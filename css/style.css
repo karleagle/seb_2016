@@ -103,8 +103,14 @@ a {
 /* ALIGN */
 .left_align{
   text-align:left;
-	padding-left: .5em;
-	padding-right: .2em;
+	padding-left: 1.5em;
+	padding-right: 1.2em;
+}
+
+/* PADDING */
+.padded{
+	padding-left: 1.5em;
+	padding-right: 1.5em;
 }
 
 /* FONT WEIGHT */
@@ -117,7 +123,7 @@ a {
 }
 
 /* LINKS */
-.email{
+.link:hover{
 	text-decoration:underline;
 }
 
@@ -193,13 +199,10 @@ p.large{
 }
 
 div.header h1{
+	margin-left: 1.5em;
+	margin-right: 1.5em;
   margin-top:11.42em;
 }
-
-div.header a{
-  display:block;
-}
-
 
 div.bgImg.realbride{
   padding-bottom:15em;
@@ -249,7 +252,14 @@ header{
   position:fixed;
   top:0;
 	width:100%;
-  z-index:100
+  z-index:100;
+
+
+	min-width:20em;
+}
+
+a.home_solo{
+	display: none;
 }
 
 /* TOP LEVEL */
@@ -264,6 +274,10 @@ ul.main li{
 	display:inline-table;
 	margin:0 0 0 6.75em;
 	text-align:left;
+}
+
+ul.main li.about_menu{
+	margin-left:7.75em;
 }
 
 nav.main li:first-child {
@@ -312,6 +326,14 @@ nav.main ul ul{
 
 nav.main ul ul.about{
   padding-left:54%;
+}
+
+nav.main ul ul li{
+	margin-left: 5%;
+}
+
+nav.main ul ul li:first-child{
+	margin-left: 0;
 }
 
 nav.main ul li.underline:hover > a {
@@ -629,12 +651,21 @@ div.gallery_slide{
 
 
 /**************** REAL WEDDINGS *****************/
+section.bride_images{
+	margin: 4em auto 0;
+	max-width: 50em;
+}
 
+section.bride_images img{
+	width:100%;
+		max-width: 24em;
+}
 
 /****************** STOCKIST ********************/
 
 div.stockist{
 	margin:5em auto 0;
+	padding: 0 1em;
 }
 
 div.stockist div{
@@ -704,6 +735,16 @@ div.darken::before{
     opacity: 0.65;
 }
 
+/******************* READ MORE ******************/
+#readMore{
+	text-decoration: underline;
+	cursor:pointer;
+}
+
+#showLess{
+	text-decoration: underline;
+	cursor:pointer;
+}
 
 /******************* PROCESS ********************/
 
@@ -757,6 +798,7 @@ section.process div h2, section.process div p{
 /******************* CONTACT ********************/
 div.contact{
 	margin:5em auto 0;
+	padding: 0 1em;
 }
 
 div.contact h1{
@@ -882,11 +924,19 @@ footer h4 {
 @media all and (max-width: 55.7em) {
 	/* shrinking menu margins */
 	ul.main li{
-		margin-left:10%;
+		margin-left:5%;
+	}
+
+	ul.main li.home_img{
+		margin-left:12%
 	}
 
 	ul.main li.about_menu{
 		margin-left:12%
+	}
+
+	nav.main ul ul {
+    padding-left: 3%;
 	}
 
 	/* smaller menu font size */
@@ -898,13 +948,20 @@ footer h4 {
 		font-size:.7em;
 	}
 
- 	div.submenu ul li,ul.main ul li{
+	nav.main ul ul li,
+	ul.main ul li,
+	ul.main ul li:first-child,
+	nav.main ul li ul li:first-child{
 		margin:0 2.8% 0 2.8%;
 	}
 
 	/* shrinking header */
 	div.header h1{
 		margin-top:27.5%;
+	}
+
+	.bgImg{
+		background-size: 135%;
 	}
 
 	div.boutique{
@@ -915,30 +972,101 @@ footer h4 {
 		margin:10% 0;
 	}
 
-	.bgImg{
-		background-size: 135%;
-	}
-
 	div.about{
 		margin-bottom:10%;
 		padding-bottom:31%;
 	}
+
+	div.bgImg.realbride{
+	  padding-bottom:27.5%;
+	}
 }
 
-/* BP2: Shrink biggest text */
-@media all and (max-width: 32em) {
+/* BP2: Drop menu, shrink biggest text */
+@media all and (max-width: 33.5em) {
+	/* mobile menu */
+	nav a.home_solo{
+		display: block;
+	}
 
-		p.large{
-			font-size:1.5em;
-		}
+	ul.main li,
+	ul.main li.about_menu
+	{
+		margin-left:10%
+	}
 
+	nav.main ul{
+		line-height:2em;
+		margin-top: -.5em;
+	}
+
+	nav li.home_img{
+		display:none;
+	}
+
+	nav.main li a {
+		padding-bottom:.2em;
+		font-size
+	}
+
+	/* mobile submenu */
+	nav.main ul ul{
+		line-height:2em;
+		padding-bottom:0;
+	}
+
+	nav.main ul ul.about{
+		padding-left:48%;
+	}
+
+	nav.main ul ul li{
+		display:list-item;
+	}
+
+	/* realign top of page to menu */
+	div.content,.bgImg{
+		margin-top: 5.5em;
+	}
+
+	div.submenu{
+		top:5.5em;
+	}
+
+	/* adjust blue font */
+	p.large{
+		font-size:1.5em;
+	}
+
+	div.titlebox{
+		height:2em;
+		margin-top: 13%;
+		width:65%;
+	}
 }
 
 /* BP3: Fix BG in Auckland */
-@media all and (max-width: 25em) {
+@media all and (max-width: 25.9em) {
+	/* tidy menu */
+	ul.main li,
+	ul.main li.about_menu,
+	nav.main ul ul li:first-child{
+		margin-left:7%
+	}
 
-		.bgImg{
-			background-size: 165%;
-		}
+	/* adjust blue font */
+	p.large{
+		font-size:1.15em;
+	}
 
+	.bgImg{
+		background-size: 168%;
+	}
+
+	div.bgImg.realbride{
+		background-size: 135%;
+	}
+
+	div.gallery_image_holder img{
+	  width:96%;
+	}
 }

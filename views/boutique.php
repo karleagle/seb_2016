@@ -30,7 +30,11 @@
     <h1 class="underscore">THE BOUTIQUE</h1>
     <div>
       <a
+<<<<<<< HEAD
         class="white"
+=======
+        class="white link"
+>>>>>>> 94e83077fc3b735d4397eb04ad678b74b3ce1966
         href="https://www.google.co.nz/maps/place/Sally+Eagle+Bridal/@-41.2903642,174.7781909,18.5z/data=!4m2!3m1!1s0x0000000000000000:0xcb0272ff22e64c0d">
         47 CUBA STREET, WELLINGTON
       </a>
@@ -54,7 +58,11 @@
 			There you can show off each beautiful creation to your party as they relax with hot drinks or bubbles and nibbles.
 			There is no limit to your entourage but the area comfortably holds a bride-to-be and 4 of her guests,
 			so feel free to invite your friends and family to ooh and aah over how you look in each dress until you find the perfect one.
+<<<<<<< HEAD
 			For more information on the consultation process, see the <a class="thin" href="index.php&#63;view=process">process page</a>.
+=======
+			For more information on the consultation process, see the <a class="ls_thin" href="index.php&#63;view=process">process page</a>.
+>>>>>>> 94e83077fc3b735d4397eb04ad678b74b3ce1966
 	  </p>
 		<p>
 			If you are a little early to your consultation feel free to take a seat in the waiting room and have a relaxed look through the wedding magazines available.
@@ -64,7 +72,11 @@
 			Visitors are welcome but we only accommodate one bride-to-be at a time, so if you visit while we are taking a bride through her consultation you will unfortunately be unable to see the dresses.
 	    Therefore it is recommended that you book ahead, especially if you are looking to try dresses on.
 	    This ensures that you have the full attention of Ashleigh, Sally&#39;s trusted consultation assistant, as she takes you through a tailored experience to find your perfect wedding dress.
+<<<<<<< HEAD
 			You can book a consultation by <a class="thin" href="mailto&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Website%20enquiry">emailing Ashleigh</a>, or call her on 020 4005 9959.
+=======
+			You can book a consultation by <a class="ls_thin" href="mailto&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Website%20enquiry">emailing Ashleigh</a>, or call her on 020 4005 9959.
+>>>>>>> 94e83077fc3b735d4397eb04ad678b74b3ce1966
 		</p>
 	<!-- END MAIN BLOCK -->
 	</div>
