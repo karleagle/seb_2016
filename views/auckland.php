@@ -30,11 +30,7 @@
     <h1 class="underscore">AUCKLAND POP-UP STORE</h1>
     <div>
 			<a
-<<<<<<< HEAD
-        class="white"
-=======
         class="white link"
->>>>>>> 94e83077fc3b735d4397eb04ad678b74b3ce1966
         href="https://www.google.com/maps/place/Foxes+Island+Wines/@-36.8591542,174.7447099,17z/data=!4m5!3m4!1s0x6d0d47960f3c4c89:0xc38a88e38520441f!8m2!3d-36.8591542!4d174.7468986?hl=en" target="_blank">
         15 WILLIAMSON AVENUE, AUCKLAND
       </a>
@@ -56,31 +52,6 @@
 			With wine and refreshments readily at hand and a relaxed
 			atmosphere, you and your friends or family can enjoy yourselves
 			as you find	the dress that is perfectly you.
-<<<<<<< HEAD
-	  </p>
-	  <p>
-			Your consultation takes place in the larger back section of the
-			Foxes Island Wines showroom, which has been screened off for
-			your privacy. We recommend groups of up to 4 people, which ensures
-			seating for all and leaves ample room for you to move freely in
-			your dress.
-	  </p>
-		<p>
-			If you are a little early to your consultation feel free to
-			browse the wine selection at Foxes Island Wines and talk
-			to their knowledgable staff.
-		</p>
-		<p>
-			All visits must be made by appointment beforehand.
-			This ensures that you have the time and privacy required to
-			enjoy the experience and find your perfect wedding dress.
-			You can book a consultation by
-			<a class="ls_thin" href="mailto&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Website%20enquiry">
-				emailing Ashleigh
-			</a>
-			 or call her on 020 4005 9959.
-		</p>
-=======
 			<span id="readMore" class="blue ls_thin">More...</span>
 	  </p>
 		<div class="more">
@@ -111,7 +82,6 @@
 			</p>
 
 		</div>
->>>>>>> 94e83077fc3b735d4397eb04ad678b74b3ce1966
 	<!-- END MAIN BLOCK -->
 	</div>
 <?php // INCLUDE FOOTER
