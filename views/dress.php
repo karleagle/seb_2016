@@ -28,7 +28,7 @@
 ?>
   <div class="content left_align dresses">
     <div class="image_container">
-      <div class="image_thumbs">
+    	<img class="dress main" src="images/collections/wedding_45.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
 				<div class="overlay">
         	<img class="dress thumb" src="images/collections/wedding_45.jpg"
 					alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
@@ -41,8 +41,6 @@
         	<img class="dress thumb" src="images/collections/wedding_45.jpg"
 					alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
 				</div>
-      </div>
-    <img class="dress main" src="images/collections/wedding_45.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
     </div>
 		<div>
 	    <a class="lt_grey small ls_wide" href='index.php?view=gallery'>

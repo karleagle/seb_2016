@@ -609,6 +609,7 @@ div.image_thumbs{
 }
 
 img.dress.main{
+	float: left;
   width:483px;
 }
 
@@ -618,6 +619,8 @@ img.dress.thumb{
 }
 
 div.overlay{
+	display: inline-block;
+	margin-left: .45em;
 	position: relative;
 	width:157px;
 }
