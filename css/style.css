@@ -103,8 +103,6 @@ a {
 /* ALIGN */
 .left_align{
   text-align:left;
-	padding-left: 1.5em;
-	padding-right: 1.2em;
 }
 
 /* PADDING */
@@ -166,6 +164,10 @@ div.content{
 
 .float_left{
 	float: left;
+}
+
+.clear{
+	clear: both;
 }
 
 /* OUTLINE */
@@ -571,7 +573,7 @@ section.details{
   border-color:#eceded;
   display:inline-block;
   padding:2em;
-  width:37.5em;
+	width:36.2em;
 }
 
 section.details h3.margin_top{
@@ -600,17 +602,13 @@ p.separates{
 /* IMAGEBOX */
 div.image_container{
   float:left;
-  width:680px;
-}
-
-div.image_thumbs{
-  float:left;
-  width:164px;
+  width:42.5em;
 }
 
 img.dress.main{
 	float: left;
-  width:483px;
+	margin: 0 .45em .3em 0;
+  width:30.188em;
 }
 
 img.dress.thumb{
@@ -620,9 +618,8 @@ img.dress.thumb{
 
 div.overlay{
 	display: inline-block;
-	margin-left: .45em;
 	position: relative;
-	width:157px;
+	width:9.813em;
 }
 
 div.overlay:after{
@@ -639,6 +636,10 @@ div.overlay:hover:after {
 }
 
 /* SIMILAR STYLES */
+section.similar_styles{
+	clear:both;
+}
+
 section.similar_styles img{
 	height: inherit;
 }
@@ -984,9 +985,35 @@ footer h4 {
 	div.bgImg.realbride{
 	  padding-bottom:27.5%;
 	}
+
+	/* dresses - dress details smaller */
+	section.details{
+    clear: both;
+	  display:block;
+	}
+
+	/* IMAGEBOX */
+	div.image_container{
+	  width:31.5em;
+	}
+
+	div.overlay{
+		margin:0 .15em 0 0;
+	}
 }
 
-/* BP2: Drop menu, shrink biggest text */
+/* BP2: dresses reduce to one column */
+@media all and (max-width: 50em) {
+	div.bp2_clear{
+		clear:both;
+	}
+
+	div.image_container{
+	  width:100%;
+	}
+}
+
+/* BP3: Drop menu, shrink biggest text */
 @media all and (max-width: 33.5em) {
 	/* mobile menu */
 	nav a.home_solo{
@@ -1046,9 +1073,43 @@ footer h4 {
 		margin-top: 13%;
 		width:65%;
 	}
+
+	/* set width of section to window % */
+	div.dresses{
+		padding-left: 0;
+	}
+
+	div.image_container{
+		width: 100%;
+	}
+
+	img.dress.main{
+		margin-left: 1%;
+		margin-right: 1%;
+		width: 98%;
+	}
+
+	.pad_1{
+		padding-left: 1%;
+		padding-right: 1%;
+	}
+
+	div.dresses{
+		width: 98%;
+	}
+
+	div.overlay{
+		margin:0 0 0 1%;
+		width: 31.2%;
+	}
+
+	section.details{
+	  padding:2em;
+		width:90%;
+	}
 }
 
-/* BP3: Fix BG in Auckland */
+/* BP4: Fix BG in Auckland */
 @media all and (max-width: 25.9em) {
 	/* tidy menu */
 	ul.main li,

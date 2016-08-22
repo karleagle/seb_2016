@@ -41,7 +41,7 @@
 		</a>
     <p class="ls_thin">OPEN SAT &amp; SUN 10AM TO 5PM</p>
   </div>
-	<div class="left_align">
+	<div class="left_align padded">
 	  <p class="large blue">
 			Sally Eagle has finally brought her full, exquisite collection
 			of beautiful, hand&#45;made wedding dresses to Auckland!

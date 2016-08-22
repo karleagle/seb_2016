@@ -29,7 +29,7 @@
 	<div class="header white about bgImg">
     <h1 class="underscore">MEET SALLY</h1>
   </div>
-	<div class="left_align">
+	<div class="left_align padded">
 	  <p class="large blue">
 			Sally Eagle loves beautiful things, which comes as no
 			surprise to those who have seen her dresses.

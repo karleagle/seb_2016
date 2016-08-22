@@ -42,22 +42,22 @@
 					alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
 				</div>
     </div>
-		<div>
+		<div class="bp2_clear pad_1">
 	    <a class="lt_grey small ls_wide" href='index.php?view=gallery'>
 	      BACK TO VIEW ALL
 	    </a>
 		</div>
-    <h1 class="blue underscore dress_name">
+    <h1 class="blue underscore dress_name pad_1">
       AUDREY
     </h1>
-    <p>
+    <p class="pad_1">
       Audrey Hepburn was everybody&#39;s dream girl. The Audrey dress speaks of her glamour and sophisticated style. The dress is made from silk georgette that gently falls over the hips creating fullness at the hem. While Audrey is known for wearing simple shaped, elegant dresses she always glammed them up with a bit of sparkle and personality. The delicate beading on the bodice bring that hint of sparkle, while the bow on the shoulder drapes down giving the dress that feminine touch.
     </p>
-    <a class="box enquire ls_wide" href='mail&#116;&#111;&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Dress%20enquiry%20-%20AUDREY'>
+    <a class="box enquire ls_wide pad_1" href='mail&#116;&#111;&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Dress%20enquiry%20-%20AUDREY'>
       ENQUIRE NOW
     </a>
     <!-- FABRIC CONTENT AND DRESS DETAILS -->
-    <section class="details box">
+    <section class="details box pad_1">
       <h3 class="dk_grey">
         FABRIC CONTENT
       </h3>

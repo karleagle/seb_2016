@@ -38,7 +38,7 @@
     <a class="white box opaque centered" href="#">MAKE A BOOKING</a>
     <p>OPEN TUES &#8211; SAT 10AM TO 5PM</p>
   </div>
-	<div class="left_align">
+	<div class="left_align padded">
 	  <p class="large blue">
 	    The Sally Eagle Bridal Boutique is a safe haven for the bride-to-be.
 	    It is a discreet, private area located on the first floor of 47 Cuba Street in Wellington central.
