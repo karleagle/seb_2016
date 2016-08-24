@@ -20,6 +20,7 @@
 <script type="text/javascript" src="js/menu_hover.js"></script>
 <!--SCROLL TO TOP-->
 <script type="text/javascript" src="js/to_top.js"></script>
+<script type="text/javascript" src="js/gallery_details.js"></script>
 
 <link rel="stylesheet" type="text/css" href="css/style.css" media="all" />
 <link rel="icon" type="image/ico" href="images/favicon.ico"/>
