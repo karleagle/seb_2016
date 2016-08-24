@@ -17,6 +17,7 @@
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="js/menu_hover.js"></script>
+<script type="text/javascript" src="js/toggle_description.js"></script>
 
 <link rel="stylesheet" type="text/css" href="css/style.css" media="all" />
 <link rel="icon" type="image/ico" href="images/favicon.ico"/>
@@ -53,27 +54,29 @@
     <p class="pad_1">
       Audrey Hepburn was everybody&#39;s dream girl. The Audrey dress speaks of her glamour and sophisticated style. The dress is made from silk georgette that gently falls over the hips creating fullness at the hem. While Audrey is known for wearing simple shaped, elegant dresses she always glammed them up with a bit of sparkle and personality. The delicate beading on the bodice bring that hint of sparkle, while the bow on the shoulder drapes down giving the dress that feminine touch.
     </p>
-    <a class="box enquire ls_wide pad_1" href='mail&#116;&#111;&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Dress%20enquiry%20-%20AUDREY'>
+    <a class="box enquire ls_wide" href='mail&#116;&#111;&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Dress%20enquiry%20-%20AUDREY'>
       ENQUIRE NOW
     </a>
     <!-- FABRIC CONTENT AND DRESS DETAILS -->
-    <section class="details box pad_1">
-      <h3 class="dk_grey">
+    <section class="details box pad_1em">
+      <h3 class="dk_grey fabric_content_button">
         FABRIC CONTENT
       </h3>
-      <p>
+			<img class="down_button fabric_content_button"src="images/icons/down_a.png" />
+      <p class="fabric_content">
         <span class="blue">Outer:</span> beaded lace, silk georgette; <span class="blue">Lining:</span> satin. Dry Clean only.
       </p>
-      <h3 class="dk_grey margin_top">
+      <h3 class="dk_grey margin_top dress_details_button">
         DRESS DETAILS
       </h3>
-      <p>
+			<img class="down_button dress_details_button"src="images/icons/down_a.png" />
+      <p class="dress_details">
         All Sally Eagle&#39;s collection wedding dresses are available in sizes 6 through to 16, with the hem length to be determined by fitting.
       </p>
-      <p>
+      <p class="dress_details">
         To ensure a perfect fit you can also have your dress made and fitted to your exact measurements at the Sally Eagle Bridal boutique in Wellington, New Zealand.
       </p>
-      <p>
+      <p class="dress_details">
         Proudly Made in New Zealand.
       </p>
     </section>

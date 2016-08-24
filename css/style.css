@@ -573,6 +573,7 @@ section.details{
   border-color:#eceded;
   display:inline-block;
   padding:2em;
+	position:relative;
 	width:36.2em;
 }
 
@@ -583,6 +584,11 @@ section.details h3.margin_top{
 section.details p{
   color:#8D939A;
   font-size:1em;
+}
+
+section.details img.down_button{
+	float:right;
+	margin-top:-1.5em;
 }
 
 /*SEPARARTES*/
@@ -920,7 +926,7 @@ footer li a#instagram {
 footer h4 {
 	float:right;
 	line-height:6em;
-
+	font-weight:500;
 }
 
 
@@ -1013,7 +1019,7 @@ footer h4 {
 	}
 }
 
-/* BP3: Drop menu, shrink biggest text */
+/* BP3: Drop menu, centralise, shrink biggest text */
 @media all and (max-width: 33.5em) {
 	/* mobile menu */
 	nav a.home_solo{
@@ -1074,6 +1080,22 @@ footer h4 {
 		width:65%;
 	}
 
+	/* centralise elements */
+	h1.dress_name,
+	a.enquire{
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+	}
+
+	h1.dress_name{
+		width:5.5em;
+	}
+
+	a.enquire{
+		width:11.03em;
+	}
+
 	/* set width of section to window % */
 	div.dresses{
 		padding-left: 0;
@@ -1094,18 +1116,20 @@ footer h4 {
 		padding-right: 1%;
 	}
 
-	div.dresses{
+	div.dresses p{
 		width: 98%;
 	}
 
 	div.overlay{
 		margin:0 0 0 1%;
-		width: 31.2%;
+		width: 31.5%;
 	}
 
 	section.details{
 	  padding:2em;
-		width:90%;
+		width:76%;
+		margin-left: 7%;
+		margin-right: 1%;
 	}
 }
 
@@ -1133,5 +1157,14 @@ footer h4 {
 
 	div.gallery_image_holder img{
 	  width:96%;
+	}
+
+	div.overlay{
+		margin:0 0 0 1%;
+		width: 31.2%;
+	}
+
+	section.details{
+		width:72%;
 	}
 }
