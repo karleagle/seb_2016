@@ -505,6 +505,7 @@ div.gallery{
 
 div.gallery_image_holder{
   display:inline-block;
+	overflow:hidden;
   padding:.375em;
 }
 
