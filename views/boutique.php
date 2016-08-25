@@ -56,6 +56,10 @@
 			so feel free to invite your friends and family to ooh and aah over how you look in each dress until you find the perfect one.
 			For more information on the consultation process, see the <a class="ls_thin" href="index.php&#63;view=process">process page</a>.
 	  </p>
+	</div>
+	<img class="banner_image_1" src="images/boutique/boutique02.jpg" alt="A shot of the boutique" />
+	<img class="banner_image_2" src="images/boutique/boutique03.jpg" alt="A shot of the boutique" />
+	<div class="left_align padded">
 		<p>
 			If you are a little early to your consultation feel free to take a seat in the waiting room and have a relaxed look through the wedding magazines available.
 			You can sneak a chocolate or two if you like, before heading in to your consultation.

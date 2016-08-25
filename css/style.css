@@ -730,6 +730,18 @@ div.boutique p {
   padding-bottom:.8em;
 }
 
+img.banner_image_1,
+img.banner_image_2{
+	float: left;
+	margin-bottom: 10%;
+	margin-top: 8%;
+	width: 49.7%;
+}
+
+img.banner_image_1{
+	margin-right: .6%;
+}
+
 /********************* ABOUT ********************/
 
 div.about {
@@ -1017,6 +1029,16 @@ footer h4 {
 
 	div.image_container{
 	  width:100%;
+	}
+
+	img.banner_image_1{
+		float: left;
+		margin-right: 0;
+		width: 100%;
+	}
+
+	img.banner_image_2{
+		display:none;
 	}
 }
 
