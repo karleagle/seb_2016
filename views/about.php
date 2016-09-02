@@ -31,17 +31,11 @@
   </div>
 	<div class="left_align padded">
 	  <p class="large blue">
-			Sally Eagle loves beautiful things, which comes as no
-			surprise to those who have seen her dresses.
-			Her passion for clothing as a method of enhancing the
-			beauty of those wearing them is instilled in every dress she makes.
-	  </p>
-		<p>
 			As a designer, Sally Eagle&#39;s name has become synonymous with contemporary
 			but delicate wedding dresses. Her designs are both romantic and
 			classic&#8212;wedding dresses that move with the bride,
 			yet won&#39;t lose their well&#45;constructed shape.
-		</p>
+	  </p>
 		<p>
 			Having planned her own wedding, for which she made her own wedding dress,
 			Sally understands that finding the perfect wedding dress can be a stressful time.
@@ -54,6 +48,8 @@
 			spending time with her husband and their two young boys.
 		</p>
 	</div>
+	<img class="banner_image_1" src="images/sallyeagle01.jpg" alt="A shot of the boutique" />
+	<img class="banner_image_2" src="images/sallyeagle02.jpg" alt="A shot of the boutique" />
 	<!-- END MAIN BLOCK -->
 	</div>
 <?php // INCLUDE FOOTER

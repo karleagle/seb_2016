@@ -89,17 +89,51 @@
 		<div class="titlebox">
 			<h2>SIMILAR STYLES</h2>
 		</div>
-		<div class="border styles_gallery">
-			<div class="gallery_slide">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
+		<div class="styles_gallery">
+			<div class="relative">
+	      <a class="hover_reveal"
+					href="index.php?view=collection">
+	        <img src="images/collections/wedding_52.jpg" />
+	        <div class="gallery_details absolute opaque75 hidden">
+	          <h2>VICTORIA</h2>
+	          <p class="box">VIEW DRESS</p>
+	        </div>
+	      </a>
+	    </div>
+
+			<div class="relative">
+				<a class="hover_reveal"
+					href="index.php?view=collection">
+					<img src="images/collections/wedding_52.jpg" />
+					<div class="gallery_details absolute opaque75 hidden">
+						<h2>VICTORIA</h2>
+						<p class="box">VIEW DRESS</p>
+					</div>
+				</a>
 			</div>
+
+			<div class="relative second_styles">
+				<a class="hover_reveal"
+					href="index.php?view=collection">
+					<img src="images/collections/wedding_52.jpg" />
+					<div class="gallery_details absolute opaque75 hidden">
+						<h2>VICTORIA</h2>
+						<p class="box">VIEW DRESS</p>
+					</div>
+				</a>
+			</div>
+
+			<div class="relative second_styles">
+				<a class="hover_reveal"
+					href="index.php?view=collection">
+					<img src="images/collections/wedding_52.jpg" />
+					<div class="gallery_details absolute opaque75 hidden">
+						<h2>VICTORIA</h2>
+						<p class="box">VIEW DRESS</p>
+					</div>
+				</a>
+			</div>
+
 		</div>
 	</section>
 	<!-- END SIMILAR STYLES -->
