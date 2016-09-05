@@ -95,7 +95,6 @@
 					href="index.php?view=collection">
 	        <img src="images/collections/wedding_52.jpg" />
 	        <div class="gallery_details absolute opaque75 hidden">
-	          <h2>VICTORIA</h2>
 	          <p class="box">VIEW DRESS</p>
 	        </div>
 	      </a>
@@ -106,7 +105,6 @@
 					href="index.php?view=collection">
 					<img src="images/collections/wedding_52.jpg" />
 					<div class="gallery_details absolute opaque75 hidden">
-						<h2>VICTORIA</h2>
 						<p class="box">VIEW DRESS</p>
 					</div>
 				</a>
@@ -117,7 +115,6 @@
 					href="index.php?view=collection">
 					<img src="images/collections/wedding_52.jpg" />
 					<div class="gallery_details absolute opaque75 hidden">
-						<h2>VICTORIA</h2>
 						<p class="box">VIEW DRESS</p>
 					</div>
 				</a>
@@ -128,7 +125,6 @@
 					href="index.php?view=collection">
 					<img src="images/collections/wedding_52.jpg" />
 					<div class="gallery_details absolute opaque75 hidden">
-						<h2>VICTORIA</h2>
 						<p class="box">VIEW DRESS</p>
 					</div>
 				</a>

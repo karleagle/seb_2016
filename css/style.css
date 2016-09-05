@@ -663,6 +663,11 @@ section.similar_styles img{
 	width: 100%;
 }
 
+section.similar_styles p{
+	margin-bottom:-0.6em;
+	width: 8em;
+}
+
 
 /**************** REAL WEDDINGS *****************/
 section.bride_images{
