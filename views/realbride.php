@@ -48,11 +48,11 @@
   </p>
 	<section class="bride_images">
 	<!-- SHOW COLLECTION IMAGES -->
-		<img class="bridesmaids p1" src="images/collections/wedding_45.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-		<img class="bridesmaids p1" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-		<img class="bridesmaids l2" src="images/collections/wedding_72.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-		<img class="bridesmaids l2" src="images/collections/wedding_74.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-		<img class="bridesmaids l2" src="images/collections/wedding_54.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
+		<img class="" src="images/collections/wedding_45.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
+		<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
+		<img class="" src="images/collections/wedding_72.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
+		<img class="" src="images/collections/wedding_74.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
+		<img class="l_odd" src="images/collections/wedding_54.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
 	</section>
 	<!-- END MAIN BLOCK -->
 	</div>

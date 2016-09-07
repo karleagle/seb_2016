@@ -676,9 +676,13 @@ section.bride_images{
 }
 
 section.bride_images img{
-	width:100%;
-		max-width: 24em;
+	width:49.7%;
 }
+
+section.bride_images img.l_odd{
+	width:100%;
+}
+
 
 /****************** STOCKIST ********************/
 
@@ -1180,6 +1184,11 @@ footer h4 {
 		width:76%;
 		margin-left: 7%;
 		margin-right: 1%;
+	}
+
+	/* increase real wedding image size */
+		section.bride_images img{
+		width:100%;
 	}
 
 	/* shrink THE WORKROOM h2 */
