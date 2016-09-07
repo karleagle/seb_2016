@@ -35,10 +35,10 @@
 				<a href="#2">AUSTRALIA</a>
 			</li>
 			<li>
-				<a href="#3">GREAT BRITAIN</a>
+				<a href="#3">UNITED STATES</a>
 			</li>
 			<li>
-				<a href="#4">AMERICA</a>
+				<a href="#4">UNITED KINGDOM</a>
 			</li>
 			<li>
 				<a href="#5">EUROPE</a>
@@ -92,7 +92,7 @@
 			Phone <span class="dk_grey">03 356 0163</span>
 		</p>
   </div>
-  <h2 class="stockist">
+  <h2 class="stockist" id="2">
     AUSTRALIA
   </h2>
   <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
@@ -138,32 +138,7 @@
 			Phone <span class="dk_grey">0434 966 225</span>
 		</p>
   </div>
-	<h2 class="stockist">
-		UNITED KINGDOM
-	</h2>
-	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
-	<div class=" stockist">
-		<a class="underscore stockist ls_wide"
-			href="https://www.luellas.co.uk/collections/sally-eagle" target="_blank">
-			LUELLA&#39;S BRIDAL
-		</a>
-		<div>
-			<a class="ls_thin black link"
-				href="https://www.google.com/maps/place/Luella's+Bridal/@51.424179,-0.217066,17z/data=!4m5!3m4!1s0x487608cc084c7ff1:0x1afd7507343b352!8m2!3d51.425298!4d-0.217134?hl=en" target="_blank">
-				78a The High Street, London
-			</a>
-		</div>
-		<div>
-			<a class="email dk_grey ls_thin link"
-				href="mailto:boutique@luellas.co.uk">
-				boutique@luellas.co.uk
-			</a>
-		</div>
-		<p>
-			Phone <span class="dk_grey">020 8879 7744</span>
-		</p>
-	</div>
-	<h2 class="stockist">
+	<h2 class="stockist" id="3">
 		UNITED STATES
 	</h2>
 	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
@@ -272,7 +247,32 @@
 			Phone <span class="dk_grey">385 355 4436</span>
 		</p>
 	</div>
-	<h2 class="stockist">
+	<h2 class="stockist" id="4">
+		UNITED KINGDOM
+	</h2>
+	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+	<div class=" stockist">
+		<a class="underscore stockist ls_wide"
+			href="https://www.luellas.co.uk/collections/sally-eagle" target="_blank">
+			LUELLA&#39;S BRIDAL
+		</a>
+		<div>
+			<a class="ls_thin black link"
+				href="https://www.google.com/maps/place/Luella's+Bridal/@51.424179,-0.217066,17z/data=!4m5!3m4!1s0x487608cc084c7ff1:0x1afd7507343b352!8m2!3d51.425298!4d-0.217134?hl=en" target="_blank">
+				78a The High Street, London
+			</a>
+		</div>
+		<div>
+			<a class="email dk_grey ls_thin link"
+				href="mailto:boutique@luellas.co.uk">
+				boutique@luellas.co.uk
+			</a>
+		</div>
+		<p>
+			Phone <span class="dk_grey">020 8879 7744</span>
+		</p>
+	</div>
+	<h2 class="stockist" id="5">
 		EUROPE
 	</h2>
 	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
