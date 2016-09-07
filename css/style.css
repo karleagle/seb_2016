@@ -900,26 +900,23 @@ footer {
 }
 
 footer div  {
-	padding:0 2.4em;
+
 }
 
 footer ul {
+	border-right: 1px solid #e6e9f6;
 	display:inline;
 	float:left;
 	height:6em;
 	line-height:6em;
 	list-style-type:none;
+	padding:0 1.7em 0 2.2em;
 }
 
 footer li {
 	display:inline-block;
 	padding:2em 0.6em 2em 0;
 
-}
-
-footer li:last-child {
-	border-right:1px solid #e6e9f6;
-	padding:2em 2.2em 2em 0;
 }
 
 footer li a {
@@ -951,8 +948,9 @@ footer li a#instagram {
 
 footer h4 {
 	float:right;
-	line-height:6em;
 	font-weight:500;
+	margin-right:1.6em;
+	line-height:9.5em;
 }
 
 
@@ -1196,6 +1194,23 @@ footer h4 {
 
 	section.similar_styles div.second_styles{
 		display: none;
+	}
+
+	/* split footer */
+	footer {
+		text-align: center;
+	}
+
+	footer ul{
+		border:none;
+		display:block;
+		float:none;
+	}
+
+	footer h4{
+		float:none;
+		margin:0 0 1em;
+		line-height:1em;
 	}
 }
 

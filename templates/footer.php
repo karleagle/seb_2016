@@ -20,10 +20,10 @@
 						<a href="https://www.instagram.com/sally_eagle_bridal/" id="instagram" target="_blank">INSTAGRAM</a>
 					</li>
 				</ul>
-				<h4 class="blue ls_thin">
-					&copy; SALLY EAGLE BRIDAL LTD 2016&nbsp;&nbsp;|&nbsp;&nbsp;ALL RIGHTS RESERVED
-				</h4>
 			</div>
+			<h4 class="blue ls_thin">
+				&copy; SALLY EAGLE BRIDAL LTD 2016 <span class="light">ALL RIGHTS RESERVED</span>
+			</h4>
 		</nav>
 	</footer>
 	<!-- PIWIK -->
