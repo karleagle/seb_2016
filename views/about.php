@@ -31,11 +31,14 @@
   </div>
 	<div class="left_align padded">
 	  <p class="large blue">
-			As a designer, Sally Eagle&#39;s name has become synonymous with contemporary
-			but delicate wedding dresses. Her designs are both romantic and
+			As a designer, Sally Eagle&#39;s name has become synonymous with 
+			contemporary but delicate wedding dresses.
+	  </p>
+		<p>
+			Sally Eagle&#39;s designs are both romantic and
 			classic&#8212;wedding dresses that move with the bride,
 			yet won&#39;t lose their well&#45;constructed shape.
-	  </p>
+		</p>
 		<p>
 			Having planned her own wedding, for which she made her own wedding dress,
 			Sally understands that finding the perfect wedding dress can be a stressful time.

@@ -749,6 +749,12 @@ img.banner_image_1{
 	margin-right: .6%;
 }
 
+div.workroom{
+	font-size: 1.5em;
+	margin: 0.7em auto 0;
+	max-width: 30.2em;
+}
+
 /********************* ABOUT ********************/
 
 div.about {
@@ -990,8 +996,9 @@ footer h4 {
 	nav.main ul ul li,
 	ul.main ul li,
 	ul.main ul li:first-child,
-	nav.main ul li ul li:first-child{
-		margin:0 2.8% 0 2.8%;
+	nav.main ul li ul li:first-child,
+	div.submenu ul li{
+		margin:0 .73% 0 2.8%;
 	}
 
 	/* shrinking header */
@@ -1099,6 +1106,11 @@ footer h4 {
 		display:list-item;
 	}
 
+	/* hide persistent submenu */
+	div.submenu{
+		display:none;
+	}
+
 	/* realign top of page to menu */
 	div.content,.bgImg{
 		margin-top: 5.5em;
@@ -1116,6 +1128,7 @@ footer h4 {
 	div.titlebox{
 		height:2em;
 		margin-top: 13%;
+		padding: 0 1.5em;
 		width:65%;
 	}
 
@@ -1169,6 +1182,11 @@ footer h4 {
 		width:76%;
 		margin-left: 7%;
 		margin-right: 1%;
+	}
+
+	/* shrink THE WORKROOM h2 */
+	div.workroom{
+		font-size: 1.2em;
 	}
 
 	/* Drop two SIMILAR STYLES */

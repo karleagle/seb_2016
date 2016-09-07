@@ -67,11 +67,74 @@
 		<p>
 			Visitors are welcome but we only accommodate one bride-to-be at a time, so if you visit while we are taking a bride through her consultation you will unfortunately be unable to see the dresses.
 	    Therefore it is recommended that you book ahead, especially if you are looking to try dresses on.
-	    This ensures that you have the full attention of Ashleigh, Sally&#39;s trusted consultation assistant, as she takes you through a tailored experience to find your perfect wedding dress.
+	    This ensures that you have the full attention of Ashleigh, Sally&#39;s trusted bridal consultant, as she takes you through a tailored experience to find your perfect wedding dress.
 			You can book a consultation by <a class="ls_thin" href="mailto&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Website%20enquiry">emailing Ashleigh</a>, or call her on 020 4005 9959.
 		</p>
+		<div class="workroom">
+			<h2 class="blue underscore dress_name pad_1">
+	      THE WORKROOM
+	    </h2>
+		</div>
+		<p>
+			The other half of the floor is Sally's workroom.
+			This is where your dream dress is brought to life.
+			Sally takes pride in her designs and oversees the construction of every
+			dress. All work is completed on-site by her small, dedicated team of
+			experienced dressmakers and every dress is hand-made to order
+			specifically for each bride.
+		</p>
 	<!-- END MAIN BLOCK -->
+
 	</div>
+	<!-- START SIMILAR STYLES -->
+	<section class="similar_styles">
+		<div class="titlebox">
+			<h2>FRESH FROM THE WORKROOM</h2>
+		</div>
+		<div class="styles_gallery">
+			<div class="relative">
+	      <a class="hover_reveal"
+					href="index.php?view=collection">
+	        <img src="images/collections/wedding_52.jpg" />
+	        <div class="gallery_details absolute opaque75 hidden">
+	          <p class="box">VIEW DRESS</p>
+	        </div>
+	      </a>
+	    </div>
+
+			<div class="relative">
+				<a class="hover_reveal"
+					href="index.php?view=collection">
+					<img src="images/collections/wedding_52.jpg" />
+					<div class="gallery_details absolute opaque75 hidden">
+						<p class="box">VIEW DRESS</p>
+					</div>
+				</a>
+			</div>
+
+			<div class="relative second_styles">
+				<a class="hover_reveal"
+					href="index.php?view=collection">
+					<img src="images/collections/wedding_52.jpg" />
+					<div class="gallery_details absolute opaque75 hidden">
+						<p class="box">VIEW DRESS</p>
+					</div>
+				</a>
+			</div>
+
+			<div class="relative second_styles">
+				<a class="hover_reveal"
+					href="index.php?view=collection">
+					<img src="images/collections/wedding_52.jpg" />
+					<div class="gallery_details absolute opaque75 hidden">
+						<p class="box">VIEW DRESS</p>
+					</div>
+				</a>
+			</div>
+
+		</div>
+	</section>
+	<!-- END SIMILAR STYLES -->
 <?php // INCLUDE FOOTER
 	include('templates/footer.php');
 ?>

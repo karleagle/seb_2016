@@ -199,6 +199,56 @@
 		</p>
   </div>
 	<!-- END MAIN BLOCK -->
+
+	<!-- START SIMILAR STYLES -->
+	<section class="similar_styles">
+		<div class="titlebox">
+			<h2>FROM THE COLLECTION</h2>
+		</div>
+		<div class="styles_gallery">
+			<div class="relative">
+	      <a class="hover_reveal"
+					href="index.php?view=collection">
+	        <img src="images/collections/wedding_52.jpg" />
+	        <div class="gallery_details absolute opaque75 hidden">
+	          <p class="box">VIEW DRESS</p>
+	        </div>
+	      </a>
+	    </div>
+
+			<div class="relative">
+				<a class="hover_reveal"
+					href="index.php?view=collection">
+					<img src="images/collections/wedding_52.jpg" />
+					<div class="gallery_details absolute opaque75 hidden">
+						<p class="box">VIEW DRESS</p>
+					</div>
+				</a>
+			</div>
+
+			<div class="relative second_styles">
+				<a class="hover_reveal"
+					href="index.php?view=collection">
+					<img src="images/collections/wedding_52.jpg" />
+					<div class="gallery_details absolute opaque75 hidden">
+						<p class="box">VIEW DRESS</p>
+					</div>
+				</a>
+			</div>
+
+			<div class="relative second_styles">
+				<a class="hover_reveal"
+					href="index.php?view=collection">
+					<img src="images/collections/wedding_52.jpg" />
+					<div class="gallery_details absolute opaque75 hidden">
+						<p class="box">VIEW DRESS</p>
+					</div>
+				</a>
+			</div>
+
+		</div>
+	</section>
+	<!-- END SIMILAR STYLES -->
 <?php // INCLUDE FOOTER
 	include('templates/footer.php');
 ?>
