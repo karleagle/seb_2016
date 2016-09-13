@@ -446,7 +446,7 @@ div.border {
 
 div.holder{
 	height:20.7em;
-	width:76.063em;
+	width:75em;
 }
 
 /* BOX TITLE */
@@ -966,6 +966,11 @@ footer h4 {
 	/* IMAGEBOX */
 	div.image_container{
 		margin-bottom:0;
+	}
+
+	/* scroll on front page galleries */
+	div.border {
+		overflow-x:scroll;
 	}
 }
 
