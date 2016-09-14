@@ -678,7 +678,7 @@ section.bride_images{
 }
 
 section.bride_images img{
-	width:49.7%;
+	width:49.6%;
 }
 
 section.bride_images img.l_odd{
@@ -1194,6 +1194,10 @@ footer h4 {
 		width:76%;
 		margin-left: 7%;
 		margin-right: 1%;
+	}
+
+	section.bride_images img{
+		width:100%;
 	}
 
 	/* shrink THE WORKROOM h2 */
