@@ -17,6 +17,7 @@
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="js/menu_hover.js"></script>
+<script type="text/javascript" src="js/toggle_description.js"></script>
 
 <link rel="stylesheet" type="text/css" href="css/style.css" media="all" />
 <link rel="icon" type="image/ico" href="images/favicon.ico"/>
@@ -28,7 +29,7 @@
 ?>
   <div class="content left_align dresses">
     <div class="image_container">
-      <div class="image_thumbs">
+    	<img class="dress main" src="images/collections/wedding_45.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
 				<div class="overlay">
         	<img class="dress thumb" src="images/collections/wedding_45.jpg"
 					alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
@@ -41,41 +42,41 @@
         	<img class="dress thumb" src="images/collections/wedding_45.jpg"
 					alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
 				</div>
-      </div>
-    <img class="dress main" src="images/collections/wedding_45.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
     </div>
-		<div>
+		<div class="bp2_clear pad_1">
 	    <a class="lt_grey small ls_wide" href='index.php?view=gallery'>
 	      BACK TO VIEW ALL
 	    </a>
 		</div>
-    <h1 class="blue underscore dress_name">
+    <h1 class="blue underscore dress_name pad_1">
       AUDREY
     </h1>
-    <p>
+    <p class="pad_1">
       Audrey Hepburn was everybody&#39;s dream girl. The Audrey dress speaks of her glamour and sophisticated style. The dress is made from silk georgette that gently falls over the hips creating fullness at the hem. While Audrey is known for wearing simple shaped, elegant dresses she always glammed them up with a bit of sparkle and personality. The delicate beading on the bodice bring that hint of sparkle, while the bow on the shoulder drapes down giving the dress that feminine touch.
     </p>
     <a class="box enquire ls_wide" href='mail&#116;&#111;&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Dress%20enquiry%20-%20AUDREY'>
       ENQUIRE NOW
     </a>
     <!-- FABRIC CONTENT AND DRESS DETAILS -->
-    <section class="details box">
-      <h3 class="dk_grey">
+    <section class="details box pad_1em">
+      <h3 class="dk_grey fabric_content_button">
         FABRIC CONTENT
       </h3>
-      <p>
+			<img class="down_button fabric_content_button"src="images/icons/down_a.png" />
+      <p class="fabric_content">
         <span class="blue">Outer:</span> beaded lace, silk georgette; <span class="blue">Lining:</span> satin. Dry Clean only.
       </p>
-      <h3 class="dk_grey margin_top">
+      <h3 class="dk_grey margin_top dress_details_button">
         DRESS DETAILS
       </h3>
-      <p>
+			<img class="down_button dress_details_button"src="images/icons/down_a.png" />
+      <p class="dress_details">
         All Sally Eagle&#39;s collection wedding dresses are available in sizes 6 through to 16, with the hem length to be determined by fitting.
       </p>
-      <p>
+      <p class="dress_details">
         To ensure a perfect fit you can also have your dress made and fitted to your exact measurements at the Sally Eagle Bridal boutique in Wellington, New Zealand.
       </p>
-      <p>
+      <p class="dress_details">
         Proudly Made in New Zealand.
       </p>
     </section>
@@ -88,17 +89,47 @@
 		<div class="titlebox">
 			<h2>SIMILAR STYLES</h2>
 		</div>
-		<div class="border styles_gallery">
-			<div class="gallery_slide">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
-				<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot">
+		<div class="styles_gallery">
+			<div class="relative">
+	      <a class="hover_reveal"
+					href="index.php?view=collection">
+	        <img src="images/collections/wedding_52.jpg" />
+	        <div class="gallery_details absolute opaque75 hidden">
+	          <p class="box">VIEW DRESS</p>
+	        </div>
+	      </a>
+	    </div>
+
+			<div class="relative">
+				<a class="hover_reveal"
+					href="index.php?view=collection">
+					<img src="images/collections/wedding_52.jpg" />
+					<div class="gallery_details absolute opaque75 hidden">
+						<p class="box">VIEW DRESS</p>
+					</div>
+				</a>
 			</div>
+
+			<div class="relative second_styles">
+				<a class="hover_reveal"
+					href="index.php?view=collection">
+					<img src="images/collections/wedding_52.jpg" />
+					<div class="gallery_details absolute opaque75 hidden">
+						<p class="box">VIEW DRESS</p>
+					</div>
+				</a>
+			</div>
+
+			<div class="relative second_styles">
+				<a class="hover_reveal"
+					href="index.php?view=collection">
+					<img src="images/collections/wedding_52.jpg" />
+					<div class="gallery_details absolute opaque75 hidden">
+						<p class="box">VIEW DRESS</p>
+					</div>
+				</a>
+			</div>
+
 		</div>
 	</section>
 	<!-- END SIMILAR STYLES -->

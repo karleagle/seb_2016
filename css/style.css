@@ -103,8 +103,6 @@ a {
 /* ALIGN */
 .left_align{
   text-align:left;
-	padding-left: 1.5em;
-	padding-right: 1.2em;
 }
 
 /* PADDING */
@@ -166,6 +164,10 @@ div.content{
 
 .float_left{
 	float: left;
+}
+
+.clear{
+	clear: both;
 }
 
 /* OUTLINE */
@@ -444,7 +446,7 @@ div.border {
 
 div.holder{
 	height:20.7em;
-	width:76.063em;
+	width:75em;
 }
 
 /* BOX TITLE */
@@ -503,6 +505,7 @@ div.gallery{
 
 div.gallery_image_holder{
   display:inline-block;
+	overflow:hidden;
   padding:.375em;
 }
 
@@ -558,6 +561,7 @@ div.dresses{
 
 div.dresses p{
   width:100%;
+	max-width: inherit;
 }
 
 a.enquire{
@@ -570,7 +574,8 @@ section.details{
   border-color:#eceded;
   display:inline-block;
   padding:2em;
-  width:37.5em;
+	position:relative;
+	width:36.2em;
 }
 
 section.details h3.margin_top{
@@ -582,10 +587,17 @@ section.details p{
   font-size:1em;
 }
 
+section.details img.down_button{
+	float:right;
+	margin-top:-1.5em;
+}
+
 /*SEPARARTES*/
 h2.separates{
 	font-size:0.7em;
 	margin-bottom:.7em;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 h2.second_separate{
@@ -599,16 +611,14 @@ p.separates{
 /* IMAGEBOX */
 div.image_container{
   float:left;
-  width:680px;
-}
-
-div.image_thumbs{
-  float:left;
-  width:164px;
+	margin-bottom:5em;
+  width:42.5em;
 }
 
 img.dress.main{
-  width:483px;
+	float: left;
+	margin: 0 .45em .3em 0;
+  width:30.188em;
 }
 
 img.dress.thumb{
@@ -617,8 +627,9 @@ img.dress.thumb{
 }
 
 div.overlay{
+	display: inline-block;
 	position: relative;
-	width:157px;
+	width:9.813em;
 }
 
 div.overlay:after{
@@ -635,18 +646,28 @@ div.overlay:hover:after {
 }
 
 /* SIMILAR STYLES */
-section.similar_styles img{
-	height: inherit;
+section.similar_styles{
+	clear:both;
 }
 
 div.styles_gallery{
-	margin: 0 0.5%;
-	width:98.2%;
+	margin: .2em auto 0;
+	max-width: 50em;
+	width:100%;
 }
 
-div.gallery_slide{
-	height:29.5em;
-	width:159em;
+div.styles_gallery div.relative{
+		width: 24.4%;
+		display:inline-block;
+}
+
+section.similar_styles img{
+	width: 100%;
+}
+
+section.similar_styles p{
+	margin-bottom:-0.6em;
+	width: 8em;
 }
 
 
@@ -657,9 +678,13 @@ section.bride_images{
 }
 
 section.bride_images img{
-	width:100%;
-		max-width: 24em;
+	width:49.6%;
 }
+
+section.bride_images img.l_odd{
+	width:100%;
+}
+
 
 /****************** STOCKIST ********************/
 
@@ -716,6 +741,24 @@ div.boutique a.centered {
 
 div.boutique p {
   padding-bottom:.8em;
+}
+
+img.banner_image_1,
+img.banner_image_2{
+	float: left;
+	margin-bottom: 10%;
+	margin-top: 8%;
+	width: 49.7%;
+}
+
+img.banner_image_1{
+	margin-right: .6%;
+}
+
+div.workroom{
+	font-size: 1.5em;
+	margin: 0.7em auto 0;
+	max-width: 30.2em;
 }
 
 /********************* ABOUT ********************/
@@ -863,26 +906,23 @@ footer {
 }
 
 footer div  {
-	padding:0 2.4em;
+
 }
 
 footer ul {
+	border-right: 1px solid #e6e9f6;
 	display:inline;
 	float:left;
 	height:6em;
 	line-height:6em;
 	list-style-type:none;
+	padding:0 1.7em 0 2.2em;
 }
 
 footer li {
 	display:inline-block;
 	padding:2em 0.6em 2em 0;
 
-}
-
-footer li:last-child {
-	border-right:1px solid #e6e9f6;
-	padding:2em 2.2em 2em 0;
 }
 
 footer li a {
@@ -914,12 +954,26 @@ footer li a#instagram {
 
 footer h4 {
 	float:right;
-	line-height:6em;
-
+	font-weight:500;
+	margin-right:1.6em;
+	line-height:9.5em;
 }
 
 
 /***************** BREAK POINTS *****************/
+/* BP0: first reduction */
+@media all and (max-width: 74em) {
+	/* IMAGEBOX */
+	div.image_container{
+		margin-bottom:0;
+	}
+
+	/* scroll on front page galleries */
+	div.border {
+		overflow-x:scroll;
+	}
+}
+
 /* BP1: below "normal" width */
 @media all and (max-width: 55.7em) {
 	/* shrinking menu margins */
@@ -951,8 +1005,9 @@ footer h4 {
 	nav.main ul ul li,
 	ul.main ul li,
 	ul.main ul li:first-child,
-	nav.main ul li ul li:first-child{
-		margin:0 2.8% 0 2.8%;
+	nav.main ul li ul li:first-child,
+	div.submenu ul li{
+		margin:0 .73% 0 2.8%;
 	}
 
 	/* shrinking header */
@@ -980,9 +1035,48 @@ footer h4 {
 	div.bgImg.realbride{
 	  padding-bottom:27.5%;
 	}
+
+	/* dresses - dress details smaller */
+	section.details{
+    clear: both;
+	  display:block;
+	}
+
+	/* IMAGEBOX */
+	div.image_container{
+		margin-bottom:0;
+	  width:31.5em;
+	}
+
+	div.overlay{
+		margin:0 .15em 0 0;
+	}
 }
 
-/* BP2: Drop menu, shrink biggest text */
+/* BP2: dresses reduce to one column */
+@media all and (max-width: 50em) {
+	div.bp2_clear{
+		clear:both;
+	}
+
+	div.image_container{
+	  width:100%;
+	}
+
+	img.banner_image_1{
+		float: left;
+		margin-right: 0;
+		width: 100%;
+	}
+
+	img.banner_image_2{
+		display:none;
+	}
+
+	/* increase real wedding image size */
+}
+
+/* BP3: Drop menu, centralise, shrink biggest text */
 @media all and (max-width: 33.5em) {
 	/* mobile menu */
 	nav a.home_solo{
@@ -1023,6 +1117,11 @@ footer h4 {
 		display:list-item;
 	}
 
+	/* hide persistent submenu */
+	div.submenu{
+		display:none;
+	}
+
 	/* realign top of page to menu */
 	div.content,.bgImg{
 		margin-top: 5.5em;
@@ -1040,11 +1139,100 @@ footer h4 {
 	div.titlebox{
 		height:2em;
 		margin-top: 13%;
+		padding: 0 1.5em;
 		width:65%;
+	}
+
+	/* centralise elements */
+	h1.dress_name,
+	a.enquire{
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+	}
+
+	h1.dress_name{
+		text-align: center;
+		width:75%;
+	}
+
+	a.enquire{
+		width:11.03em;
+	}
+
+	/* set width of section to window % */
+	div.dresses{
+		padding-left: 0;
+	}
+
+	div.image_container{
+		width: 100%;
+	}
+
+	img.dress.main{
+		margin-left: 1%;
+		margin-right: 1%;
+		width: 98%;
+	}
+
+	.pad_1{
+		padding-left: 1%;
+		padding-right: 1%;
+	}
+
+	div.dresses p, h2.separates{
+		width: 98%;
+	}
+
+	div.overlay{
+		margin:0 0 0 1%;
+		width: 31.5%;
+	}
+
+	section.details{
+	  padding:2em;
+		width:76%;
+		margin-left: 7%;
+		margin-right: 1%;
+	}
+
+	section.bride_images img{
+		width:100%;
+	}
+
+	/* shrink THE WORKROOM h2 */
+	div.workroom{
+		font-size: 1.2em;
+	}
+
+	/* Drop two SIMILAR STYLES */
+	div.styles_gallery div.relative{
+		width: 49.3%;
+	}
+
+	section.similar_styles div.second_styles{
+		display: none;
+	}
+
+	/* split footer */
+	footer {
+		text-align: center;
+	}
+
+	footer ul{
+		border:none;
+		display:block;
+		float:none;
+	}
+
+	footer h4{
+		float:none;
+		margin:0 0 1em;
+		line-height:1em;
 	}
 }
 
-/* BP3: Fix BG in Auckland */
+/* BP4: Fix BG in Auckland */
 @media all and (max-width: 25.9em) {
 	/* tidy menu */
 	ul.main li,
@@ -1068,5 +1256,14 @@ footer h4 {
 
 	div.gallery_image_holder img{
 	  width:96%;
+	}
+
+	div.overlay{
+		margin:0 0 0 1%;
+		width: 31.2%;
+	}
+
+	section.details{
+		width:72%;
 	}
 }
