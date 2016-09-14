@@ -446,7 +446,7 @@ div.border {
 
 div.holder{
 	height:20.7em;
-	width:76.063em;
+	width:75em;
 }
 
 /* BOX TITLE */
@@ -596,6 +596,8 @@ section.details img.down_button{
 h2.separates{
 	font-size:0.7em;
 	margin-bottom:.7em;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 h2.second_separate{
@@ -965,6 +967,11 @@ footer h4 {
 	div.image_container{
 		margin-bottom:0;
 	}
+
+	/* scroll on front page galleries */
+	div.border {
+		overflow-x:scroll;
+	}
 }
 
 /* BP1: below "normal" width */
@@ -1145,7 +1152,8 @@ footer h4 {
 	}
 
 	h1.dress_name{
-		width:5.5em;
+		text-align: center;
+		width:75%;
 	}
 
 	a.enquire{
@@ -1172,7 +1180,7 @@ footer h4 {
 		padding-right: 1%;
 	}
 
-	div.dresses p{
+	div.dresses p, h2.separates{
 		width: 98%;
 	}
 
