@@ -31,4 +31,9 @@ $(document).ready(function(){
 		$(this).delay(400).slideUp(400);
 	});
 
+  // stop menu anchors running
+  $("a.no_click").click(function(event){
+    event.preventDefault();
+  });
+
 });

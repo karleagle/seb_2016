@@ -5,32 +5,29 @@
 			</a>
 			<ul class="main">
 				<li class="underline dropdown">
-					<a class=" under" href="index.php?view=gallery">BROWSE</a>
+					<a class="no_click under" href="index.php?view=g&a=c">BROWSE</a>
 					<ul class="opaque88 hidden">
-<!-- UNCOMMENT WHEN 'ALL DRESSES' SECTION PROPERLY FORMATTED
 						<li>
-							<a href="index.php?view=g">ALL DRESSES</a>
+							<a href="index.php?view=g&a=c">BRIDAL</a>
+						</li>
+						<li>
+							<a href="index.php?view=g&a=w">REAL BRIDES</a>
+						</li>
+						<li>
+							<a href="index.php?view=g&a=b">BRIDESMAIDS</a>
+						</li>
+						<li>
+							<a href="index.php?view=g&a=f">FLOWER GIRLS</a>
+						</li>
+	<!-- UNCOMMENT WHEN 'ACCESSORIES' ITEMS ARE LIVE
+						<li>
+							<a href="index.php?view=g&a=a">ACCESSORIES</a>
 						</li>
 -->
-						<li>
-							<a href="index.php?view=gallery&category=bridal">BRIDAL</a>
-						</li>
-						<li>
-							<a href="index.php?view=gallery&category=realbrides">REAL BRIDES</a>
-						</li>
-						<li>
-							<a href="index.php?view=gallery&category=bridesmaids">BRIDESMAIDS</a>
-						</li>
-						<li>
-							<a href="index.php?view=gallery&category=flowergirls">FLOWER GIRLS</a>
-						</li>
-						<li>
-							<a href="index.php?view=gallery&category=accessories">ACCESSORIES</a>
-						</li>
 					</ul>
 				</li>
 				<li class="underline dropdown">
-					<a class="" href="index.php?view=boutique">VISIT</a>
+					<a class="no_click" href="index.php?view=boutique">VISIT</a>
 					<ul class="opaque88 hidden">
 						<li>
 							<a href="index.php?view=boutique">WELLINGTON</a>
@@ -49,7 +46,7 @@
 				<li class="home_img">
 					<a class="home_img" href="index.php"><img src="images/icons/logo.png" id="logo" alt="Home"/></a>
 				</li>
-				<li class="underline dropdown about_menu">
+				<li class="underline no_sub about_menu">
 					<a class="" href="index.php?view=about">ABOUT</a>
 					<ul class="opaque88 about hidden">
 						<li>

@@ -1,7 +1,7 @@
 <?php
 	// PDO database definitions
-	define("DB", "mysql:host=localhost;dbname=seb");//mysql:host=mysql2.openhost.net.nz;dbname=seb
-	define("USER", "root");//karl
-	define("PASS", "");//WebsiteAdministrator0101
+	define("DB", "mysql:host=localhost;dbname=dev");//  mysql:host=mysql5.openhost.net.nz;dbname=karlsally_seb2017
+	define("USER", "root");// karls_admin
+	define("PASS", "");//WebsiteAdministrator0101 Eu0e17~y
 
 ?>

@@ -1,6 +1,6 @@
 <?php
-	/* include('classes/controller.php'); */
-	/* include('config.php'); */
+	include('classes/controller.php');
+	include('config.php');
 
 	/*	views are:
 		g=browse
@@ -35,19 +35,22 @@
 	}
 
 	switch($view){
-		case 'gallery':
+		case 'g':
 			gallery($item, $pg);
 			break;
-		case 'bridesmaids':
+		case 'b':
 			dress('b',$item);
 			break;
-		case 'flowergirls':
+		case 'f':
 			dress('f',$item);
 			break;
-		case 'collection':
+		case 'c':
 			dress('c',$item);
 			break;
-		case 'realbrides':
+		case 'acs':
+			dress('a',$item);
+			break;
+		case 'w':
 			realbride();
 			break;
 		case 'about':

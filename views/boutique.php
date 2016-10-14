@@ -1,10 +1,14 @@
+<?php
+// GET WEDDING DRESS DETAILS
+$block = new Block('c','4')
+?>
 <!DOCTYPE html>
 <html class="no-js">
 <head>
 <meta charset="UTF-8">
-<title>Sally Eagle presents Lan & Emmerson</title>
+<title>Sally Eagle&#39;s bridal boutique in Wellington</title>
 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-<meta name="description" content="See a Sally Eagle wedding dress, as worn at Lan & Emmerson's wedding" />
+<meta name="description" content="See Sally Eagle&#39;s full range of beautiful bridal dresses and vintage&#45;inspired wedding gowns in person at her gorgeous central Wellington bridal boutique." />
 <meta name="keywords" content="sally eagle, sally eagle bridal, vintage, vintage inspired, vintage wedding dress, vintage wedding gown, vintage bridal gown, wedding dress, wedding dresses, bridal dress, bridal dresses, bridal gown, bridal gowns, bridal wear, bridalwear, wedding dress designer, wedding dress designers, bridal gown designer, bridal gown designers, bridal dress design, bridal dress designer, bridal design, bridal designer, bridal designers, designer bridal, bridal dressmaker, wedding gown designer, wedding gown designers, wellington, willis st, willis street, bridal shop, wellington bridal shop, bridal store, wellington bridal, wellington bridal store, bridal boutique, wellington bridal boutique, wedding dress shop, wedding dress store, wedding dress boutique, wedding gown store, wedding gown shop, wedding gown boutique, bridesmaid, bridesmain dresses, bridesmaids dresses, ball dress, ball dresses, ball dress shops" />
 <meta name="robots" content="INDEX,FOLLOW" />
 
@@ -54,10 +58,11 @@
 			There you can show off each beautiful creation to your party as they relax with hot drinks or bubbles and nibbles.
 			There is no limit to your entourage but the area comfortably holds a bride-to-be and 4 of her guests,
 			so feel free to invite your friends and family to ooh and aah over how you look in each dress until you find the perfect one.
-			For more information on the consultation process, see the <a class="ls_thin" href="index.php&#63;view=process">process page</a>.
+<?php //For more information on the consultation process, see the <a class="ls_thin" href="index.php&#63;view=process">process page</a>.
+?>
 	  </p>
 	</div>
-	<img class="banner_image_1" src="images/boutique/boutique02.jpg" alt="A shot of the boutique" />
+	<img class="banner_image_1" src="images/boutique/boutique00.jpg" alt="A shot of the boutique" />
 	<img class="banner_image_2" src="images/boutique/boutique03.jpg" alt="A shot of the boutique" />
 	<div class="left_align padded">
 		<p>
@@ -87,53 +92,12 @@
 
 	</div>
 	<!-- START SIMILAR STYLES -->
-	<section class="similar_styles">
-		<div class="titlebox">
-			<h2>FRESH FROM THE WORKROOM</h2>
-		</div>
-		<div class="styles_gallery">
-			<div class="relative">
-	      <a class="hover_reveal"
-					href="index.php?view=collection">
-	        <img src="images/collections/wedding_52.jpg" />
-	        <div class="gallery_details absolute opaque75 hidden">
-	          <p class="box">VIEW DRESS</p>
-	        </div>
-	      </a>
-	    </div>
-
-			<div class="relative">
-				<a class="hover_reveal"
-					href="index.php?view=collection">
-					<img src="images/collections/wedding_52.jpg" />
-					<div class="gallery_details absolute opaque75 hidden">
-						<p class="box">VIEW DRESS</p>
-					</div>
-				</a>
-			</div>
-
-			<div class="relative second_styles">
-				<a class="hover_reveal"
-					href="index.php?view=collection">
-					<img src="images/collections/wedding_52.jpg" />
-					<div class="gallery_details absolute opaque75 hidden">
-						<p class="box">VIEW DRESS</p>
-					</div>
-				</a>
-			</div>
-
-			<div class="relative second_styles">
-				<a class="hover_reveal"
-					href="index.php?view=collection">
-					<img src="images/collections/wedding_52.jpg" />
-					<div class="gallery_details absolute opaque75 hidden">
-						<p class="box">VIEW DRESS</p>
-					</div>
-				</a>
-			</div>
-
-		</div>
-	</section>
+	<?php
+	$block->addBlock(
+		'4',
+		'FROM THE WORKROOM',
+		null
+	); ?>
 	<!-- END SIMILAR STYLES -->
 <?php // INCLUDE FOOTER
 	include('templates/footer.php');

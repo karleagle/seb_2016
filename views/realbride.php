@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+<?php
+// GET WEDDING DRESS DETAILS
+$dress = new Dress($_GET["a"], 'weddings');
+?><!DOCTYPE html>
 <html class="no-js">
 <head>
 <meta charset="UTF-8">
-<title>Sally Eagle presents Lan & Emmerson</title>
+<title>Sally Eagle presents <?php $dress->getName(); ?>'s wedding'</title>
 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-<meta name="description" content="See a Sally Eagle wedding dress, as worn at Lan & Emmerson's wedding" />
+<meta name="description" content="See a Sally Eagle wedding dress, as worn at <?php $dress->getName(); ?>'s wedding" />
 <meta name="keywords" content="sally eagle, sally eagle bridal, vintage, vintage inspired, vintage wedding dress, vintage wedding gown, vintage bridal gown, wedding dress, wedding dresses, bridal dress, bridal dresses, bridal gown, bridal gowns, bridal wear, bridalwear, wedding dress designer, wedding dress designers, bridal gown designer, bridal gown designers, bridal dress design, bridal dress designer, bridal design, bridal designer, bridal designers, designer bridal, bridal dressmaker, wedding gown designer, wedding gown designers, wellington, willis st, willis street, bridal shop, wellington bridal shop, bridal store, wellington bridal, wellington bridal store, bridal boutique, wellington bridal boutique, wedding dress shop, wedding dress store, wedding dress boutique, wedding gown store, wedding gown shop, wedding gown boutique, bridesmaid, bridesmain dresses, bridesmaids dresses, ball dress, ball dresses, ball dress shops" />
 <meta name="robots" content="INDEX,FOLLOW" />
 
@@ -28,34 +31,31 @@
 <?php // INCLUDE HEADER
 	include('templates/header.php');
 ?>
-	<div class="header bgImg white realbride">
-    <h1 class="underscore">LAN &amp; EMMERSON</h1>
+	<div class="header bgImg white realbride"
+			style="background-image:url(images/content/<?php echo $_GET["a"]; ?>-header.jpg)">
+    <h1 class="underscore"><?php $dress->getNameUpper(); ?></h1>
     <div>
-			<a class="white link" href="#">BACK TO VIEW ALL</a>
+			<a class="white link"
+				href='index.php?view=g&amp;a=w<?php
+					// GET THE GALLRY 'PAGE' THAT USER ARRIVED FROM SO THE 'BACK'
+					// HYPERLINK TAKES THEM TO THE SAME PLACE IN THE GALLERY
+					if (isset($_GET['page'])) {
+						echo '&amp;page=' . $_GET['page'];
+					}
+				?>'>BACK TO VIEW ALL</a>
 		</div>
   </div>
   <div class="titlebox">
-    <h2>LAN</h2>
+    <h2><?php $dress->getFirstNameUpper(); ?></h2>
   </div>
-  <p class="large blue padded">
-    Immediately after seeing Sally&#39;s dresses and talking to her on the phone I knew I&#39;d found something really special.
-  </p>
-  <p class="padded">
-    I cannot recommend her enough&#59; the whole process was so relaxed, easy and enjoyable&#8212;even with me living in Dunedin!
-  </p>
-  <p class="padded">
-    Sally took my initial vision and made it into something which completely blew my expectations out of the water. I loved every step as Sally made me feel completely at ease in her expert hands with her ideas, advice and obvious skill and talent.
-  </p>
+<?php $dress->getReview(); ?>
+
+
 	<section class="bride_images">
 	<!-- SHOW COLLECTION IMAGES -->
-		<img class="" src="images/collections/wedding_45.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-		<img class="" src="images/collections/wedding_52.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-		<img class="" src="images/collections/wedding_72.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-		<img class="" src="images/collections/wedding_74.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-		<img class="l_odd" src="images/collections/wedding_54.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
+<?php $dress->getWeddingImages(); ?>
 	</section>
 	<!-- END MAIN BLOCK -->
-	</div>
 <?php // INCLUDE FOOTER
 	include('templates/footer.php');
 ?>

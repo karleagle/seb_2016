@@ -1,10 +1,19 @@
+<?php
+// GET WEDDING DRESS DETAILS
+$dress = new Dress($_GET["a"], 'dresses');
+$collection = null;
+if ($_GET["view"] == 'c') {
+	$collection = $dress->details['collection'];
+}
+$block = new Block($_GET["view"], $collection)
+?>
 <!DOCTYPE html>
 <html class="no-js">
 <head>
 <meta charset="UTF-8">
-<title>Wedding Dress from Sally Eagle Bridal&#39;s Collection</title>
+<title><?php $dress->getName(); ?> <?php $dress->getTypeNameCap(); ?> from Sally Eagle&#39;s Bridal Collection</title>
 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-<meta name="description" content="Wedding dress by Sally Eagle Bridal" />
+<meta name="description" content="<?php $dress->getTypeNameCap(); ?> by Sally Eagle Bridal" />
 <meta name="keywords" content="sally eagle, sally eagle bridal, vintage, vintage inspired, vintage wedding dress, vintage wedding gown, vintage bridal gown, wedding dress, wedding dresses, bridal dress, bridal dresses, bridal gown, bridal gowns, bridal wear, bridalwear, wedding dress designer, wedding dress designers, bridal gown designer, bridal gown designers, bridal dress design, bridal dress designer, bridal design, bridal designer, bridal designers, designer bridal, bridal dressmaker, wedding gown designer, wedding gown designers, wellington, willis st, willis street, bridal shop, wellington bridal shop, bridal store, wellington bridal, wellington bridal store, bridal boutique, wellington bridal boutique, wedding dress shop, wedding dress store, wedding dress boutique, wedding gown store, wedding gown shop, wedding gown boutique, bridesmaid, bridesmain dresses, bridesmaids dresses, ball dress, ball dresses, ball dress shops" />
 <meta name="robots" content="INDEX,FOLLOW" />
 
@@ -18,43 +27,53 @@
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="js/menu_hover.js"></script>
 <script type="text/javascript" src="js/toggle_description.js"></script>
+<script type="text/javascript" src="js/gallery_swap.js"></script>
+
 
 <link rel="stylesheet" type="text/css" href="css/style.css" media="all" />
 <link rel="icon" type="image/ico" href="images/favicon.ico"/>
 </head>
 
 <body>
-<?php // INCLUDE HEADER
+<?php
+// INCLUDE HEADER
 	include('templates/header.php');
 ?>
   <div class="content left_align dresses">
+		<div class="dress_header">
+			<h1 class="blue underscore dress_name pad_1">
+				<?php
+					$dress->getNameUpper();
+				?>
+
+			</h1>
+		</div>
     <div class="image_container">
-    	<img class="dress main" src="images/collections/wedding_45.jpg" alt="Sally Eagle's 2015/2016 wedding dress and bridal wear collection shoot" />
-				<div class="overlay">
-        	<img class="dress thumb" src="images/collections/wedding_45.jpg"
-					alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
-				</div>
-				<div class="overlay">
-        	<img class="dress thumb" src="images/collections/wedding_45.jpg"
-					alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
-				</div>
-				<div class="overlay">
-        	<img class="dress thumb" src="images/collections/wedding_45.jpg"
-					alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
-				</div>
+<?php // POPULATE DRESS IMAGES
+$dress->setImages();
+?>
     </div>
 		<div class="bp2_clear pad_1">
-	    <a class="lt_grey small ls_wide" href='index.php?view=gallery'>
+	    <a class="lt_grey small ls_wide"
+				href='index.php?view=g&a=<?php
+					$dress->getType();
+
+					// GET THE GALLRY 'PAGE' THAT USER ARRIVED FROM SO THE 'BACK'
+					// HYPERLINK TAKES THEM TO THE SAME PLACE IN THE GALLERY
+					if (isset($_GET['page'])) {
+						echo '&amp;page=' . $_GET['page'];
+					}
+				?>'>
 	      BACK TO VIEW ALL
 	    </a>
 		</div>
-    <h1 class="blue underscore dress_name pad_1">
-      AUDREY
-    </h1>
-    <p class="pad_1">
-      Audrey Hepburn was everybody&#39;s dream girl. The Audrey dress speaks of her glamour and sophisticated style. The dress is made from silk georgette that gently falls over the hips creating fullness at the hem. While Audrey is known for wearing simple shaped, elegant dresses she always glammed them up with a bit of sparkle and personality. The delicate beading on the bodice bring that hint of sparkle, while the bow on the shoulder drapes down giving the dress that feminine touch.
-    </p>
-    <a class="box enquire ls_wide" href='mail&#116;&#111;&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Dress%20enquiry%20-%20AUDREY'>
+	<?php
+				$dress->getDesc();
+			?>
+    <a class="box enquire ls_wide"
+			href='mail&#116;&#111;&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%
+				&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Dress%20enquiry
+				%20-%20<?php $dress->getName(); ?>'>
       ENQUIRE NOW
     </a>
     <!-- FABRIC CONTENT AND DRESS DETAILS -->
@@ -62,21 +81,28 @@
       <h3 class="dk_grey fabric_content_button">
         FABRIC CONTENT
       </h3>
-			<img class="down_button fabric_content_button"src="images/icons/down_a.png" />
+			<img class="down_button fabric_content_button" src="images/icons/down_a.png" />
       <p class="fabric_content">
-        <span class="blue">Outer:</span> beaded lace, silk georgette; <span class="blue">Lining:</span> satin. Dry Clean only.
+        <span class="blue">Outer:</span> <?php
+					$dress->getFabric();
+				?>. Dry Clean only.
       </p>
       <h3 class="dk_grey margin_top dress_details_button">
         DRESS DETAILS
       </h3>
-			<img class="down_button dress_details_button"src="images/icons/down_a.png" />
-      <p class="dress_details">
-        All Sally Eagle&#39;s collection wedding dresses are available in sizes 6 through to 16, with the hem length to be determined by fitting.
+			<img class="down_button dress_details_button" src="images/icons/down_a.png" />
+<?php if ($_GET['view'] == 'f' || $_GET['view'] == 'acs') {/*No fitting*/} else { echo '
+	      <p class="dress_details">
+        All Sally Eagle&#39;s collection ' . $dress->typeName . 'es are available in sizes
+				6 through to 18.
       </p>
       <p class="dress_details">
-        To ensure a perfect fit you can also have your dress made and fitted to your exact measurements at the Sally Eagle Bridal boutique in Wellington, New Zealand.
+        To ensure a perfect fit you can also have your dress made and fitted to
+				your exact measurements at the Sally Eagle Bridal Boutique in
+				Wellington, New Zealand.
       </p>
-      <p class="dress_details">
+';
+}?>      <p class="dress_details">
         Proudly Made in New Zealand.
       </p>
     </section>
@@ -85,53 +111,16 @@
   <!-- END CONTENT BLOCK -->
   </div>
 	<!-- START SIMILAR STYLES -->
-	<section class="similar_styles">
-		<div class="titlebox">
-			<h2>SIMILAR STYLES</h2>
-		</div>
-		<div class="styles_gallery">
-			<div class="relative">
-	      <a class="hover_reveal"
-					href="index.php?view=collection">
-	        <img src="images/collections/wedding_52.jpg" />
-	        <div class="gallery_details absolute opaque75 hidden">
-	          <p class="box">VIEW DRESS</p>
-	        </div>
-	      </a>
-	    </div>
-
-			<div class="relative">
-				<a class="hover_reveal"
-					href="index.php?view=collection">
-					<img src="images/collections/wedding_52.jpg" />
-					<div class="gallery_details absolute opaque75 hidden">
-						<p class="box">VIEW DRESS</p>
-					</div>
-				</a>
-			</div>
-
-			<div class="relative second_styles">
-				<a class="hover_reveal"
-					href="index.php?view=collection">
-					<img src="images/collections/wedding_52.jpg" />
-					<div class="gallery_details absolute opaque75 hidden">
-						<p class="box">VIEW DRESS</p>
-					</div>
-				</a>
-			</div>
-
-			<div class="relative second_styles">
-				<a class="hover_reveal"
-					href="index.php?view=collection">
-					<img src="images/collections/wedding_52.jpg" />
-					<div class="gallery_details absolute opaque75 hidden">
-						<p class="box">VIEW DRESS</p>
-					</div>
-				</a>
-			</div>
-
-		</div>
-	</section>
+	<?php
+	$imageNumber = '4';
+	if ($_GET["view"] == 'f') {
+		$imageNumber = '2';
+	}
+	$block->addBlock(
+		$imageNumber,
+		'SIMILAR STYLES',
+		$_GET["a"]
+	); ?>
 	<!-- END SIMILAR STYLES -->
 <?php // INCLUDE FOOTER
 	include('templates/footer.php');

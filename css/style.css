@@ -125,6 +125,10 @@ a {
 	text-decoration:underline;
 }
 
+.no_click{
+	cursor: default; 
+}
+
 /****************** STRUCTURE ****************/
 
 div.content{
@@ -208,10 +212,13 @@ div.header h1{
 
 div.bgImg.realbride{
   padding-bottom:15em;
-  background-image:url('../images/collections/wedding_53.jpg');
 }
 
 div.bgImg.boutique{
+  background-image:url('../images/boutique/boutique02a.jpg');
+}
+
+div.bgImg.auckland{
   background-image:url('../images/boutique/boutique01.jpg');
 }
 
@@ -548,14 +555,36 @@ a.image_swap:hover img.hidden{
   display:inline-block;
 }
 
+/* PAGE COUNT */
+nav.browsePages{
+	font-size: 0.9em;
+	letter-spacing: 0.15em;
+	margin: 1.7em 0 6em;
+}
+
+nav.browsePages span {
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+nav.browsePages a,
+nav.browsePages span{
+	padding:0 0.5em;
+}
+
+nav.browsePages a:hover{
+	text-decoration: underline;
+}
+
 /******************** DRESS *********************/
 
-h1.dress_name{
-  margin:1em 0;
+div.dress_header{
+	display: inline-block;
+  margin-top:0.5em;
 }
 
 div.dresses{
-  margin-top:7em;
+  margin-top:5em;
 	padding-left:.3em;
 }
 
@@ -595,13 +624,7 @@ section.details img.down_button{
 /*SEPARARTES*/
 h2.separates{
 	font-size:0.7em;
-	margin-bottom:.7em;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-h2.second_separate{
-	margin-top:1.8em;
+	margin:1.8em auto .7em auto;
 }
 
 p.separates{
@@ -730,16 +753,19 @@ div.bar p{
 
 /****************** BOUTIQUE ********************/
 
-div.boutique {
+div.boutique,
+div.auckland {
   margin-bottom:6.5em;
 }
 
-div.boutique a.centered {
+div.boutique a.centered,
+div.auckland a.centered {
   display:inline-block;
   margin:6.66em 0;
 }
 
-div.boutique p {
+div.boutique p,
+div.auckland p {
   padding-bottom:.8em;
 }
 
@@ -1073,6 +1099,12 @@ footer h4 {
 		display:none;
 	}
 
+	/* refit Dresses h1*/
+	div.dress_header {
+    width:100%;
+    text-align:center;
+}
+
 	/* increase real wedding image size */
 }
 
@@ -1144,16 +1176,10 @@ footer h4 {
 	}
 
 	/* centralise elements */
-	h1.dress_name,
 	a.enquire{
 		display:block;
 		margin-left:auto;
 		margin-right:auto;
-	}
-
-	h1.dress_name{
-		text-align: center;
-		width:75%;
 	}
 
 	a.enquire{
@@ -1166,7 +1192,8 @@ footer h4 {
 	}
 
 	div.image_container{
-		width: 100%;
+		width: 101.81%;
+    margin: 0 -0.9%;
 	}
 
 	img.dress.main{
@@ -1254,8 +1281,13 @@ footer h4 {
 		background-size: 135%;
 	}
 
+	div.gallery_image_holder{
+	  padding:0;
+		width:100%;
+	}
+
 	div.gallery_image_holder img{
-	  width:96%;
+	  width:100%;
 	}
 
 	div.overlay{
