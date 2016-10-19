@@ -37,7 +37,7 @@
 		<div>
 	    <a class="ls_thin black contact link"
 	      href="https://www.google.co.nz/maps/place/Sally+Eagle+Bridal/@-41.2914281,174.7763628,17z/data=!4m5!3m4!1s0x6d38b02708301a8d:0xcb0272ff22e64c0d!8m2!3d-41.290618!4d174.777382" target="_blank">
-	      Level 1, Cuba Street, Wellington, New Zealand
+	      Level 1, 47 Cuba Street, Wellington, New Zealand
 	    </a>
 		</div>
 		<p>
