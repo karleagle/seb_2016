@@ -35,6 +35,9 @@ $block = new Block('c','4')
 				<a href="#">OCTOBER 2016</a>
 			</li>
 			<li>
+				<a href="#1">NOVEMBER 2016</a>
+			</li>
+			<li>
 				<a href="#2">DECEMBER 2016</a>
 			</li>
 		</ul>
@@ -52,8 +55,23 @@ $block = new Block('c','4')
 			"78a The High Street, London",
 			"boutique@luellas.co.uk",
 			"020 8879 7744",
+			"1"
+); ?>
+	<h2 class="stockist">
+    NOVEMBER 2016
+  </h2>
+  <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+<?php	Controller::addTrunkshow( //$city, $date, $website, $name, $map, $address, $email, $phone, $id
+			"MINNEAPOLIS, MN, USA",
+			"5&#8211;6 NOVEMBER",
+			"http://www.flutterboutique.com/",
+			"Flutter Boutique",
+			"https://goo.gl/maps/61xNwJzHBfk",
+			"104 W Franklin Ave #200, Minneapolis, MN 55404",
+			"info@flutterboutique.com",
+			"612 216 1926",
 			"2"
-	); ?>
+); ?>
   <h2 class="stockist">
     DECEMBER 2016
   </h2>
@@ -68,7 +86,7 @@ $block = new Block('c','4')
 			"info@brideboutiquela.com",
 			"323 921 5008",
 			""
-	); ?>
+); ?>
 	<!-- END MAIN BLOCK -->
 
 	<!-- START SIMILAR STYLES -->

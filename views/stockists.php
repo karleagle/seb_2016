@@ -95,7 +95,7 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
 <?php Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"http://aandbebridalshop.com/sally-eagle-intro",
-		"a&#38;b&#233; bridal shop",
+		"a&#38;b&#201; bridal shop",
 		"https://www.google.co.nz/maps/place/a%26b%C3%A9+bridal+shop/@39.7662274,-105.0108612,14z/data=!4m5!3m4!1s0x876c788d65825391:0x407c0d2ffcdd58d4!8m2!3d39.7658005!4d-105.0110084",
 		"1955 W 35th Ave, Denver",
 		"hellodnvr@aandbebridalshop.com",
@@ -104,7 +104,7 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"http://www.flutterboutique.com/#!sally-eagle-/c1i1x",
 		"FLUTTER BOUTIQUE",
-		"https://www.google.co.nz/maps/place/Flutter+Boutique/@44.962985,-93.280059,17z/data=!4m6!1m3!3m2!1s0x87f62788aa017ed1:0xeeb4a8bfa3f8bdbe!2sFlutter+Boutique!3m1!1s0x87f62788aa017ed1:0xeeb4a8bfa3f8bdbe",
+		"https://goo.gl/maps/61xNwJzHBfk",
 		"104 W Franklin Ave #200, Minneapolis",
 		"info@flutterboutique.com",
 		"720 627 5760"
