@@ -38,10 +38,13 @@
 				<a href="#3">UNITED STATES</a>
 			</li>
 			<li>
-				<a href="#4">UNITED KINGDOM</a>
+				<a href="#4">CANADA</a>
 			</li>
 			<li>
-				<a href="#5">EUROPE</a>
+				<a href="#5">UNITED KINGDOM</a>
+			</li>
+			<li>
+				<a href="#6">EUROPE</a>
 			</li>
 		</ul>
 	</div>
@@ -54,7 +57,7 @@
 		"THE HAVEN BRIDAL BOUTIQUE",
 		"https://www.google.com/maps/place/Foxes+Island+Wines/@-36.8591542,174.7447099,17z/data=!4m5!3m4!1s0x6d0d47960f3c4c89:0xc38a88e38520441f!8m2!3d-36.8591542!4d174.7468986?hl=en",
 		"15 Williamson Ave, Auckland",
-		"enquiries@sallyeagle.co.nz",
+		"thehavenbridal@gmail.com",
 		"021 0246 4189"
 );
 Controller::addStockist(
@@ -121,9 +124,18 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"http://www.schonebride.com/new-page-3",
 		"SCHONE BRIDE",
 		"https://goo.gl/maps/hAAEzyDEeoG2",
-		"530 3rd Avenue, Brooklyn NY 11215",
+		"530 3rd Avenue, Brooklyn NY",
 		"hello@schonebride.com",
 		"718 788 3849"
+);
+Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
+		"http://www.serendipitybridal.com/",
+		"SERENDIPITY BRIDAL",
+		"https://goo.gl/maps/GxvrG6kBHb12",
+		"West Anderson Plaza, 2438 W Anderson Ln #5, Austin",
+		"info@serendipitybridal.com",
+		"512 374 9492",
+		""
 );
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"http://www.somethingwhitebridalboutique.com/index.html",
@@ -144,6 +156,21 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 );
 ?>
 	<h2 class="stockist" id="4">
+		CANADA
+	</h2>
+	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+<?php
+Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
+		"http://www.pearlanddot.com/",
+		"PEARL &amp; DOT",
+		"https://goo.gl/maps/sWKShJXDkBM2",
+		"#213 1117 1st Street SW, Calgary",
+		"hello@pearlanddot.com",
+		"403 452 0244",
+		"5"
+);
+?>
+	<h2 class="stockist" id="5">
 		UNITED KINGDOM
 	</h2>
 	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
@@ -155,10 +182,10 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"78a The High Street, London",
 		"boutique@luellas.co.uk",
 		"020 8879 7744",
-		"5"
+		"6"
 );
 ?>
-	<h2 class="stockist" id="5">
+	<h2 class="stockist" id="6">
 		EUROPE
 	</h2>
 	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
