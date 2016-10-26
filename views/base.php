@@ -35,7 +35,7 @@
 		</div>
 		<section class="image_box">
 		<!-- SHOW COLLECTION IMAGES -->
-			<h1>2015/2016 BRIDAL COLLECTION</h1>
+			<h1>2016/2017 BRIDAL COLLECTION</h1>
 			<div class="image_box"> <!-- FRAME COLLECTION IMAGES -->
 				<p class="top_bar blue">&#95;&#95;&#95;&#95;</p>
 				<div class="border"> <!-- BORDER -->

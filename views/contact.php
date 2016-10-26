@@ -41,7 +41,7 @@
 	    </a>
 		</div>
 		<p>
-			Open Tuesday to Saturday, 10am to 4pm
+			Open Tuesday to Saturday, 10am to 5pm
 		</p>
 		<div>
 	    <a class="link dk_grey ls_thin contact"
