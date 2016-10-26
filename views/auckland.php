@@ -67,7 +67,7 @@
 			This ensures that you have the time and privacy required to
 			enjoy the experience and find your perfect wedding dress.
 			You can book a consultation by
-			<a class="ls_thin" href="mailto&#58;thehavenbridal@gmail.com">
+			<a class="ls_thin" href="mailto&#58;hello@thehavenbridal.co.nz">
 				emailing The Haven
 			</a>
 			 or calling on 021 0246 4189.

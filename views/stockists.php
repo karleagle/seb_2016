@@ -57,7 +57,7 @@
 		"THE HAVEN BRIDAL BOUTIQUE",
 		"https://www.google.com/maps/place/Foxes+Island+Wines/@-36.8591542,174.7447099,17z/data=!4m5!3m4!1s0x6d0d47960f3c4c89:0xc38a88e38520441f!8m2!3d-36.8591542!4d174.7468986?hl=en",
 		"15 Williamson Ave, Auckland",
-		"thehavenbridal@gmail.com",
+		"hello@thehavenbridal.co.nz",
 		"021 0246 4189"
 );
 Controller::addStockist(

@@ -32,7 +32,7 @@
       CONTACT SALLY
     </h1>
     <h2 class="ls_thin blue light">
-			Sally Eagle Boutique
+			Sally Eagle Bridal Boutique
 		</h2>
 		<div>
 	    <a class="ls_thin black contact link"
