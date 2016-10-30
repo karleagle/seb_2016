@@ -32,31 +32,17 @@ $block = new Block('c','4')
 	<div class="submenu ">
 		<ul class="opaque88">
 			<li>
-				<a href="#">OCTOBER 2016</a>
+				<a href="#">NOVEMBER 2016</a>
 			</li>
 			<li>
-				<a href="#1">NOVEMBER 2016</a>
+				<a href="#1">DECEMBER 2016</a>
 			</li>
 			<li>
-				<a href="#2">DECEMBER 2016</a>
+				<a href="#2">JANUARY 2017</a>
 			</li>
 		</ul>
 	</div>
-  <h2 class="stockist">
-    OCTOBER 2016
-  </h2>
-  <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
-<?php	Controller::addTrunkshow( //$city, $date, $website, $name, $map, $address, $email, $phone, $id
-			"LONDON, UK",
-			"18&#8211;22 OCTOBER",
-			"https://www.luellas.co.uk/collections/sally-eagle",
-			"Luella&#39;s Bridal",
-			"https://www.google.com/maps/place/Luella's+Bridal/@51.424179,-0.217066,17z/data=!4m5!3m4!1s0x487608cc084c7ff1:0x1afd7507343b352!8m2!3d51.425298!4d-0.217134?hl=en",
-			"78a The High Street, London",
-			"boutique@luellas.co.uk",
-			"020 8879 7744",
-			"1"
-); ?>
+
 	<h2 class="stockist">
     NOVEMBER 2016
   </h2>
@@ -70,7 +56,7 @@ $block = new Block('c','4')
 			"104 W Franklin Ave #200, Minneapolis, MN 55404",
 			"info@flutterboutique.com",
 			"612 216 1926",
-			"2"
+			"1"
 ); ?>
   <h2 class="stockist">
     DECEMBER 2016
@@ -85,6 +71,21 @@ $block = new Block('c','4')
 			"1528 1/2 Sunset Boulevard, Los Angeles, CA 90026",
 			"info@brideboutiquela.com",
 			"323 921 5008",
+			"2"
+); ?>
+  <h2 class="stockist">
+    JANUARY 2017
+  </h2>
+  <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+<?php	Controller::addTrunkshow( //$city, $date, $website, $name, $map, $address, $email, $phone, $id
+			"CALGARY, CANADA",
+			"20&#8211;22 JANUARY",
+			"http://www.pearlanddot.com/",
+			"PEARL &amp; DOT",
+			"https://goo.gl/maps/sWKShJXDkBM2",
+			"#213 1117 1st Street SW, Calgary",
+			"hello@pearlanddot.com",
+			"403 452 0244",
 			""
 ); ?>
 	<!-- END MAIN BLOCK -->
