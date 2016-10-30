@@ -81,7 +81,7 @@ $block = new Block('c','4')
 			"CALGARY, CANADA",
 			"20&#8211;22 JANUARY",
 			"http://www.pearlanddot.com/",
-			"PEARL &amp; DOT",
+			"Pearl &amp; Dot",
 			"https://goo.gl/maps/sWKShJXDkBM2",
 			"#213 1117 1st Street SW, Calgary",
 			"hello@pearlanddot.com",
