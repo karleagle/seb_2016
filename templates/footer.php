@@ -45,3 +45,15 @@
 	});
 	</script>
 	<noscript><p><img src="http://sallyeagle.co.nz/analytics/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+
+	<!-- GOOGLE ANALYTICS -->
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-26566795-1']);
+	  _gaq.push(['_trackPageview']);
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
