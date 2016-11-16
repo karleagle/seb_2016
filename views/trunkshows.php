@@ -88,7 +88,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
 <?php	Controller::addTrunkshow( //$city, $date, $website, $name, $map, $address, $email, $phone, $id
 			"CALGARY, CANADA",
-			"20&#8211;22 JANUARY",
+			"27&#8211;29 JANUARY",
 			"http://www.pearlanddot.com/",
 			"Pearl &amp; Dot",
 			"https://goo.gl/maps/sWKShJXDkBM2",
