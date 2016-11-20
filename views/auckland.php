@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>Sally Eagle&#39;s full range in Auckland</title>
 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-<meta name="description" content="See Sally Eagle&#39;s full range of wedding dresses at The Haven in Auckland" />
+<meta name="description" content="See Sally Eagle&#39;s full range of wedding dresses at The Haven Bridal Boutique in Auckland." />
 <meta name="keywords" content="sally eagle, sally eagle bridal, vintage, vintage inspired, vintage wedding dress, vintage wedding gown, vintage bridal gown, wedding dress, wedding dresses, bridal dress, bridal dresses, bridal gown, bridal gowns, bridal wear, bridalwear, wedding dress designer, wedding dress designers, bridal gown designer, bridal gown designers, bridal dress design, bridal dress designer, bridal design, bridal designer, bridal designers, designer bridal, bridal dressmaker, wedding gown designer, wedding gown designers, wellington, willis st, willis street, bridal shop, wellington bridal shop, bridal store, wellington bridal, wellington bridal store, bridal boutique, wellington bridal boutique, wedding dress shop, wedding dress store, wedding dress boutique, wedding gown store, wedding gown shop, wedding gown boutique, bridesmaid, bridesmain dresses, bridesmaids dresses, ball dress, ball dresses, ball dress shops" />
 <meta name="robots" content="INDEX,FOLLOW" />
 
