@@ -36,7 +36,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	include('templates/header.php');
 ?>
 	<div class="header white auckland bgImg">
-    <h1 class="underscore">THE HAVEN BRIDAL BOUTIQUE</h1>
+    <h1 class="underscore">
+			<a class="white"
+				href="http://www.thehavenbridal.co.nz/" target="_blank">
+				THE HAVEN BRIDAL BOUTIQUE
+			</a>
+		</h1>
     <div>
 			<a
         class="white link"
@@ -56,7 +61,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			of beautiful, hand&#45;made wedding dresses to Auckland!
 	  </p>
 	  <p>
-			Sally is stocking her latest bridal collection in full at The Haven Bridal Boutique.
+			Sally is stocking her latest bridal collection in full at
+			<a class="ls_thin"
+				href="http://www.thehavenbridal.co.nz/" target="_blank">
+				The Haven Bridal Boutique</a>.
 			The Haven is Auckland&#39;s newest bridal boutique, stocking
 			gorgeous designs from exclusive local and international bridal designers.
 	  </p>
