@@ -114,6 +114,14 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"720 627 5760"
 );
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
+		"http://www.altbrides.com/",
+		"ALT. BRIDES",
+		"https://goo.gl/maps/jt2FLw4Qa7k",
+		"709 Hyde Street, San Francisco",
+		"alt.brides@gmail.com",
+		"415 316 8062"
+);
+Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"http://www.flutterboutique.com/#!sally-eagle-/c1i1x",
 		"FLUTTER BOUTIQUE",
 		"https://goo.gl/maps/61xNwJzHBfk",
@@ -143,8 +151,7 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"https://goo.gl/maps/GxvrG6kBHb12",
 		"West Anderson Plaza, 2438 W Anderson Ln #5, Austin",
 		"info@serendipitybridal.com",
-		"512 374 9492",
-		""
+		"512 374 9492"
 );
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"http://www.somethingwhitebridalboutique.com/index.html",
@@ -152,15 +159,7 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"https://www.google.com/maps/place/Something+White+Bridal+Boutique/@39.0952613,-94.5834224,18z/data=!4m13!1m7!3m6!1s0x87c0f06806847b83:0xc0676a6f919ee0da!2s1510+Walnut+St,+Kansas+City,+MO+64108!3b1!8m2!3d39.0952852!4d-94.5825877!3m4!1s0x87c0f06806847b83:0xac8b1868ff9744d0!8m2!3d39.0952849!4d-94.5825984",
 		"1510 Walnut St, Kansas City",
 		"hello@somethingwhitebridalboutique.com",
-		"816 216 7454"
-);
-Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
-		"http://velvetbride.com/",
-		"VELVET BRIDE",
-		"https://www.google.co.nz/maps/place/Velvet+Bride/@46.8730896,-113.9923859,16z/data=!4m5!3m4!1s0x0:0x73832dd6f2f92521!8m2!3d46.8732294!4d-113.9925785",
-		"420 N Higgins Ave, Missoula",
-		"hello@velvetbride.com",
-		"406 529 0061",
+		"816 216 7454",
 		"4"
 );
 ?>
@@ -169,6 +168,24 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 	</h2>
 	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
 <?php
+Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
+		"http://www.everlyfinebridal.com/",
+		"EVERLY FINE BRIDAL",
+		"https://goo.gl/maps/t5M7Jv6eitr",
+		"3341 West Broadway, Vancouver",
+		"hello@everlyfinebridal.com",
+		"not available",
+		""
+);
+Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
+		"http://www.macheriebleue.com/",
+		"MA CH&#201;RIE BLEUE",
+		"https://goo.gl/maps/T5puFfzXM132",
+		"303 Chemin de la Grande-C&#244;te, Rosem&#232;re",
+		"info@macheriebleue.com",
+		"450 818 8388",
+		""
+);
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"http://www.pearlanddot.com/",
 		"PEARL &amp; DOT",

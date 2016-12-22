@@ -41,47 +41,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="submenu ">
 		<ul class="opaque88">
 			<li>
-				<a href="#">NOVEMBER 2016</a>
+				<a href="#">JANUARY 2017</a>
 			</li>
 			<li>
-				<a href="#1">DECEMBER 2016</a>
-			</li>
-			<li>
-				<a href="#2">JANUARY 2017</a>
+				<a href="#1">FEBRUARY 2017</a>
 			</li>
 		</ul>
 	</div>
 
-	<h2 class="stockist">
-    NOVEMBER 2016
-  </h2>
-  <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
-<?php	Controller::addTrunkshow( //$city, $date, $website, $name, $map, $address, $email, $phone, $id
-			"MINNEAPOLIS, MN, USA",
-			"5&#8211;6 NOVEMBER",
-			"http://www.flutterboutique.com/",
-			"Flutter Boutique",
-			"https://goo.gl/maps/61xNwJzHBfk",
-			"104 W Franklin Ave #200, Minneapolis, MN 55404",
-			"info@flutterboutique.com",
-			"612 216 1926",
-			"1"
-); ?>
-  <h2 class="stockist">
-    DECEMBER 2016
-  </h2>
-  <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
-<?php	Controller::addTrunkshow( //$city, $date, $website, $name, $map, $address, $email, $phone, $id
-			"LOS ANGELES, CA, USA",
-			"3&#8211;4 DECEMBER",
-			"http://brideboutiquela.com/contact/",
-			"Bride Boutique LA",
-			"https://goo.gl/maps/61mbcnAaK9m",
-			"1528 1/2 Sunset Boulevard, Los Angeles, CA 90026",
-			"info@brideboutiquela.com",
-			"323 921 5008",
-			"2"
-); ?>
   <h2 class="stockist">
     JANUARY 2017
   </h2>
@@ -95,7 +62,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			"#213 1117 1st Street SW, Calgary",
 			"hello@pearlanddot.com",
 			"403 452 0244",
-			""
+			"1"
+); ?>
+<h2 class="stockist">
+	FEBRUARY 2017
+</h2>
+<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+<?php	Controller::addTrunkshow( //$city, $date, $website, $name, $map, $address, $email, $phone, $id
+		"SAN FRANSISCO, CA",
+		"10&#8211;12 FEBRUARY",
+		"http://www.altbrides.com/",
+		"Alt. Brides",
+		"https://goo.gl/maps/jt2FLw4Qa7k",
+		"709 Hyde Street, San Francisco",
+		"alt.brides@gmail.com",
+		"415 316 8062",
+		""
 ); ?>
 	<!-- END MAIN BLOCK -->
 
