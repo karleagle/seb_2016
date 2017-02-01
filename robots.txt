@@ -4,3 +4,5 @@ Allow: /
 User-agent: *
 Disallow: /dev/
 Disallow: /analytics/
+Disallow: privacy_policy.php
+Disallow: stockist_policy.php
