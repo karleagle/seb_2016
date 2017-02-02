@@ -62,7 +62,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </h2>
   <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
 <?php Controller::addStockist(
-		"http://www.thehavenbridal.co.nz/",
+		"http://www.thehavenbridal.co.nz/sally-eagle/",
 		"THE HAVEN BRIDAL BOUTIQUE",
 		"https://www.google.com/maps/place/Foxes+Island+Wines/@-36.8591542,174.7447099,17z/data=!4m5!3m4!1s0x6d0d47960f3c4c89:0xc38a88e38520441f!8m2!3d-36.8591542!4d174.7468986?hl=en",
 		"15 Williamson Ave, Auckland",
@@ -114,7 +114,7 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"720 627 5760"
 );
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
-		"http://www.altbrides.com/",
+		"http://www.altbrides.com/sally-eagle",
 		"ALT. BRIDES",
 		"https://goo.gl/maps/jt2FLw4Qa7k",
 		"709 Hyde Street, San Francisco",
@@ -122,15 +122,15 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"415 316 8062"
 );
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
-		"http://www.flutterboutique.com/#!sally-eagle-/c1i1x",
+		"http://www.flutterboutique.com/sally-eagle-",
 		"FLUTTER BOUTIQUE",
-		"https://goo.gl/maps/61xNwJzHBfk",
-		"104 W Franklin Ave #200, Minneapolis",
+		"https://goo.gl/maps/7cwU9E41J2m",
+		"43 Main Street SE, Suite 141, Minneapolis",
 		"info@flutterboutique.com",
 		"720 627 5760"
 );
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
-		"http://www.harlowbrides.com/index.html",
+		"http://harlowbrides.com/designers/sally-eagle/",
 		"HARLOW BRIDES",
 		"https://www.google.co.nz/maps/place/Harlow+Brides/@40.7017578,-111.8880121,13.75z/data=!4m5!3m4!1s0x87528a7e0a5dfb13:0xc9a918fcbbea9526!8m2!3d40.699645!4d-111.862725",
 		"988 E 3300 S, Salt Lake City",
@@ -169,7 +169,7 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
 <?php
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
-		"http://www.everlyfinebridal.com/",
+		"http://www.everlyfinebridal.com/se-wedding-gowns.html",
 		"EVERLY FINE BRIDAL",
 		"https://goo.gl/maps/t5M7Jv6eitr",
 		"3341 West Broadway, Vancouver",
@@ -178,7 +178,7 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		""
 );
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
-		"http://www.macheriebleue.com/",
+		"http://www.macheriebleue.com/weddingdresses",
 		"MA CH&#201;RIE BLEUE",
 		"https://goo.gl/maps/T5puFfzXM132",
 		"303 Chemin de la Grande-C&#244;te, Rosem&#232;re",
