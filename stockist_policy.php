@@ -73,6 +73,10 @@
 		</div>
 	  <p>
 			When the order is nearing completion we will send an invoice for the remainder of the order, due for payment on the expected sending date.
+			Note that this invoice does not cover the cost of any local customs charges and taxes.
+			Please make your own enquiries as to any potential additional costs.
+		</p>
+		<p>
 			If there are outstanding amounts from previous invoices unpaid we will contact you to address this.
 			To avoid account build-up, if your account balance reaches an unreasonable amount we may withhold further dresses until it is reduced.
 	  </p>
