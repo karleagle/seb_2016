@@ -38,32 +38,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <?php // INCLUDE HEADER
 	include('templates/header.php');
 ?>
+<!--
 	<div class="submenu ">
 		<ul class="opaque88">
 			<li>
-				<a href="#">JANUARY 2017</a>
+				<a href="#">FEBRUARY 2017</a>
 			</li>
 			<li>
 				<a href="#1">FEBRUARY 2017</a>
 			</li>
 		</ul>
 	</div>
-
-  <h2 class="stockist">
-    JANUARY 2017
-  </h2>
-  <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
-<?php	Controller::addTrunkshow( //$city, $date, $website, $name, $map, $address, $email, $phone, $id
-			"CALGARY, CANADA",
-			"27&#8211;29 JANUARY",
-			"http://www.pearlanddot.com/",
-			"Pearl &amp; Dot",
-			"https://goo.gl/maps/sWKShJXDkBM2",
-			"#213 1117 1st Street SW, Calgary",
-			"hello@pearlanddot.com",
-			"403 452 0244",
-			"1"
-); ?>
+-->
 <h2 class="stockist">
 	FEBRUARY 2017
 </h2>
@@ -71,7 +57,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <?php	Controller::addTrunkshow( //$city, $date, $website, $name, $map, $address, $email, $phone, $id
 		"SAN FRANSISCO, CA",
 		"10&#8211;12 FEBRUARY",
-		"http://www.altbrides.com/",
+		"http://www.altbrides.com/trunk-shows/",
 		"Alt. Brides",
 		"https://goo.gl/maps/jt2FLw4Qa7k",
 		"709 Hyde Street, San Francisco",
