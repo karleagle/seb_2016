@@ -178,7 +178,7 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		""
 );
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
-		"http://www.macheriebleue.com/weddingdresses",
+		"https://www.macheriebleue.com/weddingdresses",
 		"MA CH&#201;RIE BLEUE",
 		"https://goo.gl/maps/T5puFfzXM132",
 		"303 Chemin de la Grande-C&#244;te, Rosem&#232;re",

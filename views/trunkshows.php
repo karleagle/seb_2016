@@ -55,14 +55,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </h2>
 <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
 <?php	Controller::addTrunkshow( //$city, $date, $website, $name, $map, $address, $email, $phone, $id
-		"SAN FRANSISCO, CA",
-		"10&#8211;12 FEBRUARY",
-		"http://www.altbrides.com/trunk-shows/",
-		"Alt. Brides",
-		"https://goo.gl/maps/jt2FLw4Qa7k",
-		"709 Hyde Street, San Francisco",
-		"alt.brides@gmail.com",
-		"415 316 8062",
+		"ROSM&#200;RE, CANADA",
+		"14 FEBRUARY&#8211;3 MARCH",
+		"https://www.macheriebleue.com/weddingdresses",
+		"Ma Ch&#233;rie Bleue",
+		"https://goo.gl/maps/T5puFfzXM132",
+		"303 Chemin de la Grande-C&#244;te",
+		"info@macheriebleue.com",
+		"450 818 8388",
 		""
 ); ?>
 	<!-- END MAIN BLOCK -->
