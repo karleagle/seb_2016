@@ -29,6 +29,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="stylesheet" type="text/css" href="css/style.css" media="all" />
 <link rel="icon" type="image/ico" href="images/favicon.ico"/>
+
+<!-- Pinterest -->
+<meta name="p:domain_verify" content="a3a81e646c8cc99b5a317980f11b4056"/>
+
 </head>
 
 <body>
