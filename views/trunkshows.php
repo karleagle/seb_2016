@@ -38,18 +38,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <?php // INCLUDE HEADER
 	include('templates/header.php');
 ?>
-<!--
 	<div class="submenu ">
 		<ul class="opaque88">
 			<li>
 				<a href="#">FEBRUARY 2017</a>
 			</li>
 			<li>
-				<a href="#1">FEBRUARY 2017</a>
+				<a href="#1">APRIL 2017</a>
 			</li>
 		</ul>
 	</div>
--->
+
 <h2 class="stockist">
 	FEBRUARY 2017
 </h2>
@@ -63,6 +62,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		"303 Chemin de la Grande-C&#244;te",
 		"info@macheriebleue.com",
 		"450 818 8388",
+		"1"
+); ?>
+<h2 class="stockist">
+	APRIL 2017
+</h2>
+<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+<?php	Controller::addTrunkshow( //$city, $date, $website, $name, $map, $address, $email, $phone, $id
+		"CHRISTCHURCH, NEW ZEALAND",
+		"21&#8211;23 APRIL",
+		"http://www.millefeuille.co.nz/new-page-2",
+		"Mille Feuille",
+		"https://www.google.co.nz/maps/place/Mille+Feuille/@-43.5809392,172.560495,17z/data=!3m1!4b1!4m5!3m4!1s0x6d318bb59ef7ec77:0xe0bf8c6522f01881!8m2!3d-43.5809431!4d172.5626837",
+		"29 Nicholls Rd, Christchurch",
+		"info@millefeuille.co.nz",
+		"03 356 0163",
 		""
 ); ?>
 	<!-- END MAIN BLOCK -->
