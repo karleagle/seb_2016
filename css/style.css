@@ -1003,7 +1003,7 @@ div.subheading {
 
 
 
-div.policy ul {
+div.policy ul, div.policy ol {
 	font-size: .875em;
 	line-height: 2em;
 	margin: 0 auto 0;
