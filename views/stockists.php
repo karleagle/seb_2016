@@ -55,6 +55,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<li>
 				<a href="#6">EUROPE</a>
 			</li>
+			<li>
+				<a href="#7">SINGAPORE</a>
+			</li>
 		</ul>
 	</div>
   <h2 class="stockist">
@@ -223,6 +226,20 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"Altstadt 5, 4020 Linz, Austria",
 		"love@feinstens.com",
 		"664 150 3150"
+);
+?>
+	<h2 class="stockist" id="7">
+		SINGAPORE
+	</h2>
+	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+<?php
+Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
+		"https://www.friedabrides.com/sally-eagle/",
+		"FRIEDA BRIDES",
+		"https://goo.gl/maps/rYFJb2zsWh92",
+		"45 Kampong Bahru Rd, Singapore",
+		"info@friedabrides.com",
+		"+65 92280190"
 );
 ?>
 	<!-- END MAIN BLOCK -->
