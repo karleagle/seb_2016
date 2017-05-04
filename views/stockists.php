@@ -108,14 +108,7 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		UNITED STATES
 	</h2>
 	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
-<?php Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
-		"http://aandbebridalshop.com/sally-eagle-intro",
-		"a&#38;b&#201; bridal shop",
-		"https://www.google.co.nz/maps/place/a%26b%C3%A9+bridal+shop/@39.7662274,-105.0108612,14z/data=!4m5!3m4!1s0x876c788d65825391:0x407c0d2ffcdd58d4!8m2!3d39.7658005!4d-105.0110084",
-		"1955 W 35th Ave, Denver",
-		"hellodnvr@aandbebridalshop.com",
-		"720 627 5760"
-);
+<?php
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"http://www.altbrides.com/sally-eagle",
 		"ALT. BRIDES",
