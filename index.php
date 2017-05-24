@@ -53,8 +53,11 @@
 		case 'w':
 			realbride();
 			break;
-		case 'about':
+		case 'about': //ABOUT SALLY
 			boutique('a');
+			break;
+		case 'faq':
+			boutique('f');
 			break;
 		case 'boutique':
 			boutique('b');
@@ -99,6 +102,8 @@
 			include('views/about.php');
 		} elseif (isset($a) && $a == "akl") {
 			include('views/auckland.php');
+		} elseif (isset($a) && $a == "f") {
+			include('views/faq.php');
 		} else {
 			include('views/boutique.php');
 		}

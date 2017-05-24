@@ -334,7 +334,7 @@ nav.main ul ul{
 }
 
 nav.main ul ul.about{
-  padding-left:54%;
+  padding-left:36%;
 }
 
 nav.main ul ul li{
@@ -804,6 +804,24 @@ div.darken::before{
     opacity: 0.65;
 }
 
+/********************** FAQ *********************/
+
+div.faq h2 {
+	font-size: 1em;
+	letter-spacing: 0.1em;
+  margin:2.5em auto -0.5em;
+	max-width: 45.4em;
+}
+
+div.darken::before{
+    content: '\A';
+		position:absolute;
+    width: 100%; height:100%;
+    top:0; left:0;
+    background:rgba(0,0,0,0.65);
+    opacity: 0.65;
+}
+
 /******************* READ MORE ******************/
 #readMore{
 	text-decoration: underline;
@@ -1168,7 +1186,7 @@ div.policy ul, div.policy ol {
 	}
 
 	nav.main ul ul.about{
-		padding-left:48%;
+		padding-left:3%;
 	}
 
 	nav.main ul ul li{

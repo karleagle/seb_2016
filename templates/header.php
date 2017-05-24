@@ -16,9 +16,6 @@
 						<li>
 							<a href="index.php?view=g&a=b">BRIDESMAIDS</a>
 						</li>
-						<li>
-							<a href="index.php?view=g&a=f">FLOWER GIRLS</a>
-						</li>
 	<!-- UNCOMMENT WHEN 'ACCESSORIES' ITEMS ARE LIVE
 						<li>
 							<a href="index.php?view=g&a=a">ACCESSORIES</a>
@@ -46,14 +43,14 @@
 				<li class="home_img">
 					<a class="home_img" href="index.php"><img src="images/icons/logo.png" id="logo" alt="Home"/></a>
 				</li>
-				<li class="underline no_sub about_menu">
-					<a class="" href="index.php?view=about">ABOUT</a>
+				<li class="underline about_menu">
+					<a class="no_click" href="index.php?view=about">ABOUT</a>
 					<ul class="opaque88 about hidden">
 						<li>
 							<a href="index.php?view=about">SALLY EAGLE</a>
 						</li>
 						<li>
-							<a href="index.php?view=process">THE PROCESS</a>
+							<a href="index.php?view=faq">FREQUENTLY ASKED QUESTIONS</a>
 						</li>
 					</ul>
 				</li>
