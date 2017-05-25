@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+<?php
+// GET WEDDING DRESS DETAILS
+$block = new Block('c','4')
+?><!DOCTYPE html>
 <html class="no-js">
 <head>
 <meta charset="UTF-8">
@@ -151,10 +154,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			Yes we do! We will ship your dress to you wherever you are based around the world.
 		</p>
 	</div>
-	<img class="banner_image_1" src="images/sally2.jpg" alt="Sally Eagle" />
-	<img class="banner_image_2" src="images/sally3.jpg" alt="Sally Eagle" />
 	<!-- END MAIN BLOCK -->
-	</div>
+
+	<!-- START SIMILAR STYLES -->
+	<?php
+	$block->addBlock(
+		'4',
+		'FROM THE COLLECTION',
+		null
+	); ?>
+	<!-- END SIMILAR STYLES -->
+
 <?php // INCLUDE FOOTER
 	include('templates/footer.php');
 ?>
