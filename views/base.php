@@ -56,7 +56,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="relative float_left p1">
 							<a class="hover_reveal"
 								href="index.php?view=c&a=88">
-								<img class="collection p1" src="images/collections/dusk/dusk_02.jpg" alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
+								<img class="collection p1" 
+									src="images/collections/dusk/dusk_02.jpg"
+									alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
 				        </div>
@@ -65,7 +67,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="relative float_left l1">
 							<a class="hover_reveal"
 								href="index.php?view=c&a=86">
-								<img class="collection l1" src="images/collections/dusk/dusk_06.jpg" alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
+								<img class="collection l1"
+									src="images/collections/dusk/dusk_06.jpg"
+									alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
 				        </div>
@@ -74,7 +78,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="relative float_left p1">
 							<a class="hover_reveal"
 								href="index.php?view=c&a=85">
-								<img class="collection p1" src="images/collections/dusk/dusk_14.jpg" alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
+								<img class="collection p1"
+									src="images/collections/dusk/dusk_14.jpg"
+									alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
 				        </div>
@@ -83,7 +89,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="relative float_left l2">
 							<a class="hover_reveal"
 								href="index.php?view=c&a=88">
-								<img class="collection l2" src="images/collections/dusk/dusk_01.jpg" alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
+								<img class="collection l2"
+									src="images/collections/dusk/dusk_01.jpg"
+									alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
 				        </div>
@@ -92,7 +100,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="relative float_left l3">
 							<a class="hover_reveal"
 								href="index.php?view=c&a=87">
-								<img class="collection l2" src="images/collections/dusk/dusk_04.jpg" alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
+								<img class="collection l2"
+									src="images/collections/dusk/dusk_04.jpg"
+									alt="Sally Eagle's 2017 wedding dress and bridal wear collection shoot" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
 				        </div>
@@ -144,10 +154,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						</div>
 						<div class="relative float_left l2">
 							<a class="hover_reveal"
-								href="index.php?view=w&a=74">
+								href="index.php?view=w&a=90">
 								<img class="collection l2"
 									src="images/content/90-2.jpg"
-									alt="Holly's wedding dress as designed by Sally Eagle" />
+									alt="Emma's wedding dress as designed by Sally Eagle" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
 				        </div>
@@ -155,10 +165,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						</div>
 						<div class="relative float_left l3">
 							<a class="hover_reveal"
-								href="index.php?view=w&a=55">
+								href="index.php?view=w&a=89">
 								<img class="collection l2"
 									src="images/content/89-3.jpg"
-									alt="Dora's wedding dress as designed by Sally Eagle" />
+									alt="Mei's wedding dress as designed by Sally Eagle" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
 				        </div>
