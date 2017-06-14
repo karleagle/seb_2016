@@ -146,7 +146,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							<a class="hover_reveal"
 								href="index.php?view=w&a=74">
 								<img class="collection l2"
-									src="images/content/74-2.jpg"
+									src="images/content/90-2.jpg"
 									alt="Holly's wedding dress as designed by Sally Eagle" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
@@ -157,7 +157,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							<a class="hover_reveal"
 								href="index.php?view=w&a=55">
 								<img class="collection l2"
-									src="images/content/55-2.jpg"
+									src="images/content/89-3.jpg"
 									alt="Dora's wedding dress as designed by Sally Eagle" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
