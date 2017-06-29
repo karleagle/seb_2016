@@ -101,7 +101,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</h2>
 		<p>
 			Yes you are welcome to involve your overseas relatives and friends.
-			We realise that they may not be able to make it to your appointment so whilst you cannot take photos you can skype or facetime your loved ones.
+			We understand that they may not be able to make it to your appointment so whilst you cannot take photos you can skype or facetime your loved ones.
 	  </p>
 		<h2 class="blue">
 			Do you have a cancelation policy?

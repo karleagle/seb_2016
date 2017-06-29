@@ -79,10 +79,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			You can sneak a chocolate or two if you like, before heading in to your consultation.
 		</p>
 		<p>
-			Visitors are welcome but we only accommodate one bride-to-be at a time, so if you visit while we are taking a bride through her consultation you will unfortunately be unable to see the dresses.
-	    Therefore it is recommended that you book ahead, especially if you are looking to try dresses on.
-	    This ensures that you have the full attention of Ashleigh, Sally&#39;s trusted bridal consultant, as she takes you through a tailored experience to find your perfect wedding dress.
-			You can book a consultation by <a class="ls_thin" href="mailto&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Website%20enquiry">emailing Ashleigh</a>, or call her on 020 4005 9959.
+			Visitors are welcome but we only accommodate one bride-to-be at a time,
+			so if you visit while we are taking a bride through her consultation you will unfortunately be unable to see the dresses.
+	    Therefore it is recommended that you book ahead,
+			especially if you are looking to try dresses on.
+	    This ensures that you have the full attention of  Sally&#39;s trusted bridal consultant
+			as she takes you through a tailored experience to find your perfect wedding dress.
+			You can book a consultation by
+				<a class="ls_thin" href="mailto&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Website%20enquiry">emailing</a>
+			, or call the boutique on 020 4005 9959.
 		</p>
 		<div class="workroom">
 			<h2 class="blue underscore dress_name pad_1">
