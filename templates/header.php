@@ -5,18 +5,24 @@
 			</a>
 			<ul class="main">
 				<li class="underline dropdown">
-					<a class="no_click under" href="index.php?view=g&a=c">BROWSE</a>
+					<a class="no_click under" href="index.php?view=g&a=c">DRESSES</a>
 					<ul class="opaque88 hidden">
 						<li>
-							<a href="index.php?view=g&a=c">BRIDAL</a>
+							<a href="index.php?view=g&a=c&c=1">2017 DUSK</a>
 						</li>
+							<li>
+								<a href="index.php?view=g&a=c&c=0">CLASSICS</a>
+							</li>
 						<li>
 							<a href="index.php?view=g&a=w">REAL BRIDES</a>
 						</li>
+	<!-- NOT CURRENTLY USING
 						<li>
 							<a href="index.php?view=g&a=b">BRIDESMAIDS</a>
 						</li>
-	<!-- UNCOMMENT WHEN 'ACCESSORIES' ITEMS ARE LIVE
+						<li>
+							<a href="index.php?view=g&a=f">FLOWER GIRLS</a>
+						</li>
 						<li>
 							<a href="index.php?view=g&a=a">ACCESSORIES</a>
 						</li>

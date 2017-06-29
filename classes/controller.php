@@ -2,14 +2,14 @@
 
 // Class for GALLERY page
 class Gallery {
-	function __construct($table, $group=null) {
-		$this->images = Controller::callData($table, $group);
+	function __construct($table, $group=null, $collection=null) {
+		$this->images = Controller::callData($table, $group, $collection);
 	}
 
-	function populateBrowse($pg=1, $group=null) {
+	function populateBrowse($pg=1, $group=null, $collection=null) {
 
 		// See if more than 12 dresses were returned in order to pagenate the menu
-		if (is_numeric($pg)) {
+		if (is_numeric($pg)&&$collection<1) {
 			// Reduce page number from start=1 to start=0
 			$pg = $pg-1;
 
@@ -63,39 +63,47 @@ DRESS;
 		echo '
 		<nav class="browsePages">';
 
-		//Set page count
-		if (is_numeric($pg)&&count($this->images)>12) {
-			// If a group is set, insert it into the page address
-			if(isset($group)){
-				$view='a='.$group.'&';
-			} else {
-				$view="";
-			}
-
-			echo '
-			PAGE ';
-
-			// Set the max page number
-			$max = ceil(count($this->images)/12);
-
-			// Iterate through the number of pages
-			for ( $j=0; $j<$max; $j++ ) {
-				// Make the current page non-clickable
-				if ($j==$pg) {
-					$x=$j+1;
-					echo '			<span>' . $x . '</span>
-					';
+		// If it's not a full collection, set the pages
+		if (isset($collection) && $collection>0) {
+			// No page count for full collections
+		} else {
+			//Set page count
+			if (is_numeric($pg)&&count($this->images)>12) {
+				// If a group is set, insert it into the page address
+				if(isset($group)){
+					$view='a='.$group.'&';
 				} else {
-				// Link all other pages
-					$x=$j+1;
-					echo '			<a href="index.php?view=g&' . $view . 'pg=' . $x . '">' . $x . '</a>
-			';
+					$view="";
 				}
+				if(isset($collection)){
+					$view.='c='.$collection.'&';
+				}
+
+				echo '
+				PAGE ';
+
+				// Set the max page number
+				$max = ceil(count($this->images)/12);
+
+				// Iterate through the number of pages
+				for ( $j=0; $j<$max; $j++ ) {
+					// Make the current page non-clickable
+					if ($j==$pg) {
+						$x=$j+1;
+						echo '			<span>' . $x . '</span>
+						';
+					} else {
+					// Link all other pages
+						$x=$j+1;
+						echo '			<a href="index.php?view=g&' . $view . 'pg=' . $x . '">' . $x . '</a>
+				';
+					}
+				}
+				echo '
+				|
+				<a href="index.php?view=g&' . $view . 'pg=a">VIEW ALL</a>
+	';
 			}
-			echo '
-			|
-			<a href="index.php?view=g&' . $view . 'pg=a">VIEW ALL</a>
-';
 		}
 
 		echo '
@@ -389,7 +397,7 @@ DRESS;
 class Controller {
 
 	// Extract info from database
-	public static function callData($table, $group=null){
+	public static function callData($table, $group=null, $collection=null){
 		//new connection
 		try {
 			$DBH = new PDO(DB, USER, PASS);
@@ -400,7 +408,9 @@ class Controller {
 
 		// If a group type is given, only SELECT those. Otherwise, SELECT all.  NB 'm' is the image used for the browse page (Main)
 		if (isset($group)) {
-			if($group=='b'||$group=='c'||$group=='w'||$group=='f'){
+			if($group=='c'){
+				$statement = "SELECT * FROM $table WHERE $table.listType = '$group' AND active = '1' AND $table.collection = '$collection' ORDER BY $table.listId DESC";
+			} elseif($group=='b'||$group=='c'||$group=='w'||$group=='f') {
 				$statement = "SELECT * FROM $table WHERE $table.listType = '$group' AND active = '1' ORDER BY $table.listId DESC";
 			} else {
 				$statement = "SELECT * FROM $table ON $table.listId=images.listId WHERE active = '1' ORDER BY $table.listId DESC";

@@ -4,7 +4,12 @@
 	} else {
 		$group = null;
 	}
-	$gallery = new Gallery('listall', $group);
+	if (isset($_GET['c'])) {
+			$collection = $_GET['c'];
+		} else {
+			$collection = null;
+		}
+	$gallery = new Gallery('listall', $group, $collection);
 ?>
 <!DOCTYPE html>
 <html class="no-js">
@@ -51,7 +56,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<div class="content gallery">
 		<?php
-			$gallery->populateBrowse($pg, $group);
+			$gallery->populateBrowse($pg, $group, $collection);
 		?>
 	<!-- END MAIN BLOCK -->
 	</div>
