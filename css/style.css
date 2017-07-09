@@ -226,6 +226,10 @@ div.bgImg.about{
   background-image:url('../images/sally1.jpg');
 }
 
+div.bgImg.faq{
+  background-image:url('../images/faq.jpg');
+}
+
 /* TITLEBOX */
 div.titlebox{
   border-left:1px solid #E9EEF8;
@@ -787,24 +791,13 @@ div.workroom{
 	max-width: 30.2em;
 }
 
-/********************* ABOUT ********************/
+/***************** ABOUT & FAQ ******************/
 
-div.about {
+div.about, div.faq.header {
   margin-bottom:6.5em;
 	padding-bottom:17em;
 	position:relative;
 }
-
-div.darken::before{
-    content: '\A';
-		position:absolute;
-    width: 100%; height:100%;
-    top:0; left:0;
-    background:rgba(0,0,0,0.65);
-    opacity: 0.65;
-}
-
-/********************** FAQ *********************/
 
 div.faq h2 {
 	font-size: 1em;
@@ -1097,7 +1090,7 @@ div.policy ul, div.policy ol {
 		margin:10% 0;
 	}
 
-	div.about{
+	div.about, div.faq.header{
 		margin-bottom:10%;
 		padding-bottom:31%;
 	}

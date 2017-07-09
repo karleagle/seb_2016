@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <?php // INCLUDE HEADER
 	include('templates/header.php');
 ?>
-	<div class="header white about bgImg">
+	<div class="header white faq bgImg">
     <h1 class="underscore">FREQUENTLY ASKED QUESTIONS</h1>
   </div>
 	<div class="left_align padded faq">
@@ -49,7 +49,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			Do I need an appointment to visit?
 		</h2>
 		<p>
-			Yes we work by appointment only, so please call or email us to book in your preferred date and time.
+			To ensure you get our full attention we work by appointment only,
+			giving each bride&#45;to&#45;be their own one on one consultation.
+			Please call or email us to book in your preferred date and time.
+		</p>
+		<p>
+			You are more than welcome to pop by for a quick look through the dresses&#59;
+			however if we are in a consultation please keep in mind that
+			we may not be able to see you immediately.
 	  </p>
 		<h2 class="blue">
 			What is the charge for a consultation appointment?
@@ -61,13 +68,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			How long does a consultation take?
 		</h2>
 		<p>
-			We book wedding dress consultations in for an hour and bridesmaids consultations or half an hour.
-	  </p>
-		<h2 class="blue">
-			Can I come without an appointment just to have a look?
-		</h2>
+			We book wedding dress consultations in for an hour and bridesmaids consultations for half an hour.
+		</p>
 		<p>
-			You are more than welcome to pop by and visit us; however if we have an appointment at the same time you may not be able to view any dresses, so it is always recommended to book an appointment first.
+			We love to spoil our brides and create a nice and relaxing environment
+			so we provide light refreshments and nibbles for your visit.
 	  </p>
 		<h2 class="blue">
 			Can I take photos in my appointment?
@@ -87,7 +92,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			Is there parking located nearby?
 		</h2>
 		<p>
-			There is street parking outside the boutique along lower Cuba St and on Wakefield street, and a carpark area at the <a class="ls_thin link" href="https://en.parkopedia.co.nz/parking/carpark/michael_fowler_centre_car_park/wellington/" target="_blank">Michael Fowler Centre</a> nearby.
+			There is street parking outside the boutique along lower Cuba St and on
+			Wakefield street, and a carpark area at the
+			<a class="ls_thin link" href="https://en.parkopedia.co.nz/parking/carpark/michael_fowler_centre_car_park/wellington/" target="_blank">Michael Fowler Centre</a> nearby.
 	  </p>
 		<h2 class="blue">
 			How many people can I bring to an appointment?
@@ -101,13 +108,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</h2>
 		<p>
 			Yes you are welcome to involve your overseas relatives and friends.
-			We understand that they may not be able to make it to your appointment so whilst you cannot take photos you can skype or facetime your loved ones.
+			We understand that they may not be able to make it to your appointment so
+			whilst you cannot take photos you can skype or facetime your loved ones.
 	  </p>
 		<h2 class="blue">
 			Do you have a cancelation policy?
 		</h2>
 		<p>
-			As we work by appointment only, if something has come up and you need to cancel or move your appointment we ask that you kindly give us at least 48 hours&#39; notice.
+			As we work by appointment only, if something has come up and you need to
+			cancel or move your appointment we ask that you kindly give us at least 48 hours&#39; notice.
 	  </p>
 		<h2 class="blue">
 			What is the price range of your dresses?
@@ -121,31 +130,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			What sizes are our dress samples in?
 		</h2>
 		<p>
-			We have dresses in store to try on in sizes 6 through to 18. Dresses can be ordered for any size required.
+			We have dresses in our boutique to try on in sizes 6 through to 18.
+			 As we make all of our dresses in&#45;house we are able to create your dress in any size required.
 	  </p>
 		<h2 class="blue">
 			How long does it take from when I order a dress to when I receive it?
 		</h2>
 		<p>
-			We require 5 months to make a dress over the peak period (spring/summer) and 4 months over the quieter period (autumn/winter). We suggest ordering at least 6 months out from your wedding date.
-			We can make dresses in a shorter timeframe, which may incur a rush fee. Please give us a call or email and we can let you know whether we can make your deadline.
+			We require 5 months to make a dress over the peak period (spring/summer)
+			and 4 months over the quieter period (autumn/winter).
+			We suggest ordering at least 6 months out from your wedding date.
+		</p>
+		<p>
+			We can make dresses in a shorter timeframe, which may incur a rush fee.
+			Please give us a call or email and we can let you know whether we can meet your wedding date.
 	  </p>
 		<h2 class="blue">
 			Do you make custom wedding dresses?
 		</h2>
 		<p>
-			Yes we design and make custom wedding dresses.
+			Yes, we love working with brides to create custom dresses for their special day.
+			There is a beautiful range of fabrics and laces to choose from to incorporate
+			your unique personality and style into your dress.
 	  </p>
 		<h2 class="blue">
 			Do you include alterations in the price of your dresses?
 		</h2>
 		<p>
-			If you can arrange to visit the Wellington boutique at least three times while we make the dress,
-			we can fit your dress to you as part of the dress&#45;making process, free of charge.
-			We can also make small design changes to the standard dresses if requested.
-			If you are not able to make it to the boutique,
-			we will make the dress either to your measurements if provided or to your closest standard size
-			and any further alterations required are at your own expense.
+			Each of our dresses has two prices&#58; a standard size price and a fitted price.
+		</p>
+		<p>
+			All dresses are made by hand at the Wellington boutique, so if you can arrange to
+			visit at least three times while we make the dress we will fit it to you
+			as part of the dress&#45;making process, which looks the best for any dress.
+		</p>
+		<p>
+			If you are not able to make it to the boutique, we will make the dress
+			either to your measurements if provided or to your closest standard size.
+			Any further alterations required are at your own expense.
 	  </p>
 		<h2 class="blue">
 			Do you ship internationally?
