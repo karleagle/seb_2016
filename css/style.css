@@ -1023,6 +1023,13 @@ div.policy ul, div.policy ol {
 }
 
 
+/******************* DATABASE *******************/
+form input {
+	border:1px solid lightgrey;
+}
+
+
+
 /***************** BREAK POINTS *****************/
 /* BP0: first reduction */
 @media all and (max-width: 74em) {

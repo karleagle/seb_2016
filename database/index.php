@@ -12,7 +12,6 @@
 <title>Sally Eagle Bridal Database</title>
 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
 <meta name="description" content="Sally Eagle Bridal Database" />
-<meta name="keywords" content="sally eagle, sally eagle bridal, vintage, vintage inspired, vintage wedding dress, vintage wedding gown, vintage bridal gown, wedding dress, wedding dresses, bridal dress, bridal dresses, bridal gown, bridal gowns, bridal wear, bridalwear, wedding dress designer, wedding dress designers, bridal gown designer, bridal gown designers, bridal dress design, bridal dress designer, bridal design, bridal designer, bridal designers, designer bridal, bridal dressmaker, wedding gown designer, wedding gown designers, wellington, willis st, willis street, bridal shop, wellington bridal shop, bridal store, wellington bridal, wellington bridal store, bridal boutique, wellington bridal boutique, wedding dress shop, wedding dress store, wedding dress boutique, wedding gown store, wedding gown shop, wedding gown boutique, bridesmaid, bridesmain dresses, bridesmaids dresses, ball dress, ball dresses, ball dress shops" />
 <meta name="robots" content="INDEX,FOLLOW" />
 
 
@@ -66,10 +65,15 @@
 		</a>
 
 		<form action="welcome.php" method="post">
-			Name: <input type="text" name="name"><br>
+			First Name: <input type="text" name="name"><br>
+			Last Name: <input type="text" name="name"><br>
+			Store (stockists only): <input type="text" name="name"><br>
 			E-mail: <input type="text" name="email"><br>
+			Phone: <input type="text" name="email"><br>
+			Address: <input type="text" name="email"><br>
+			International <input type="checkbox" name="email"><br>
 
-			<input type="submit">
+			<input type="submit" value="Add Contact">
 		</form>
 
 	<!-- END MAIN BLOCK -->
