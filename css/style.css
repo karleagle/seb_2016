@@ -255,6 +255,38 @@ div.title {
 
 }
 
+/* TABLES */
+
+/* Trying to get a fixed position table header
+table {
+	position: relative;
+	table-layout: fixed;
+  border-collapse: collapse;
+	width: 100%;
+}
+
+th {
+	text-decoration: underline;
+}
+
+thead tr {
+	display: block;
+	position: relative;
+}
+
+tbody {
+	display: block;
+	width: 100%;
+} */
+
+thead {
+	background-color: #686C72;
+	color: #fff;
+}
+
+tbody tr:nth-child(even) {
+	background-color: #e6e9f6;
+}
 
 /**************** HEADER NAVIGATION ****************/
 
@@ -905,6 +937,13 @@ a.contact{
 a.contact:hover{
 	text-decoration: underline;
 }
+
+div.tableBox{
+	height:20em;
+	overflow-y: scroll;
+}
+
+
 
 
 /******************** FOOTER ********************/

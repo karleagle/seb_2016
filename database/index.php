@@ -3,6 +3,7 @@
 	include('forms.php');
 	include('../config.php');
 	//$form = new Form();
+	$contacts = new Contact();
 ?>
 
 <!DOCTYPE html>
@@ -37,13 +38,16 @@
 				<img src="../images/icons/logo.png" alt="Home"/>
 			</a>
 		</nav>
-	<header>
+	</header>
 	<div class="content">
 		<a>
-			Add a bride
+			Add a contact
 		</a>
 		<a>
-			Add a bride's order
+			Add a consultation
+		</a>
+		<a>
+			Add a quote/order
 		</a>
 		<a>
 			Follow up on consultations
@@ -55,26 +59,33 @@
 			Follow up quote
 		</a>
 		<a>
-			Add a stockist
-		</a>
-		<a>
-			Add a stockist's order
-		</a>
-		<a>
 			Production schedule
 		</a>
 
 		<form action="welcome.php" method="post">
-			First Name: <input type="text" name="name"><br>
-			Last Name: <input type="text" name="name"><br>
-			Store (stockists only): <input type="text" name="name"><br>
+			contact ID: <input type="hidden" name="contact_id"><br>
+			First Name: <input type="text" name="f_name"><br>
+			Last Name: <input type="text" name="l_name"><br>
+			Business name: <input type="text" name="business"><br>
 			E-mail: <input type="text" name="email"><br>
-			Phone: <input type="text" name="email"><br>
-			Address: <input type="text" name="email"><br>
-			International <input type="checkbox" name="email"><br>
+			Phone: <input type="text" name="phone"><br>
+			Address: <input type="text" name="address"><br>
+			International <input type="checkbox" name="international"><br>
 
 			<input type="submit" value="Add Contact">
 		</form>
+
+		<h1>CUSTOMER CONTACTS</h1>
+		<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+<?php // CONTACTS TABLE
+	$contacts->listContacts();
+?>
+		<h1>STOCKIST CONTACTS</h1>
+		<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+		<p>Can we order by business name?</p>
+<?php // CONTACTS TABLE
+	$contacts->listContacts(true);
+?>
 
 	<!-- END MAIN BLOCK -->
 	</div>
