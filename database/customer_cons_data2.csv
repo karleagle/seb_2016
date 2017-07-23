@@ -1,0 +1,1002 @@
+customer_id,f_name,l_name,business,email,phone,address,international,consultation_date,,ref_google,ref_facebook,ref_instagram,ref_pinterest,ref_website_blog,ref_signage,ref_show,ref_magazine,ref_referrer,ref_other,ref_info,wedding_date,dress_due,enquiry_type,dress_interest,cfu_requirement,cfu_action,cfu_date,recon_action_taken,recon_date,qfu_date,date_received_feedabck_email ,received_questionnaire,date_received_questionnaire
+1,Kate,Stevenson,,kat.stevens87@gmail.com,2102221256,"131 Aro Street, Aro Valley 6012",,2014-02-22,,1,0,0,0,0,0,0,0,0,0,,2015-05-30,2015-04-30,Collection,Marigold,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+2,Briana,Lee,,brijlee@yahoo.co.nz,220614162,"57 Durham Street, Aro Valley, Wellington 6021",,2014-02-22,,1,0,0,0,0,0,0,0,1,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+3,Christy,Harcourt,,christy.harcourt@gmail.com,226568375,"117a Orangi Kaupapa Road, Northland, Wellington 6012",,2014-02-22,,0,0,0,0,0,0,0,0,0,0,,,,Bridesmaids,Daisy,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+4,Katlin,Tott,,,,,,2014-02-22,,0,0,0,0,0,0,0,0,0,0,,,,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+5,Suzie,Green,,,,,,2014-03-01,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+6,Amy,Wierzbicki,,amy.wierzbicki@hotmail.com,211892313,"Flat 3, 12A Sylvan Street, Middleton, Christchurch 8024",,2014-03-08,,0,0,0,0,1,0,0,0,0,0,,2015-09-03,2015-09-03,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+7,Jess,Robb,,jessica.robb@midcentraldhb.govt.nz,274730329,"215 Fagan Road, RD 9, Palmerston North 4479",,2014-03-08,,1,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+8,Alex,,,,,,,2014-03-08,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+9,Gemma,Milne,,,,,,2014-03-11,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+10,Jessica,Noble,,jessicanoble123@gmail.com,21998999,"43 Wilton Road, Wadestown, Wellington 6012",,2014-03-15,,0,0,0,0,0,0,0,0,1,0,Friend,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+11,Melissa,Kelly,,,,,,2014-03-15,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+12,Sarah,Brown,,sarabrownshoes@yahoo.co.nz,212309172,"Flat 2, 3 School Road, Plimmerton, Porirua 5026",,2014-03-22,,1,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+13,Katy,,,,,,,2014-03-29,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+14,Ellie,Briggs,,ellie@ebpsychology.com.au,223503460,"54a Plymouth St, Wanganui, 4500",,2014-03-31,,0,0,0,0,0,0,0,0,0,0,,2015-05-11,2015-05-11,Bridesmaids,4,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+15,Gillian,Menaker,,gillian.menaker@gmail.com,21752244,"2 Happy Valley Road, Owhiro Bay, Wellington 6023",,2014-03-31,,1,0,0,0,0,0,0,0,0,0,,2015-10-12,2015-10-12,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+16,Zoe,McGavock,,,,,,2014-03-31,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+17,Jane,Gowans,,janegowans@hotmail.com,2102754585,"2/100 Overtoun Tce, Hataitai, Wellington",,2014-04-11,,0,0,0,0,0,0,0,0,1,0,Hannah Booth,2015-12-30,2015-12-30,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+18,Jules,Scott-Hansen,,juliescotthansen@gmail.com,226346685,"30 Dryden Street, Sumner, Christchurch 8081",,2014-04-26,,0,0,0,0,0,0,0,0,1,0,Friend,2015-12-31,2015-12-31,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+19,Stephanie,Miller,,,,,,2017-06-20,,0,0,0,0,0,0,0,0,0,0,,2018-03-03,2017-12-01,Wholesale Accessory,Veil ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+20,Ana,Vegar,,ana.vegar@foodstuffs.co.nz,210426635,"11A Penrose Street, Woburn, Lower Hutt 5010",,2014-08-07,,0,0,0,0,0,0,0,0,1,0,Charlotte Wood,2015-04-18,2015-04-18,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+21,Sharne,McLachlan,,,274268484,"21 Pharo Place, Ngaruawahia 3720",,2014-08-16,,0,0,0,0,0,0,0,0,1,0,Emily,2015-11-01,2015-11-01,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+22,Gin,Dewar,,ginny.dewar@gmail.com,272597440,"55A Pohutukawa Street, Woburn, Lower Hutt 5010",,2014-08-16,,1,0,0,0,0,0,0,0,0,0,,2015-12-19,2015-12-19,Collection,Gloriana,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+23,Aimee,Norman,,aimee.norman@gmail.com,273252560,"48 Owen Street, Newtown, Wellington 6021",,2014-08-21,,0,0,0,0,1,0,0,0,0,0,,2015-12-05,2015-11-05,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+24,Katie,O'Sullivan,,katiejosullivan@yahoo.co.uk,272390353,(none given),,2014-08-23,,0,0,0,0,0,0,0,0,1,0,Sister,2015-05-09,2015-05-09,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+25,Amelia,Biggs,,a-lee.b@hotmail.com,273377685,"9 Chamboard Place, Washington Valley, Nelson 7010",,2014-08-23,,0,0,0,0,1,0,0,0,0,0,,2015-06-22,2015-06-22,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+26,Emily,Wichiano,,,,,,2016-07-02,,0,0,0,0,0,0,0,0,0,0,,2017-04-01,2016-09-30,Wholesale Collection,Billie ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+27,Valentina,Soana,,valentinasoana@gmail.com,,,,2014-08-26,,0,0,0,0,0,0,0,0,0,0,,2015-06-01,2015-06-01,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+28,Emma,Janor,,emma.janor@acc.co.nz,274640096,"1 George Gee Drive, Korokoro, Lower Hutt 5012",,2014-08-30,,1,0,0,0,0,0,0,0,0,0,,2016-02-20,2016-02-20,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+29,Sophie,Wilton,,sophiewilton@gmail.com,274607804,"3/9 Rangitane Street, Maupuia, Wellington 6022",,2014-09-06,,0,0,0,0,0,0,0,0,1,0,workmate,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+30,Krissi,Smith,,krissi.smith@hotmail.com,277727797,"Flat 4R, 51 Webb Street, Mount Cook, Wellington 6011",,2014-09-19,,0,0,0,0,0,0,0,0,1,0,,2016-01-16,2016-01-16,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+31,Kate,Bradford,,katebradford@windowslive.com,273196320,"66 Hunter Road, RD 1, Queenstown 9371",,2014-09-20,,0,0,0,0,0,0,0,0,1,0,Friend,2015-06-20,2015-06-20,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+32,Sarah,Petrie,,petrie.sarah@gmail.com,275001103,"30 Waipapa Road, Hataitai, Wellington 6021",,2014-09-26,,1,0,0,0,0,0,0,0,0,0,,,,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+33,Margaret,Topping,,margaret.topping@gmail.com,272752075,"73 Sunshine Avenue, Karori, Wellington 6012",,2014-10-02,,1,0,1,0,0,1,0,0,0,0,,,2016-02-06,6 Jan. 2016,1,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+34,Gabrielle,Llovet,,,,,1,2016-01-14,,0,0,0,0,0,0,0,0,0,0,,2016-10-01,2016-04-30,Wholesale Collection,Diana ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+35,Rachel,Eves,,rachel.eves@hotmail.com,274262113,"23 Cresswell Place, Johnsonville, Wellington 6037",,2014-10-11,,0,0,0,0,1,0,0,0,0,0,,2015-05-30,2015-05-30,Bridesmaids,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+36,Carolyn,Eves,,caro.eves@gmail.com,0277 4747450,"125 Homebush Road, Khandallah, Wellington 6035",,2014-10-11,,0,0,0,0,1,0,0,0,0,0,,2015-05-30,2015-05-30,Bridesmaids,Bella x2,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+37,Natasha,Markland,,markland.natasha@gmail.com,2108164832,(no address given),,2014-10-11,,1,0,0,0,0,0,0,0,0,0,Maps,2015-09-01,2015-09-01,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+38,Cara,Mason,,carajane@outlook.com,61404300404,"20 Upton Road, Windsor, Melbourne, Australia",,2014-10-11,,0,0,0,0,0,0,0,0,1,0,Friend,2015-11-06,2015-11-06,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+39,Kim,Byer,,,,,1,2016-01-20,,0,0,0,0,0,0,0,0,0,0,,2017-01-14,2016-04-05,Wholesale Collection,Rosella ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+40,Shannon,Denniss,,,,,1,2017-01-26,,0,0,0,0,0,0,0,0,0,0,,2017-05-24,2017-03-21,Wholesale Collection,Diana,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+41,Sarah,Robertson,,s-rah@email.com,220878490,"7C Strawberry Lane, Fernhill, Queenstown 9300",,2014-10-14,,0,0,0,0,0,0,0,0,1,0,Friend,2015-07-11,2015-07-11,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+42,Jade,Wuesey,,jjay94@hotmail.co.uk,272372842,"31 Dimock Street, Titahi Bay, Porirua 5022",,2014-10-17,,1,0,0,0,0,0,0,0,0,0,,2015-04-04,2015-04-04,Collection,Moonstone,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+43,Kara,Wallace,,karaw@xtra.co.nz,275227710,"36 Bright Street, Eden Terrace, Auckland 1021",,2014-10-17,,1,0,0,0,0,0,0,0,0,0,,2015-10-24,2015-10-24,Collection,Flora ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+44,Abby,Eastwood,,,,,1,2017-06-15,,0,0,0,0,0,0,0,0,0,0,,2018-01-20,2017-09-15,Wholesale Collection,Flora (no print),,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+45,Alice,Barclay,,alicembarclay@gmail.com ,21864843,"4 Tapley Paddock, Wanaka 9305",,2016-07-06,,0,0,0,0,0,0,0,0,0,0,,2017-01-06,2016-12-06,Wholesale Collection,Gloriana ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+46,Alice,Barclay,-,alicembarclay@gmail.com ,21864843,"4 Tapley Paddock, Wanaka 9305",,2016-07-06,,0,0,0,0,0,0,0,0,0,0,,2017-01-06,2016-12-06,Wholesale Bridesmaids,Lillian,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+47,Rachael,Raven,,raven.rachael@gmail.com,5274110,"21 Comeskey Grove, Elderslea, Upper Hutt 5018",,2014-11-04,,1,0,0,0,0,0,0,0,0,0,,2015-10-01,2015-10-01,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+49,Alise,Dumble,,,,,,2017-05-24,,0,0,0,0,0,0,0,0,0,0,,2018-02-17,2017-08-26,Wholesale Collection,Siena ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+50,Aimee,Sandilands,,aimeesandilands@simpsongrierson.com,212703720,"20 Hume Street, Alicetown, Lower Hutt 5010",,2014-11-08,,1,0,0,0,0,0,0,0,0,0,,2015-10-03,2015-10-03,Custom,Custom,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+51, Piper,Piper,,,,,,2016-11-03,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Piper,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+52,Amy,Skelton,,worlsnotflat@hotmail.com,226523468,(no address given),,2014-11-15,,0,0,0,0,0,0,0,0,0,0,,2015-07-11,2015-07-11,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+53,Flora,,,,,,,2016-11-03,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Flora ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+54,Jennifer,Heye,,jennifercheye@gmail.com,276308254,"Flat 11, 10 Colombo Street, Newtown, Wellington 6021",,2014-11-19,,0,0,0,0,0,0,0,0,1,0,,2016-02-13,2016-02-13,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+55,Joyce,Chang,,,,,,2017-06-20,,0,0,0,0,0,0,0,0,0,0,,2017-12-23,2017-09-20,Wholesale Collection,Genevieve ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+56,Julia,,,,,,,2016-11-03,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Julia ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+57,Anna,Luke,,amluke@asianz.org.nz,273586959,"36 Moa Point Road, Moa Point, Wellington 6022",,2014-12-02,,0,0,0,0,0,0,0,0,1,0,Friend,2015-10-24,2015-10-24,Custom,Custom,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+58,Amy,Kinsman,,,,,,2015-08-07,,0,0,0,0,0,0,0,0,0,0,,2016-02-26,2015-12-15,Wholesale Collection,Diana + veil ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+59,Anita,Bottcher,,,276985460,"414 Botanical Road, West End, Palmerston North 4412",,2014-12-05,,1,0,0,0,0,0,0,0,0,0,,2016-02-06,2016-02-06,Collection,Rosella ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+60,Amy,Hunter,,amya.hunter@gmail.com,2102733573,"24 Antico Street, Melrose, Wellington 6023",,2014-12-06,,1,0,0,0,1,0,0,0,0,0,,2015-12-19,2015-12-19,Collection,Florence,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+61,Bek,Masterton,,,,,,2015-08-07,,0,0,0,0,0,0,0,0,0,0,,2015-11-06,2015-10-20,Wholesale Collection,Florence ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+62,Bek,Masterton,,,,,,2015-10-27,,0,0,0,0,0,0,0,0,0,0,,2015-11-06,2015-10-30,Accessory,Short veil ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+63,Lucy,Higgs,,higgs_lucy@hotmail.com,00447786291814 (UK),"7 Sitwell Avenue, Longitchington, Warwickshire, CV47 9QT",,2015-01-06,,0,0,0,0,1,0,0,0,0,0,,2015-09-19,2015-09-19,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+64,Jemma,Dowling,,jemmadowlingx@gmail.com ,211030344,"48 Baird Road, RD 1, Pokeno 2471",,2015-01-07,,1,0,0,0,0,0,0,0,0,0,,2015-11-21,2015-11-21,Bridesmaids,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+65,Loryn,Bennett,,lorynbennett@me.com,211013920,"206A Miromiro Road, Normandale, Lower Hutt 5010",,2015-01-10,,1,1,0,0,0,0,0,0,0,1,,,2015-10-24,24 Oct. 2015,1,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+66,Stephanie,Wagener,,stephaniew04@gmail.com,21908528,"Flat 2, 79 Oroua Street, Eastbourne, Lower Hutt 5013",,2015-01-10,,1,0,0,0,0,0,0,0,0,0,,2016-03-01,2016-03-01,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+67,Fiona,Mclachlan,,f_h_mclachlan@hotmail.com,273575735,"2 Honnor Place, Hurdon, New Plymouth 4310",,2015-01-16,,1,0,0,0,0,0,0,0,1,0,,2016-02-01,2016-01-31,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+68,Bodelle,De Ronde,,,,,,2017-02-17,,0,0,0,0,0,0,0,0,0,0,,2017-06-24,2017-04-30,Wholesale Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+69,Lana,Rockliff,,lana.rockliff@gmail.com,2102550112,"Flat 2, 2 Brent Street, Maori Hill, Dunedin 9010",,2015-01-17,,1,0,0,0,0,0,0,0,0,0,,2015-08-01,2015-08-01,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+70,Dana,Mihailoff,,dana.mihailoff@gmail.com,212307678,"C/- 27 Upoko Road, Hataitai, Wellington 6021",,2015-01-17,,0,0,0,0,0,0,0,0,0,1,through massey uni,2016-04-01,2016-03-30,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+71,Brydie,Mattheson,,brydiemattheson@hotmail.com ,274896456,,,2016-07-06,,0,0,0,0,0,0,0,0,0,0,,2017-03-03,2017-02-10,Wholesale Collection,Bespoke,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+72,Catherine,Stace,,,,,,2016-11-24,,0,0,0,0,0,0,0,0,0,0,,2017-03-31,2017-02-04,Wholesale Collection,Custom ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+73,Michelle,Biggs,,hey.mich14@gmail.com,2040514314,(no address at present) ,,2015-01-20,,1,1,0,0,0,0,0,0,0,1,Amy stevens,,2016-01-31,,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+74,Ashleigh,Maguiness,,ashleigh.maguiness@windowslive.com,211521103,"9 Pope Street, Camborne, Porirua 5026",,2015-01-22,,0,1,0,0,0,0,0,0,0,0,,2015-10-24,2015-10-24,Custom,Using Moms Dress,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+75,Laura,Adams,,laura.faith89@gmail.com,276992452,no address provided,,2015-01-24,,0,0,0,0,0,0,0,0,1,0,mum asked coworkers ,2015-06-19,2015-06-19,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+76,Sarah,Anderson,,contact.sarah.anderson@gmail.com,274261383,"41A Cleary Street, Waterloo, Lower Hutt 5011",,2015-01-24,,1,0,0,0,0,0,0,0,0,0,,2016-01-23,2015-12-23,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+77,Niki,Howard,,nicolette.a.d.howard@gmail.com,220708191,"19 Portage Place, Whitby, Porirua 5024",,2015-01-27,,1,0,0,0,0,0,0,0,0,0,,2016-03-04,2016-02-04,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+78,Deb,Galbraith,,,,,1,2017-06-21,,0,0,0,0,0,0,0,0,0,0,,2017-12-01,2017-09-20,Wholesale Collection,Genevieve,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+79,Emily,Legat,,,,,,2015-04-08,,0,0,0,0,0,0,0,0,0,0,,2015-12-05,2015-12-05,Wholesale Collection,Florence ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+80,Kendyll,Scott,,buttonnz@yahoo.com.au,277808796,"89 Shearman Street, Waimate 7924",,2015-01-31,,0,0,0,0,0,0,0,0,0,1,Always knew about us,2015-12-05,2015-12-05,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+81,Jessica,Hooper,,jeshooper@hotmail.com,6590387742,"71 High Street, Island Bay, Wellington 6023",,2015-01-31,,0,0,0,0,0,0,0,0,1,0,Friend,2016-03-18,2016-03-18,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+82,Heidi,Roop,,roop.heidi@gmail.com,221750963,"61 Standen Street, Karori, Wellington 6012",,2015-02-03,,1,0,0,0,0,0,0,0,0,0,,2015-07-10,2015-07-10,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+83,Clare,Walker,,clarewalker@windowslive.com,274280548,"21 Mapplebeck Street, Titahi Bay, Porirua 5022",,2015-02-04,,1,0,0,0,1,0,0,0,0,0,Wedding Wise,2015-11-28,2015-11-28,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+84,Kerri,Mooney,,Kerri.mooney@gmail.com ,211862082,No address provided,,2015-02-07,,1,0,0,0,0,0,0,0,0,0,,2015-07-24,2015-07-24,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+85,Ksenia,Grudeva,,kseniagrudeva@gmail.com,212389732,"Flat 2, 5 Shackleton Road, Mount Eden, Auckland 1024",,2015-02-14,,0,0,0,0,0,0,0,0,1,0,Friend,2016-01-22,2016-01-22,Collection,Bloomfeild,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+86,Emma,Irvine,,emma.irvine151@gmail.com,278226084,"22B Rainforth Street, Roslyn, Palmerston North 4414",,2015-02-20,,1,0,0,0,0,0,0,0,0,0,,2016-03-26,2016-03-05,Collection,Rosella,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+87,Adrienne,Booth,,adbooth@gmail.com,447784549650,No address provided (lives in London) ,,2015-02-20,,1,0,0,0,0,0,0,0,0,0,,2016-03-20,2016-03-20,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+88,Billie,Win,,win.billie@gmail.com,273148590,"73 Pikarere Street, Titahi Bay, Porirua 5022",,2015-02-25,,0,0,0,0,0,0,0,0,0,1,Already stalked our gowns,2015-11-14,2015-10-30,Custom,based on Albertine,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+89,Hannah,Smith,,htimshannah@gmail.com,447730328996,"Guildford, UK ",,2015-02-27,,0,0,0,0,0,0,0,0,1,0,,2016-02-27,2016-02-27,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+90,Rhiannon,Campbell,,,212514053,"c/ 14 Kenneth Avenue, Whitianga 3510",,2015-02-27,,1,1,0,0,0,0,0,0,0,1,,,2016-04-01,1 Apr. 2016,1,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+91,Anna,Kissling,,anna@kissling.net.nz,21744754,No address provided,,2015-02-28,,0,0,0,0,0,0,0,0,1,0,made nephews wifes dress,2015-06-20,2015-06-20,Accessory,franchesca lace veil,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+92,Jenny,Wylie,,jenny.wylie@orionhealth.com,21834734,"8/73C Carlton Gore Road, Newmarket, Auckland 1023",,2015-03-04,,0,0,0,0,0,0,0,0,0,0,,2015-10-10,2015-09-24,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+93,Amanda,O'Reilly,,,049707394 (sister - Kirsten),"14 Fitzherbert Street, Alicetown, Lower Hutt 5010 (sister - Kirsten)",,2015-03-04,,1,0,0,0,0,0,0,0,0,0,,2016-01-16,2016-01-16,Collection,Albertine ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+94,Chloe,Heidelberg,,berg7272@aol.com,214-244-3803,"1160 East Campbell Road, Garland, TX 75044",,2015-03-06,,0,0,0,1,0,0,0,0,0,0,,2015-08-22,2015-08-22,Collection,Marigold ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+95,Helen,Hickson,,helenhic@ihug.co.nz,06 3068364,"98 Jellicoe Street, Martinborough 5711",,2015-03-07,,1,0,0,0,0,0,0,0,0,0,,2015-09-05,2015-09-05,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+96,Heather,Morrell,,heather.morrell@gmail.com,273767602,"Flat 12, 272 The Terrace, Te Aro, Wellington 6011",,2015-03-07,,0,0,0,0,0,0,0,0,1,0,Friend,2015-11-21,2015-11-21,Collection,Moonstone,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+97,Ruth,McLennan,,ruth.mclennan@gmail.com,2102497123,"Flat 5, 10 Petherick Crescent, Johnsonville, Wellington 6037",,2015-03-07,,0,0,0,0,0,0,0,0,1,0,,2016-02-13,2016-02-13,Collection,Rosella ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+98,Alexandra,Geddes,,alexandra.geddes@hotmail.co.nz,274334720,"79 Rangoon Street, Khandallah, Wellington 6035",,2015-03-14,,1,0,0,0,0,0,0,0,1,0,,2015-12-19,2015-11-28,Collection,Albertine/Camille,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+99,Alexandra,Geddes,,,,,,2015-03-14,,0,0,0,0,0,0,0,0,0,0,,2015-12-19,2015-11-28,Bridesmaids,Dawn x3,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+100,Gemma,Milne,,gemz133@gmail.com,212575548,"61 Grey Street, Gladstone, Invercargill 9810",,2015-03-14,,0,0,0,0,1,0,0,0,0,0,,2015-11-13,2015-11-13,Collection,Albertine,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+101,Kate,Allen,,katiekateallen@gmail.com,211119051,"2 Hauraki Street, Karori, Wellington 6012",,2015-03-14,,1,0,0,0,0,0,0,0,0,0,,2015-11-14,2015-11-14,Custom,based on Flora,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+102,Anna,Charles-Jones,,anna.charlesjones@gmail.com,277823107,"10 King Edward Street, Lansdowne, Masterton 5810",,2015-03-14,,0,0,0,0,0,0,0,0,1,0,Mum & another friend,2015-11-14,2015-11-14,Custom,based on Gardenia,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+103,Ella,Biggs,,biggs.ella@gmail.com,273304700,"Flat 3, 5 Waiteata Road, Kelburn, Wellington 6012",,2015-03-14,,1,0,0,0,0,0,0,0,0,0,,2015-12-31,2015-12-31,Collection,Daisy/PennyLane,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+104,Sarah,Ny,,sarahny@gmail.com,21623781,"50 Halswater Drive, Churton Park, Wellington 6037",,2015-03-19,,1,1,0,0,0,0,0,0,0,1,Maire Lander,2016-01-09,2016-01-09,9 Dec. 2015,1,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+105,Jenni,Green,,jenni.green@hotmail.com,220674380,"Flat 1, 64 Wakefield Street, Alicetown, Lower Hutt 5010",,2015-03-21,,1,0,0,0,0,0,0,0,1,0,,2015-09-26,2015-09-26,Collection,Rosella + BM ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+106,Ruth,Green,,ruthgreen_@hotmail.com ,2108215998,"Flat 1, 25 Kempthorne Crescent, Mission Bay, Auckland 1071",,2015-03-25,,0,0,0,0,0,0,0,0,1,0,Friend,2016-01-08,2016-01-08,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+107,Amber,Fowler,,amber@nonstoptix.com,21636351,"67 Satara Crescent, Khandallah, Wellington 6035",,2015-03-26,,0,0,0,0,0,0,0,0,1,0,Lan and Emerson,2016-02-13,2016-01-13,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+108,Sarah,Quinney,,sarahquinney@hotmail.com,273300918,"7 Savage Crescent, West End, Palmerston North 4412",,2015-03-28,,0,0,0,0,0,0,0,0,0,0,,2015-11-28,2015-11-28,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+109,Tori,Mee,,miss-mee@live.com ,221251071,"13 Maywood Grove, Churton Park, Wellington 6037",,2015-04-01,,1,0,0,0,0,0,0,0,0,0,,2016-04-15,2016-04-15,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+110,Jacqui,Bunckenburg,,buncks@gmail.com,No number provided,"10B Pukeko Street, Paraparaumu 5032",,2015-04-07,,0,0,0,0,0,0,0,0,1,0,,2016-01-09,2016-01-09,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+111,Anna,Granger,,annagranger@hotmail.com ,211260343,"5 Wiremu Street, Brookfield, Tauranga 3110",,2015-04-08,,0,1,0,0,0,0,0,0,0,0,,2015-09-26,2015-09-26,Collection,Marigold ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+112,Emma,Daly,,,,,,2016-09-01,,0,0,0,0,0,0,0,0,0,0,,2017-02-18,2016-12-18,Wholesale Collection,Estelle,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+113,Kirsty,Jones,,jones_kirsty13@hotmail.com ,274643323,"22 Akaroa Avenue, Awapuni, Palmerston North 4412",,2015-04-09,,0,0,0,0,1,0,0,0,0,0,,2015-12-19,2015-11-19,Collection,Albertine/Gloriana,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+114,Philippa,Lynch,,piplynch13@gmail.com,273406333,"28B Willow Park Drive, RD 11, Masterton 5871",,2015-04-10,,0,0,0,0,0,0,0,0,1,0,,2016-01-08,2016-01-08,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+115,Amy,Wilding,,wilding.amy@gmail.com,276963705,"4 Birdie Way, Martinborough 5711",,2015-04-10,,0,0,0,0,1,0,0,0,0,0,,2016-03-19,2016-03-19,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+116,Gemma,Williamson,,gemma.williamson@gmail.com,211404628,"30 Lyndfield Lane, Newlands, Wellington 6037",,2015-04-10,,0,0,0,0,1,0,0,0,0,0,,2016-04-23,2016-04-23,Collection,Florence ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+117,Leigh,Chalmers,,leigh-chalmers@hotmail.com,279563988,"81 Osborns Road, RD 4, Ashburton 7774",,2015-04-11,,0,0,0,0,0,0,0,0,1,0,Friend,2015-12-19,2015-12-05,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+118,Mel,Ellery,,melissaellery21@outlook.co.nz,279126463,"32 Huffey Street, Geraldine 7930",,2015-04-11,,0,1,0,0,1,0,0,0,0,0,photographers,2016-03-24,2016-02-24,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+119,Jess,Teaz,,teaz.jessica@hotmail.com,224255229,"Suite 10, 127 Molesworth Street, Thorndon, Wellington 6011",,2015-04-11,,0,0,0,0,0,0,0,0,1,0,,2016-04-23,2016-04-08,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+120,Bridget,McKinley,,mckinley.brideget@gmail.com,276185559,"24 Chisbury Street, Churton Park, Wellington 6037",,2015-04-11,,1,0,0,0,0,0,0,0,0,0,,2016-03-12,2016-03-12,Bridesmaids,Amelia,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+121,Josie,Baker,,josieebaker@gmail.com,221993525,"471 Adelaide Road, Berhampore, Wellington 6023",,2015-04-11,,1,0,0,0,0,0,0,0,0,0,,2016-03-26,2016-03-26,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+122,Abbey,Reith,,abbey.may87@gmail.com,274207129,"87 David Street, RD 3, Ashburton 7773",,2015-04-11,,0,0,0,0,0,0,0,0,1,0,,2016-03-26,2016-03-26,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+123,Everly,Bridal,,,,,1,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,2017-02-02,2016-12-22,,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+124,Everly,Bridal,,,,,1,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,2017-02-02,2016-12-22,,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+125,Everly,Bridal,,,,,1,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,2017-02-02,2016-12-22,,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+126,Julia,Walker,,julia_walker7@yahoo.com ,21878893,"73 Ironside Road, Johnsonville, Wellington 6037",,2015-04-14,,1,0,0,0,0,0,0,0,0,0,,2016-01-09,2016-01-09,Collection,Rosella ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+127,Nika,Thomson,,thomson.nika@gmail.com,278238340,"30 Waipounamu Drive, Kelson, Lower Hutt 5010",,2015-04-15,,1,0,0,0,0,0,0,0,1,0,,2015-11-07,2015-10-30,Bridesmaids,periwnkle colour,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+128,Annericke,Leonard,,annericke@me.com,224310055,"100 Weld Street, Wadestown, Wellington 6012",,2015-04-16,,1,0,0,0,0,0,0,0,0,0,,2015-09-26,2015-09-26,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+129,Amy,Trlin,,amy.trlin@gmail.com,210436586,"15 Buick Street, Petone, Lower Hutt 5012",,2015-04-17,,1,0,0,0,0,0,0,0,0,0,,2015-09-12,2015-09-12,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+130,Emily,Saul,,ejsaul@gmail.com,277777475,"3A Esk Street, Roslyn, Palmerston North 4414",,2015-04-18,,1,0,0,0,0,0,0,0,1,0,Workmates,2015-11-13,2015-11-13,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+131,Philippa,Ross,,philippa.ross2@gmail.com,221628052,"15 Paparangi Crescent, Paparangi, Wellington 6037",,2015-04-18,,0,0,0,0,0,0,0,0,1,0,Friend,2016-01-22,2015-12-22,Custom,Albertine variation,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+132,Philippa,Ross,,,,,,2015-04-18,,0,0,0,0,0,0,0,0,0,0,,2016-01-22,2015-12-22,Bridesmaids,Charlotte,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+133,Lucy,Anne,Nicholas,lucy.aaronswedding@gmail.com ,273637402,"7 Burnton Street, Epuni, Lower Hutt 5011",,2015-04-18,,0,1,0,0,0,0,0,0,0,0,,2016-02-20,2016-02-12,Custom,Custom,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+134,Rebecca,(Bex),Parlett,rkpartlett@hotmail.com,278299176,"25A Bell Street, Tawa, Wellington 5028",,2015-04-18,,1,0,0,0,0,0,0,0,0,0,,2016-02-27,2016-02-27,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+135,Amy,Teague,,amyeteague@hotmail.com,2102994767,"12 Ngarimu Grove, Ngaio, Wellington 6035",,2015-04-18,,0,0,0,0,1,0,0,0,0,0,,2016-05-13,2016-05-13,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+136,Tara,Murray,,tararenee_nz@icloud.com,273699441,"11 Bledisloe Avenue, Otorohanga 3900",,2015-04-19,,1,0,0,0,0,0,0,0,0,0,,2015-06-06,2015-06-06,Bridesmaids,Amber x2,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+137,Petra,Chappell,,petra.chappell@gmail.com,212325537,"22 Logan Terrace, Parnell, Auckland 1052",,2015-04-21,,0,0,0,0,0,0,0,0,1,0,Primrose & Finch,2015-04-26,2015-04-26,Collection,Camille Sample ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+138,Jasmine,Lange,,jasmine.lange@gmail.com,212256010,"136 Glandovey Road, Strowan, Christchurch 8052",,2015-04-21,,1,0,0,0,0,0,0,0,0,0,,2016-03-05,2016-03-05,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+139,Mallory,Redhead,,mallory.redhead@gmail.com,273066775,"2 McIlraith Street, Darfield 7510",,2015-04-23,,1,0,0,0,0,0,0,0,0,0,,2016-01-15,2015-11-30,Bridesmaids,Amber & Bella,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+140,Phoebe,Naismith,Thomass,plt32@uclive.ac.nz,274709847,"17 Chew Place, Ranui, Porirua 5024",,2015-04-24,,1,0,0,0,0,0,0,0,1,0,,2016-01-23,2016-01-14,Collection,Marigold ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+141,Everly,Bridal,,,,,1,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,2017-02-02,2016-12-22,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+142,Everly,Bridal,,,,,1,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,2017-02-02,2016-12-22,,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+143,Samantha,Love,,samanthalove0211@gmail.com,275893242,"29 Duncan Terrace, Kilbirnie, Wellington 6022",,2015-04-29,,0,0,0,0,0,0,0,0,1,0,Friend,2016-01-18,2015-10-30,Bridesmaids,Georgia,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+144,Laura,Munford,,lauramunford88@hotmail.com,212173974,"141 Hillocks Road, RD 3, Blenheim 7273",,2015-05-02,,0,1,0,0,0,0,0,0,0,0,,2015-06-17,2015-06-17,Collection,Short dress,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+145,Hayley,Niven,,nivenhayley@hotmail.com ,212517980,"8A Goring Street, Thorndon, Wellington 6011",,2015-05-02,,0,0,0,0,0,0,0,0,1,0,,2016-01-09,2016-01-09,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+146,Joanna,Ward,,,277409811,"1091 Tauwhare Road, RD 7, Hamilton 3287",,2015-05-02,,0,0,0,0,0,0,0,1,0,0,,2016-02-07,2016-02-07,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+147,Everly,Bridal,,,,,1,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,2017-02-02,2016-12-22,,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+148,Davina,Marr,,davinamarr@gmail.com,211904303,"Apartment H104, 326 Evans Bay Parade, Hataitai, Wellington 6021",,2015-05-07,,1,1,0,0,0,0,0,0,0,1,,,2015-11-04,4 Nov. 2015,1,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+149,Alex,Maher,,alexandrine_maher@icloud.com,272260450,"39C Onslow Road, Khandallah, Wellington 6035",,2015-05-09,,0,0,0,0,0,0,0,0,1,0,Brides on Thorndon,2015-07-10,2015-07-10,Bridesmaids,Charlotte (full length),,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+150,Bridgitte,Masters,,bridgitterosemasters@gmail.com,273504214,"51 Campbell Road, Onehunga, Auckland 1061",,2015-05-09,,0,0,0,0,0,0,0,0,1,0,,2016-02-06,2016-02-06,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+151,Nicki,Lawn,,nicki.lawn@hotmail.com,274679938,"43 Essex Street, Vogeltown, New Plymouth 4310",,2015-05-09,,0,0,0,0,0,0,0,0,1,0,Courtney Stevenson,2016-02-20,2016-02-20,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+152,Emily,Stretch,,emz_007@hotmail.com,Not given,Not given,,2015-05-09,,1,0,0,0,0,0,0,0,0,0,,2016-03-18,2016-03-18,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+154,Bette,Skirt,sample,,,,,2016-02-17,,0,0,0,0,0,0,0,0,0,0,,2016-04-15,2016-04-15,Wholesale Sample,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+155,Tegan,Johnson,,teganjohnson@gmail.com,221954661,"131 Halswell Junction Road, Halswell, Christchurch 8025",,2015-05-15,,0,0,0,0,1,0,0,0,1,0,WOM/truly Madly,2016-01-22,2016-01-22,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+156,Sophia,Pedersen,,sophia@peachesandpickles.net ,274545717,,,2015-05-16,,0,0,0,0,0,0,0,0,0,0,,2016-02-20,2016-01-20,Bridesmaids,BM + FG ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+157,Alex,Green,,alexandra-green@live.com,278292193,"574 Aberdeen Road, Te Hapara, Gisborne 4010",,2015-05-16,,0,1,0,0,0,0,0,0,1,0,,2016-01-09,2015-12-18,Accessory,Veil ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+158,Sophie,Gommans,,sophie.gommans@gmail.com,210707264,"22 Cathie Place, Karori, Wellington 6012",,2015-05-16,,0,0,0,0,0,1,0,0,0,0,,2016-02-06,2016-02-06,Collection,Marigold/Albertine,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+159,Rebecca,Masters,,beckymasters@gmail.com ,276974275,"55 Stanley Street, Berhampore, Wellington 6023",,2015-05-16,,0,1,0,0,0,0,0,0,1,0,,2016-02-27,2016-02-27,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+161,Penny,Lane,sample,,,,,2016-02-17,,0,0,0,0,0,0,0,0,0,0,,2016-04-15,2016-04-15,Wholesale Sample,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+162,Teresa,Top,sample,,,,,2016-02-17,,0,0,0,0,0,0,0,0,0,0,,2016-04-15,2016-04-15,Wholesale Sample,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+163,Alana,Kearney,,lanak1223@gmail.com,273501649,"174A Te Awa Avenue, Te Awa, Napier 4110",,2015-05-30,,1,0,0,0,0,0,0,0,0,0,,2015-03-05,2015-03-05,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+164,Grace,Rive,,grace.rive@icloud.com ,211785624,"Flat 101, 42 Constable Street, Newtown, Wellington 6021",,2015-05-30,,0,0,0,0,0,0,0,0,1,0,Chrissy,2016-01-16,2016-01-08,Collection,Penny Lane ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+165,Joy,Smythe,,joysmythe131@gmail.com ,273616120,"210 Higgins Road, RD 1, Wakefield 7095",,2015-05-30,,1,0,0,0,0,0,0,0,0,0,,2016-02-13,2016-01-13,Collection,Bloomfield ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+166,Justine,Robertson,,justine.s.robertson@gmail.com,2040511984,"Flat 1, 19 Creswick Terrace, Northland, Wellington 6012",,2015-05-30,,0,0,0,0,0,0,1,0,0,0,Wellington,2016-03-12,2016-02-12,Custom,Gloriana,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+167,Flora(no,print),sample,,,,,2016-10-04,,0,0,0,0,0,0,0,0,0,0,,,2016-12-20,Wholesale Sample,Flora,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+168,Katya,Hafich,,,,,1,2017-01-19,,0,0,0,0,0,0,0,0,0,0,,2017-09-23,2017-04-01,Wholesale Collection,Gloriana ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+169,April,Kobus,,,,,1,2016-11-16,,0,0,0,0,0,0,0,0,0,0,,,2017-02-15,Wholesale Collection,Peony  ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+170,Laura,Wright,,l.wright.mw@gmail.com,223787700,"64 Renall Street, Masterton 5810",,2015-06-05,,1,0,0,0,0,0,0,0,0,0,,2015-10-16,2015-10-16,Custom,custom,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+171,Nicky,Pow,,nicky_pow@hotmail.com,223021795,"463 Maunganui Road, Mount Maunganui 3116",,2015-06-06,,1,0,0,0,0,0,0,0,0,0,,2015-12-12,2015-12-12,Collection,Diana (ivory) ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+172,Hannah,Maher,,hanz321@hotmail.com ,274852334,"1709 State Highway 6, RD 3, Blenheim 7273",,2015-06-06,,0,0,0,0,0,0,0,0,1,0,Friend,2016-01-09,2016-01-09,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+173,Tanielle,Poole,,tanielleandvaughan@gmail.com,274493230,"121 Te Anau Road, Hataitai, Wellington 6021",,2015-06-06,,0,0,0,0,0,0,1,0,0,0,Wellington,2015-12-05,2015-11-14,Collection,Diana,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+174,Nina,Hannert,,nhannert@icloud.com ,211145328,"3 Knoll Street, Island Bay, Wellington 6023",,2015-06-06,,0,0,0,0,0,0,1,0,0,0,Wellington,2015-12-19,2015-11-19,Bridesmaids,Elina,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+175,Thyda,Sun,,thyda.sun@gmail.com,211533965,"Unit C5, 13 Palm Grove, Berhampore, Wellington 6023",,2015-06-06,,0,0,0,0,1,0,0,0,0,0,,2016-02-13,2016-01-13,Collection,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+176,Marissa,Flowerday,,marissaflowerday@hotmail.com,21655775,"120 Ohiro Road, Brooklyn, Wellington 6021",,2015-06-10,,0,0,0,0,1,0,0,0,0,0,,2015-10-23,2015-10-23,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+177,Trilby,Carson,,trilbyjane@hotmail.com,272943474,"Flat 3, 23 Clifton Terrace, Kelburn, Wellington 6012",,2015-06-10,,1,1,0,0,0,0,0,0,0,0,,2016-02-20,2016-02-20,Collection,Gloriana/Albertine,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+178,Ashley,Voss,,,,,1,2016-11-16,,0,0,0,0,0,0,0,0,0,0,,,2017-02-15,Wholesale Collection,Genevieve ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+179,Sam,Mckay,,samsammckay@hotmail.com,273450730,"90A Karepa Street, Brooklyn, Wellington 6021",,2015-06-13,,0,0,0,0,0,0,0,0,1,0,Friend,2016-01-06,2016-01-06,Collection,Camille/Rosella,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+180,Julia,Bain,,bainjb1@gmail.com,274246489,"43 Anne Street, Wadestown, Wellington 6012",,2015-06-13,,0,0,0,0,1,0,0,0,0,0,Hello May,2016-03-11,2016-03-11,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+181,Esther,Van,Kuyk,esthervankuyk@gmail.com,273195509,"11 Woodvale Grove, Fairfield, Lower Hutt 5011",,2015-06-13,,0,0,0,0,0,0,0,0,1,0,Friend,2016-04-23,2016-04-23,Collection,Albertine/Grace,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+182,Sarah,Mitchell,,sarah.tim.turner@gmail.com,36856071,"379 Gudex Road, Middle Valley, Fairlie 7987",,2015-06-19,,0,0,0,0,0,0,0,0,1,0,,2016-01-16,2015-12-18,Collection,Rosella/Gloriana,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+183,Sarah,Mitchell,,,,,,2015-06-19,,0,0,0,0,0,0,0,0,0,0,,2016-01-16,2015-12-18,Bridesmaids,Amelia x 2,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+184,Emily,Naylor,,naylor.emily@gmail.com,2102912608,"183 Lane Road, Havelock North 4172",,2015-06-19,,0,0,0,0,0,0,0,0,1,0,Friend,2016-02-13,2016-02-13,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+185,Tori,Avison,,toriavison@gmail.com,277825798,"152A Auckland Road, Greenmeadows, Napier 4112",,2015-06-20,,0,0,0,0,1,0,0,0,0,0,Natalie McNally blog,2016-03-19,2016-02-19,Collection,Diana,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+186,Claire,O'Leary,,,210724799,"36A Iona Road, Havelock North 4130",,2015-06-24,,1,0,0,0,0,0,0,0,1,0,Natasha Ramathas,2016-10-01,2016-10-01,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+187,Katie,Coghlan,,katiecog@hotmail.com,273856082,"15 Victory Avenue, Karori, Wellington 6012",,2015-06-27,,0,0,0,0,0,0,1,0,0,0,Wellington,2016-01-15,2016-01-15,Collection,Kate & skirt,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+188,Emma,Draper,,emma_draper@yahoo.co.nz,226392819,"8A Brougham Street, Mount Victoria, Wellington 6011",,2015-06-27,,0,0,0,0,0,0,0,0,1,0,Friend,2016-01-16,2016-01-07,Custom,Custom ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+189,Caro,Ammundsen,,caroline.ammundsen@gmail.com,211820216,"15 Dorking Road, Brooklyn, Wellington 6021",,2015-06-27,,0,0,0,0,0,0,0,0,1,0,Friend,2016-01-31,2015-12-20,Collection,Marigold ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+190,Hannah,Gibson,-,h_lapsley@hotmail.com,21481984,"3A Frobisher Street, Island Bay, Wellington 6023",,2015-06-27,,0,0,0,0,0,0,0,0,0,1,wedding love,2016-01-16,2016-01-16,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+191,Colleen,Fisher,,,,,1,2016-11-23,,0,0,0,0,0,0,0,0,0,0,,2017-06-30,2017-02-28,Wholesale Collection,Peony,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+192,Tess,Drewitt,,tess.drewitt@gmail.com,220740544,"264 Rosetta Road, Raumati Beach, Paraparaumu 5032",,2015-06-27,,0,0,0,0,0,0,0,0,1,0,,2016-02-06,2016-02-06,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+193,Katie,Bromback,,,,,,2017-05-11,,0,0,0,0,0,0,0,0,0,0,,2018-01-20,2017-08-01,Wholesale Collection,Peony ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+194,Aimee,Kelly,,aimeekelly88@yahoo.co.nz,273764799,"84 Coutts Road, Gore 9710",,2015-06-30,,1,0,0,0,0,0,0,0,0,0,,2016-03-26,2015-10-30,Bridesmaids,Amelia x3,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+195,Kerry,Galbraith,,,,,,2017-03-18,,0,0,0,0,0,0,0,0,0,0,,2017-08-19,2017-06-15,Wholesale Collection,Elsie ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+196,Lara,Steele,,tylerwedding10@gmail.com,0415 128 241,6 Hyland Ave West Pennant Hills NSW 2125 Australia,,2015-07-02,,1,0,0,0,0,0,0,0,0,0,,2015-12-06,2015-09-30,Bridesmaids,Georgia x4,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+197,Rachel,Enstrom,,,,,,2015-08-07,,0,0,0,0,0,0,0,0,0,0,,2016-06-02,2015-11-15,Wholesale Collection,Marigold ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+198,Alice,Cuttance,,alice_cuttance@hotmail.com,21910292,"5 Severn Street, Island Bay, Wellington 6023",,2015-07-04,,0,0,0,0,1,0,0,0,0,0,Magnolia Rouge - Photoshoot (Billie Brook) ,2016-01-06,2015-12-06,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+199,Georgette,Philp,,philpg@scotscollege.school.nz,273032614,"25A Ariki Road, Hataitai, Wellington 6021",,2015-07-04,,0,0,0,0,0,0,1,1,0,0,,2016-01-30,2015-12-20,Collection,Albertine/pennylane,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+200,Julia,Scott,,juliacscott@yahoo.co.nz ,21646408,"194 Cockayne Road, Ngaio, Wellington 6035",,2015-07-04,,1,0,0,0,0,0,0,0,0,0,,2016-02-13,2016-02-13,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+201,Georgie,Ensor,,georgie_ensor@hotmail.com ,274034965,"317 Kimbolton Road, Feilding 4702",,2015-07-04,,1,0,0,0,0,0,0,0,0,0,,2016-04-09,2016-04-09,Collection,Rosella/Florence,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+202,Hazel,Lund,,hazellund@hotmail.com,2102670138,"14A Freeling Street, Island Bay, Wellington 6023",,2015-07-07,,0,0,0,0,0,0,0,0,1,0,,2016-02-05,2016-02-05,Collection,Audrey,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+203,Amelia,Gill,,mealy.g@gmail.com,212037979,"27 Emerson Street, Petone, Lower Hutt 5012",,2015-07-08,,0,0,0,0,0,0,0,0,0,0,,2016-03-25,2016-03-09,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+204,Amelia,Gill,,,,,,2015-07-08,,0,0,0,0,0,0,0,0,0,0,,2016-03-25,2016-03-09,Bridesmaids,Mia + Slip ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+205,Charlotte,Nichols,,cjn.artist@gmail.com,276301383,"6 Evesham Crescent, Spreydon, Christchurch 8024",,2015-07-10,,1,0,0,0,0,0,0,0,0,0,Online via Mille Feuille ,2016-03-26,2016-02-26,Collection,Rosella ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+206,Caroline,Love,,carolinelove31@gmail.com,212295485,"78A Mansels Road, Greerton, Tauranga 3112",,2015-07-11,,0,0,0,0,0,0,0,0,1,0,Anna Luke,2015-10-24,2015-10-24,Bridesmaids,Amelia (sapphire) ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+207,Michele,Hardy-Jones,,mhardyjones@hotmail.com,223990842,"8A Furlong Crescent, Churton Park, Wellington 6037",,2015-07-11,,0,0,0,0,0,0,0,0,0,0,,2016-03-05,2016-02-05,Collection,Rosella ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+208,Mary,Davies-Colley,,,221260158,"Unit W202, 28 Torrens Terrace, Mount Cook, Wellington 6011",,2015-07-11,,0,0,0,0,0,0,1,0,0,0,Wellington,2016-02-20,2016-02-20,Collection,Rosella (possibly changing lace) ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+209,Terese,Fitzgerald,,,220815492,"29A Rawhiti Terrace, Kelburn, Wellington 6012",,2015-07-11,,0,0,0,0,0,0,0,0,1,0,Friend,2016-03-12,2016-03-12,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+210,Kerry,Jarvis,,kezjarvis81@hotmail.com,276551655,"108 Curtis Street, Northland, Wellington 6012",,2015-07-11,,0,0,0,0,0,0,0,0,1,0,Friend,2016-12-17,2016-12-06,Custom,Audrey (varitaion) ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+211,Claire,Palmer,,clairevpalmer@hotmail.com,211168764,"3 Rongopai Street, Palmerston North 4414",,2015-07-15,,1,0,0,0,0,0,0,0,0,0,,2017-01-01,2017-01-01,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+212,Hayley,Bathard,,hayley.bathard@gmail.com ,274668252,"Flat 2, 11 Anderson Terrace, Mount Cook, Wellington 6021",,2015-07-16,,1,0,0,0,0,0,0,0,0,0,,2016-09-10,2016-09-10,Custom,Audrey (variation) ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+213,Belen,Ortega,,belenort@yahoo.com,2102531072,"106A Tauhinu Road, Miramar, Wellington 6022",,2015-07-17,,1,1,1,0,0,0,0,0,0,0,,2016-06-26,2016-05-26,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+214,Brigid,Condon,,brigidcondon@yahoo.com.au,0419 227 863,"26 Neston Ave, Plympton, SA 5038, Australia",,2015-07-18,,1,0,0,0,0,0,0,0,0,0,,2015-09-19,2015-09-19,Collection,Lindee Rose ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+215,Marloes,Van,Geel,,277555655,"13 Beachvale Drive, Kaiapoi 7691",,2015-07-18,,1,0,0,0,0,0,0,0,1,0,Friends,2016-01-04,2016-01-04,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+216,Michelle,Trembath,,michelletrem@gmail.com ,272487899,"1870 Egmont Road, RD 6, Inglewood 4386",,2015-07-18,,1,0,0,0,0,0,0,0,0,0,,2016-03-26,2016-03-26,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+217,Charlotte,Renwick,,cakrenwick@gmail.com,211622572,"Unit 2F, 245 Wakefield Street, Te Aro, Wellington 6011",,2015-07-18,,1,0,0,0,0,0,0,0,0,0,,2016-11-05,2016-11-05,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+218,Siri,Lohmann,,,,,,2015-05-21,,0,0,0,0,0,0,0,0,0,0,,2016-06-04,2015-08-30,Wholesale Collection,Gloriana,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+220,Sarah,Hamilton,,sarah.hamilton@fmrgroup.co.nz,212283509,"29 Hospital Road, Witherlea, Blenheim 7201",,2015-07-23,,1,0,0,0,0,0,0,0,0,0,,2015-12-08,2015-11-08,Collection,Flora ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+221,Kate,Hardcastle,,katehardcastle@gmail.com,21422939,moving to Sydney,,2015-07-23,,1,0,0,0,0,0,0,0,0,0,,2017-02-04,2017-01-04,Custom,Teresa & Bette ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+222,Angela,Mayston,,ange.mayston@gmail.com,44-7460349983,"138 Barry Road, East Dulwich, London, SE22 0HW, UK",,2015-07-24,,0,0,0,0,0,0,0,0,1,0,Luella's,2016-05-07,2015-12-10,Collection,Rosella (white) ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+223,Sarah,Stephens,,badgerpaw1@hotmail.com,06 3228432,"5024 Turakina Valley Road, RD 2, Hunterville 4782",,2015-07-24,,1,0,0,0,0,0,0,0,0,0,,2017-02-17,2017-02-17,Custom,custom,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+224,Carly,Smith,,carlyjenna@hotmail.com,276964748,"24 Mangaroa Hill Road, Maoribank, Upper Hutt 5018",,2015-07-25,,0,1,0,0,0,0,0,0,0,0,,2015-11-28,2015-11-28,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+225,Gabrielle,Summerson,,,,,,2017-05-09,,0,0,0,0,0,0,0,0,0,0,,2017-09-02,2017-07-30,Wholesale Collection,Julia ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+226,Miriam,Chote,,miriam.chote@gmail.com,21447900,"22B Woodridge Drive, Woodridge, Wellington 6037",,2015-07-25,,1,0,0,0,0,0,0,0,0,0,,2016-02-01,2016-02-01,Collection,Rosella,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+227,Alice,Eckhoff,,alice_eckhoff@hotmail.com,220896927,"12 Dee Street, Island Bay, Wellington 6023",,2015-08-01,,0,0,0,0,0,0,0,0,1,0,Jess Ongley,2016-01-15,2015-12-15,Custom,Custom wedding dress (variation of Albertine),,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+228,Alice,Eckhoff,,,,,,2015-08-01,,0,0,0,0,0,0,0,0,0,0,,2016-01-15,2015-12-15,Bridesmaids,Charlotte (customized),,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+229,Deborah,Kessell,-,d17kessell@gmail.com,021 511 037,"15 Stratton Street, Normandale, Lower Hutt 5010",,2015-08-01,,0,0,0,0,1,0,0,0,0,0,photographers website - Anna Munro,2016-02-13,2016-01-13,Custom,Custom (20th Wedding Anniversary),,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+230,Hannah,Taylor,,hannahtaylor010@gmail.com ,223530711,"196A Oceanbeach Road, Mount Maunganui 3116",,2015-08-01,,1,0,0,0,0,0,0,0,0,0,,2016-04-02,2016-04-02,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+231,Gemma,Tindale,,,,,,2017-02-17,,0,0,0,0,0,0,0,0,0,0,,2017-09-30,2017-05-17,Wholesale Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+233,Ryanne-Nicole,Anderson,,,,,,2016-01-12,,0,0,0,0,0,0,0,0,0,0,,2016-06-04,2016-03-11,Wholesale Collection,Diana - agatha skirt,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+234,Sarah,Coghlan,,,,,1,2016-01-12,,0,0,0,0,0,0,0,0,0,0,,2016-08-01,2016-03-11,Wholesale Collection,Bette Skirt,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+235,Hailey,Taylor,,,,,,2017-03-14,,0,0,0,0,0,0,0,0,0,0,,2017-08-05,2017-06-13,Wholesale Collection,Paige ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+236,Hallie,Van,Booma,,,,,2017-05-05,,0,0,0,0,0,0,0,0,0,0,,2017-12-22,2017-08-08,Wholesale Collection,Julia ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+237,Brodie,Kingstone,,brodie.kingstone@gmail.com,274656571,"3 William Denny Avenue, Westmere, Auckland 1022",,2015-08-05,,1,0,0,0,0,0,0,0,0,0,,2016-03-19,2016-03-19,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+238,Hannah,Jonas,,,,,,2017-05-17,,0,0,0,0,0,0,0,0,0,0,,2017-03-24,2017-08-15,Collection,Piper,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+239,Penny,lane,,,,,1,2015-11-13,,0,0,0,0,0,0,0,0,0,0,,,2016-01-10,Wholesale Sample,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+240,Emma,Cooney,,emmacooney@gmail.com,21435556,"234 Helston Road, Paparangi, Wellington 6037",,2015-08-07,,1,0,0,0,0,0,0,0,0,0,,2017-01-13,2016-12-13,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+241,Aishia,Healey,,aishiajhealey@gmail.com,210418788,"97Q Mays Road, Onehunga, Auckland 1061",,2015-08-07,,0,0,0,0,0,0,0,0,1,0,Friend,2016-04-01,2016-04-01,Collection, Albertine ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+242,Agatha,Skirt,,,,,1,2015-11-13,,0,0,0,0,0,0,0,0,0,0,,,2016-03-04,Wholesale Sample,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+243,Bette,Skirt,,,,,1,2015-11-13,,0,0,0,0,0,0,0,0,0,0,,,2016-03-04,Wholesale Sample,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+244,Lily,Klaricich,,puffiey@hotmail.com,220958463,"6 Belvedere Road, Hataitai, Wellington 6021",,2015-08-08,,0,0,0,0,0,0,0,0,0,1,Made her wedding dress ,2015-10-02,2015-10-02,Bridesmaids,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+245,Alivia,McCallum,,findmrstagz@icloud.com,211914020,"2B Valecrest Place, Bayview, Auckland 0629",,2015-08-08,,0,0,0,0,0,0,0,0,1,0,Lucy Nicholas,2016-02-20,2016-02-12,Bridesmaids,Georgia x 2,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+246,Lisette,Hakkens,,listte.hakkens@bellblock.school.nz,277383147,"311 Tukapa Street, Hurdon, New Plymouth 4310",,2015-08-08,,0,0,0,0,0,0,0,0,0,0,,2016-04-02,2016-04-02,Collection,Billie,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+247,Dee,Edwards,,dedwardsnz@gmail.com,21523245,"40A Woodside Avenue, Northcote, Auckland 0627",,2015-08-12,,0,0,0,0,0,0,0,0,1,0,Luellas ,2016-01-09,2015-11-25,Collection,Diana ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+248,Anna,Gregg,,akmason82@gmail.com,212504322,"Flat 1, 349 Tamaki Drive, St Heliers, Auckland 1071",,2015-08-13,,0,0,0,0,0,0,0,0,0,1,Made her wedding dress :) ,2015-10-31,2015-10-31,Bridesmaids,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+249,Dainty,Bess,,, ,,1,2015-11-13,,0,0,0,0,0,0,0,0,0,0,,,2016-03-04,Wholesale Sample,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+251,Emily,White,,,,,1,2016-02-09,,0,0,0,0,0,0,0,0,0,0,,2016-05-03,2016-04-01,Wholesale Collection,Gloriana ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+252,Claire,Stackhouse,,clairestackhouse@hotmail.com,21952546,"5 Waimarie Street, Pegasus 7612",,2015-08-14,,0,1,1,0,0,0,0,0,0,0,,2016-11-26,2016-10-26,Collection,Audrey,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+254,Lisa,Turnbull,,lisatbullgreen@gmail.com,272117888,"8 Sidlaw Street, Strathmore Park, Wellington 6022",,2015-08-15,,0,0,0,0,0,0,1,0,0,0,Wellington,2016-04-05,2016-04-05,Collection,Gloriana,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+255,Megan,Juno,,meganjuno@gmail.com,278004192,"239 Rosetta Road, Raumati Beach, Paraparaumu 5032",,2015-08-15,,1,0,0,0,0,0,0,0,0,0,,2016-02-27,2016-02-27,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+256,Catherine,Graham,,grahamc@tcd.ie,221084312,"39A Wallis Street, Raglan 3225",,2015-08-15,,1,0,0,0,0,0,0,0,0,0,,2016-07-16,2016-07-16,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+257,Alix,Waters,,alixh20@hotmail.com,027 4166 719,"8 Fiona Place, Dinsdale",,2015-08-18,,0,0,0,0,0,0,0,0,1,0,celebrant,2015-12-11,2015-10-30,Bridesmaids,Bella x2 ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+258,Erica,Field,,erica55@vodafone.co.nz,21414810,"46 Brougham Street, Westport 7825",,2015-08-19,,0,0,0,0,0,0,0,0,0,1,,2015-11-30,2015-11-30,Collection,virginia + Agatha ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+260,Lindee,Rose,,,,,1,2015-11-13,,0,0,0,0,0,0,0,0,0,0,,,2016-03-04,Wholesale Sample,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+261,Cathy,Buxton,,cathybuxton@hotmail.co.uk,2108215730,"22 Piko Street, Titahi Bay, Porirua 5022",,2015-08-22,,1,0,0,0,0,0,0,0,0,0,,2016-02-13,2016-01-13,Collection,Rosella,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+262,Vanessa,Haggie,,vanessa.haggie@gmail.com,21944010,"31A Nairn Street, Mount Cook, Wellington 6011",,2015-08-22,,0,0,0,0,1,0,0,0,0,0,,2016-11-05,2016-10-05,Collection,Marilyn,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+263,Lousie,Gordon,,lulu.gordon@gmail.com,274186415,"169/632 St Kilda Rd, Melbourne, VIC 3004, Australia ",,2015-08-26,,0,0,0,0,0,0,0,0,1,0,Photographer,2016-04-02,2016-04-02,Collection,Marilgold ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+264,Sarah,Mather,,sarahmather@windowslive.com ,278510420,"5 Springdale Grove, Fitzherbert, Palmerston North 4410",,2015-08-29,,1,0,0,0,0,0,0,0,0,0,,2016-02-18,2016-02-18,Collection,Albertine,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+265,Lynette,Simonson,,Lynette.Simonson@nzpost.co.nz,not given ,not given,,2015-08-29,,0,0,0,0,0,0,0,0,1,0,through Daughter Helen ,2015-10-10,2015-10-10,Bridesmaids,Lillian x 2,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+266,Alana,Compton,,,221722691,not given ,,2015-09-01,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+267,Philippa,Upham,,philippaupham@gmail.com,21557071,not given ,,2015-09-02,,0,0,0,0,0,0,0,0,0,0,,2015-12-05,2015-11-15,Bridesmaids,Amber x 2,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+268,Rochelle,Fauset,,rochelle.fausett@gmail.com,212345191,"3B Maurice Terrace, Te Aro, Wellington 6011",,2015-09-02,,0,0,0,0,0,0,0,0,0,0,,2015-12-05,2015-11-20,Bridesmaids,Amber x 5,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+269,Teresa,Top,,,,,1,2015-11-13,,0,0,0,0,0,0,0,0,0,0,,,2016-03-04,Wholesale Sample,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+270,Jo,Mettrick,,jo@mayflydesign.co.nz,211844272,"190A Cockayne Road, Ngaio, Wellington 6035",,2015-09-08,,1,0,0,0,0,0,0,0,0,0,,2015-11-28,2015-11-20,Bridesmaids,Bella (maternity) ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+271,Virginia,Top,,,,,1,2015-11-13,,0,0,0,0,0,0,0,0,0,0,,,2016-03-04,Wholesale Sample,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+272,Alva,Lawler,,ailbhe_lawler@yahoo.co.uk,223650683,not given ,,2015-09-09,,0,0,0,0,0,0,0,0,0,0,,2016-03-26,2016-03-26,Custom,custom ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+273,Liz,Kemp,,lizmkemp@hotmail.com,211709276,"41 Winsley Terrace, Churton Park, Wellington 6037",,2015-09-10,,0,0,0,0,1,0,0,0,0,0,,2016-03-24,2016-03-24,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+274,Megan,McFarlane,,m.k.mcfarlane@gmail.com,21683826,Auckland,,2015-09-11,,1,0,0,0,0,0,0,1,1,0,Sister,2016-03-18,2016-03-18,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+275,Laura,Ichim,,loretta.ichim@gmail.com,212467838,"Flat 4, 34 Hawkestone Street, Thorndon, Wellington 6011",,2015-09-12,,0,0,0,0,0,0,0,0,1,0,Justine Robertson ,2016-01-26,2015-12-20,Bridesmaids,Amber + Slip ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+276,Anna,Tonks,,annat_nz@outlook.com,221646748,"Flat 4, 34 Hawkestone Street, Thorndon, Wellington 6011",,2015-09-12,,0,0,0,0,0,0,0,0,1,0,Justine Robertson,2016-03-12,2016-01-30,Bridesmaids,Amber + Slip ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+277,Keira,McCullough,,keira.mccullough@gmail.com,2102737372,"4 Tombane Lane, Papakowhai, Porirua 5024",,2015-09-12,,1,0,0,0,0,0,0,0,0,0,,2016-02-19,2016-02-19,Collection,Gloriana (full lace) ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+278,Rebecca,McDowell,,,,,1,2016-02-03,,0,0,0,0,0,0,0,0,0,0,,2016-08-01,2016-05-30,Wholesale Collection,Victoria ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+279,Jacqui,Gee,,,,,1,2015-11-05,,0,0,0,0,0,0,0,0,0,0,,2016-03-19,2016-01-19,Wholesale Collection,Florence ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+281,Louise,Taylor,,louisetaylor22@hotmail.com,279561225,"168 Matai Road, Raumati Beach, Paraparaumu 5032",,2015-09-16,,1,1,0,0,0,0,0,0,0,0,,2016-02-13,2016-02-13,Collection,Audrey ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+282,Briana,Foote,,briana.jane@hotmail.com,278116587,"106 Awarua Street, Ngaio, Wellington 6035",,2015-09-18,,0,0,0,0,0,0,0,0,1,0,,2016-03-05,2016-03-05,Collection,Diana ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+283,Sian,Smith,,fasiansmith@gmail.com,212852980,"63 Rua Rd, Glen Eden, Auckland, 0602",,2015-09-18,,1,0,0,0,0,0,0,0,0,0,,2015-12-20,2015-11-20,Bridesmaids,different x 6,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+284,Valerie,Tai,,tai.valerie@gmail.com,210415184,"35 Yule Street, Kilbirnie, Wellington 6022",,2015-09-19,,1,0,0,0,0,0,0,0,0,0,,2016-03-19,2016-02-23,Collection,Albertine/Gloriana,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+285,Rachel,Eves,,rachel_eves@hotmail.com,274262113,"23 Cresswell Place, Johnsonville, Wellington 6037",,2015-09-19,,1,0,0,0,0,0,0,0,0,0,,2016-04-02,2016-03-02,Bridesmaids,custom,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+286,Katherine,Mortlock,,,,,,2017-06-20,,0,0,0,0,0,0,0,0,0,0,,2018-01-20,2017-09-20,Wholesale Collection,Gloriana + Veil ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+287,Kirsty,Chambers,,,,,1,2015-11-06,,0,0,0,0,0,0,0,0,0,0,,2015-11-21,2015-11-13,Wholesale Accessory,Veil ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+288,Kristin,Kunasingam,,,,,1,2016-08-31,,0,0,0,0,0,0,0,0,0,0,,2017-04-26,2016-11-30,Wholesale Collection,Peony & Violet,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+289,Louisa,Watson,,,,,,2017-02-17,,0,0,0,0,0,0,0,0,0,0,,2017-10-27,2017-05-08,Wholesale Collection,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+290,Jo,Pannell,,jopannell@greendoor.co.nz,211499500,"34 Quebec Road, Washington Valley, Nelson 7010",,2015-09-25,,1,0,0,0,0,0,0,0,0,0,,2016-03-05,2016-03-05,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+291,Tracy,Jansen,,tracyjansen@hotmail.com,211746462,"14 Arthur Street, Glenholme, Rotorua 3010",,2015-09-26,,0,0,0,0,0,0,0,0,1,0,Rachel Lynsky,2016-01-02,2015-12-01,Collection,Flora/Florence,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+292,Emily,Mark,,emily.mark@nz.gt.com,211601553,"183 Glenmore Street, Kelburn, Wellington 6012",,2015-09-26,,1,0,0,0,0,0,0,0,1,0,,2016-02-06,2016-01-10,Bridesmaids,Amber ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+293,Susie,McShane,,susannahmcshane@hotmail.com,21454843,"72 Herald Street, Berhampore, Wellington 6023",,2015-09-26,,1,0,0,0,0,0,0,0,0,0,,2016-11-12,2016-11-12,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+294,Abigail,Ritchie,,,,,,2014-12-04,,0,0,0,0,0,0,0,0,0,0,,2015-05-02,2015-05-02,Wholesale Bridesmaids,BM x 4,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+295,Alexandra,Chrysanthakis,,,,,,2016-12-22,,0,0,0,0,0,0,0,0,0,0,,2017-08-01,2017-04-04,Wholesale Collection,Genevieve ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+296,Megan,Haywood,,meringue13@hotmail.com,274033731,"2 St Hill Lane, Havelock North 4130",,2015-09-30,,1,0,0,0,0,0,0,0,0,0,,2016-01-09,2016-01-09,Collection,Albertine ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+297,Renee,Ladbrook,,renee.ladbrook@hotmail.com ,272569045,"287B Tay Street, Turnbull Thomson Park, Invercargill 9810",,2015-09-30,,0,0,0,0,0,0,0,0,0,0,,2016-03-13,2016-03-13,Collection,Florence ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+298,Mandy,Brown,,mandybrown76@hotmail.com,220487880,"Apartment 30, 254 Willis Street, Te Aro, Wellington 6011",,2015-10-03,,0,0,0,0,0,0,0,0,1,0,,2016-04-02,2016-04-02,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+299,Frances,Shone,,frances_shone@hotmail.com,278588431,"300 Main Road Hope, Hope, Richmond 7020",,2015-10-07,,1,0,0,0,0,0,0,0,0,0,,2016-01-01,2015-12-20,Bridesmaids,Amelia x 2,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+300,Amy,Burns,,,,,,2016-10-26,,0,0,0,0,0,0,0,0,0,0,,2017-06-16,2017-03-01,Wholesale Collection,   ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+301,Cathy,Buxton,,,,,,2015-10-10,,0,0,0,0,0,0,0,0,0,0,,2016-02-13,2016-01-13,Bridesmaids,Elina (full length),,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+302,Catherine,Hanley,,,,,,2016-08-11,,0,0,0,0,0,0,0,0,0,0,,2017-06-10,2017-01-30,Wholesale Collection,Audrey,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+303,Elizabeth,Russell,,,,,,2014-12-24,,0,0,0,0,0,0,0,0,0,0,,2015-07-31,2015-07-31,Wholesale Bridesmaids,Georgia x4,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+304,Angelique,Moroney,,gln.robson@gmail.com,2102799629,"2 / 3 Skilling Place, Farm Cove, 2012, Auckland ",,2015-10-15,,1,0,0,0,0,0,0,0,0,0,,2016-11-11,2016-10-11,Bridesmaids,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+305,Jacinta,Isaacs,,jacinta.isaacs@gmail.com,61 2 8006 0934,18 View St Woollahra NSW 2025 Sydney Australia,,2015-10-16,,1,0,0,0,0,0,0,0,0,0,,2016-02-21,2016-01-16,Bridesmaids,Lillian & Elina,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+306,Emily,Rosoman,,emilyrosoman@gmail.com,273336635,"209 Rintoul Street, Berhampore, Wellington 6023",,2015-10-17,,0,0,0,0,1,0,0,0,0,0,,2016-01-09,2015-12-09,Collection,Billie,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+307,Jess,Punton,,jess.punton@huttvalleydhb.org.nz,21817174,"58 Hall Crescent, Epuni, Lower Hutt 5011",,2015-10-17,,0,0,0,0,1,0,0,0,0,0,,2016-02-07,2016-02-07,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+308,Bethany,Wylie,,bgwylie@gmail.com,274349289,"Unit 4, 59 Cambridge Terrace, Te Aro, Wellington 6011",,2015-10-17,,0,0,0,0,0,1,0,0,0,0,,2016-02-13,2016-02-13,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+309,Jacqui,Gee,,jacsgee@gmail.com,273783478,"28 Monowai Crescent, North New Brighton, Christchurch 8083",,2015-10-17,,0,0,0,0,1,0,0,0,0,0,,2016-03-19,2016-02-19,Bridesmaids,Charlotte,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+310,Anna,Vibrandt,,annavibrandt@gmail.com,21332052,"337 Jackson Street, Petone, Lower Hutt 5012",,2015-10-17,,0,0,0,0,1,0,0,0,0,0,SEB,2016-10-01,2016-10-01,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+311,Jennifer,Day,,dayj237@gmail.com,,,,2015-10-21,,1,0,0,0,0,0,0,0,0,0,,2016-07-01,2016-01-30,Collection,Alterations to custom marigold,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+312,Natasha,Garvan,,tashgarvan@gmail.com ,274200561,"76 Monteith Crescent, Remuera, Auckland",,2015-10-22,,0,0,0,0,0,0,0,0,1,0,Primrose & Finch,2016-02-12,2016-01-12,Bridesmaids,4 x different,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+313,Holly,Wick,,,,,,2015-01-03,,0,0,0,0,0,0,0,0,0,0,,2015-05-16,2015-05-16,Wholesale Bridesmaids,BM x 5,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+314,Brownyn,Scott,,scottbronwynl@gmail.com,276201234,"Flat 3, 71 Garden Road, Northland, Wellington 6012",,2015-10-24,,1,0,0,0,0,0,0,0,0,1,google maps,2016-03-11,2016-03-11,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+315,Dannielle,Prout,,Dannielle.Prout@aurecongroup.com,211761396,(not given) ,,2015-10-24,,1,0,0,0,0,0,0,0,0,0,,2016-02-27,2016-02-13,Bridesmaids,Alexis ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+316,Jess,Thoms,,,,,,2016-09-07,,0,0,0,0,0,0,0,0,0,0,,2017-03-18,2016-11-30,Wholesale Collection,Audrey,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+317,Emma,Davis,,emmaclairedavis@gmail.com ,274287313,"Flat 4, 31 Saltaire Street, Avondale, Auckland 1026",,2015-10-27,,0,0,1,0,0,0,0,0,0,0,,2016-10-01,2016-09-01,Collection,Diana/Florence + veil,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+318,Divya,Ramanan,,divya.ramanan@hotmail.com,274179935,"Flat 50, 3 Wagener Place, Mount Albert, Auckland 1025",,2015-10-28,,1,0,0,0,0,0,0,0,1,0,Candy Capco Photographer,2016-02-07,2016-02-07,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+319,Laetita,Clarke,,,,,,2017-05-31,,0,0,0,0,0,0,0,0,0,0,,2018-10-30,2017-09-01,Wholesale Collection,Audrey ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+320,Rachel,Warwick,,,,,1,2016-08-31,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Collection,Audrey,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+321,Rebecca,Brough,,,,,,2017-06-15,,0,0,0,0,0,0,0,0,0,0,,2017-12-13,2017-09-15,Wholesale Collection,Genevieve ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+322,Theresa,Griffin,,t-griffin41@hotmail.com,273075307,"65C Northgate, Strandon, New Plymouth 4312",,2015-10-31,,0,0,0,0,0,0,0,0,1,0,Chelsey Lawson,2016-03-19,2016-02-27,Custom,Custom,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+323,Rachael,Anderson,,Rachael.Anderson@nec.co.nz ,212616662,"2 Churton Drive, Churton Park, Wellington 6037",,2015-10-31,,0,0,0,0,0,0,1,0,0,0,Wellington,2016-04-09,2016-03-09,Collection,Rosella/Flora,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+324,Angela,Gane,,angela_gane@hotmail.com,212994025,"429 Ohariu Valley Road, Ohariu, Wellington 6037",,2015-11-04,,0,0,0,0,0,0,0,0,1,0,Becky Slieker/Anna Gulbransen ,2016-03-19,2016-02-19,Collection,Marigold ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+325,Ruth,Bostock,,,,,,2017-02-24,,0,0,0,0,0,0,0,0,0,0,,2017-08-31,2017-06-01,Wholesale Collection,Audrey ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+329,Kate,Corry,,,,,,2017-02-08,,0,0,0,0,0,0,0,0,0,0,,2017-09-01,2017-06-08,Wholesale Collection,Audrey ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+330,Kellie,Harrison,,,275045048,"103/80 Riddiford Street, Newtown 6021",,2015-11-06,,1,0,0,0,0,0,0,0,0,0,,2016-02-13,,Bridesmaids,BM,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+331,Victoria,Huxter,,,,,,2017-02-03,,0,0,0,0,0,0,0,0,0,0,,2017-06-17,2017-04-04,Wholesale Collection,Genevieve ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+332,Jacqui,Turner,,jacqui.turner@hotmail.com,276320304,"26 Connolly Street, Geraldine 7930",,2015-11-06,,0,0,0,0,0,0,0,0,1,0,Bridesmaids partner ,2016-12-03,2016-11-15,Collection,Diana ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+334,Alice,Taylor,,,,,1,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,2017-06-10,2017-02-15,Wholesale Collection,Delphine ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+335,Sarah,Martin,,sezmartin@gmail.com,224535494,"22 Grass Street, Roseneath, Wellington 6011",,2015-11-07,,0,0,0,0,0,0,0,0,1,0,Family Friends ,2016-03-05,2016-02-05,Collection,Glroriana,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+336,Nina,Lillo,,ninalillo@gmail.com,221836243,"Flat 13, 37 Daniell Street, Newtown, Wellington 6021",,2015-11-10,,1,0,0,0,0,0,0,0,0,0,,2016-02-19,2016-02-03,Collection,Camille ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+337,Hayley,Greenwood,,hayley.greenwood@hotmail.com,212473229,"75 Bayly Street, Waitara 4320",,2015-11-12,,1,0,0,0,0,0,0,0,0,0,,2016-02-20,2016-01-20,Bridesmaids,Mia ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+338,Sophie,Tricker,,sophietricker@gmail.com,275050889,"Flat 4, 271 Karaka Bay Road, Karaka Bays, Wellington 6022",,2015-11-13,,0,0,0,0,0,0,0,0,1,0,Through friend who've got dresses through us,2016-02-12,2016-01-12,Collection,Albertine,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+339,Amanda,Radcliffe,,,,,,2014-11-18,,0,0,0,0,0,0,0,0,0,0,,2015-07-31,2015-07-31,Wholesale Collection,Moonstone,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+341,Beth,Sherman,,,,,1,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,2017-05-26,2017-02-15,Wholesale Collection,Diana - ivory ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+342,Collette,O'Neil,,,,,,2015-05-06,,0,0,0,0,0,0,0,0,0,0,,2015-12-20,2015-09-30,Wholesale Collection,Emily/Florence,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+344,Emma,Thorne,,,,,1,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,2017-07-15,2017-02-15,Wholesale Collection,Siena ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+345,Jo,McLelland,,,,,,2014-11-04,,0,0,0,0,0,0,0,0,0,0,,2016-02-13,2015-09-30,Wholesale Collection,Moonstone,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+346,Kate,Nelson,,,,,1,2016-10-14,,0,0,0,0,0,0,0,0,0,0,,2017-05-01,2017-02-15,Wholesale Collection,Marilyn ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+347,Katharine,Marsh,,,,,,2014-10-09,,0,0,0,0,0,0,0,0,0,0,,2015-06-13,2015-06-13,Wholesale Collection,Rosella,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+349,Liz,Brand,,brandliz@hotmail.com,(0061) 0432879858,"4/957 Punt Road, South Yarra, VIC 3141",,2015-11-14,,1,0,0,0,0,0,0,0,0,0,,2016-02-27,2016-01-27,Bridesmaids,Amelia + Slip ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+350,Jennie,Nelson,,nelson.jennie85@gmail.com,212304642,"9 Hunt Place, Albert Town 9305",,2015-11-14,,1,0,0,0,0,0,0,0,0,0,,2016-03-19,2016-02-19,Collection,Audrey,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+351,Lizzie,Cassidy,,,273814806,"76 Campbell Road, Mount Maunganui 3116",,2015-11-14,,0,0,0,0,0,0,0,0,1,0,"Maree Badger, Website ",2016-03-28,2016-02-28,Collection,Audrey/Gloriana,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+352,Isabel,Donelan,,isabel.donelan@gmail.com,274226560,"121 Eden Street, Island Bay, Wellington 6023",,2015-11-14,,0,0,0,0,0,0,0,0,1,0,via her sister and colleagues,2016-03-26,2016-03-03,Collection,Gloriana/Diana ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+353,Emma,Ray,,emma.kay@live.com,220851265,"13 Kevin Street, Hoon Hay, Christchurch 8025",,2015-11-14,,0,0,0,0,0,0,0,0,1,0,Christchurch bridal boutique,2016-11-05,2016-10-05,Collection,Camille ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+355,Philippa,Seal,,,,,,2015-06-04,,0,0,0,0,0,0,0,0,0,0,,2015-09-12,2015-09-12,Wholesale Collection,Emily,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+356,Marysa,Dalton,,,,,,2015-11-19,,0,0,0,0,0,0,0,0,0,0,,2016-01-07,2015-12-18,Bridesmaids,Amelia ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+357,Kate,Newton,,k8newton@hotmail.com,211128182,"Apartment 3B, 21 Rugby Street, Mount Cook, Wellington 6021",,2015-11-19,,0,0,1,0,0,0,0,0,0,0,,2016-04-21,2016-04-08,Custom,custom,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+358,Anna,Storey,,annamstorey@yahoo.co.uk,210794384,"Unit 22, 26 View Road, Titahi Bay, Porirua 5022",,2015-11-20,,0,0,0,0,0,0,0,0,1,0,friends,2016-03-05,2016-02-05,Bridesmaids,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+359,Paganne,Moore,,paganne.m@gmail.com,278551717,"Apartment 4F, 164 The Terrace, Wellington Central, Wellington 6011",,2015-11-21,,1,0,0,0,0,0,1,0,0,0,,2016-02-13,2016-01-13,Accessory,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+360,Brianna,Dean,,brianna.dean008@gmail.com,273781195,"28 Mana Street, Vogeltown, Wellington 6021",,2015-11-21,,0,0,0,0,0,0,0,0,1,0,Ashleigh!,2016-07-16,2016-06-16,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+361,Lucy,Harrison,,lucy.alexandra.harrison@gmail.com,273565230,"42 Jackson Street, Island Bay, Wellington 6023",,2015-11-21,,0,0,0,0,0,0,0,0,1,0,From a friend,2017-01-20,2016-12-20,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+362,Sara,Naila,,,,,,2014-11-11,,0,0,0,0,0,0,0,0,0,0,,2015-06-26,2015-06-26,Wholesale Collection,Emily,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+363,Helen,Paul,,,,,1,2016-05-20,,0,0,0,0,0,0,0,0,0,0,,2016-09-03,2016-07-01,Wholesale Collection,Rosella ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+364,Samantha,Love,,,,,,2015-11-24,,0,0,0,0,0,0,0,0,0,0,,2016-01-18,2015-12-18,Bridesmaids,Flowergirl,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+365,Claire,Stackhouse,,,,,,2015-11-24,,0,0,0,0,0,0,0,0,0,0,,2016-11-26,2016-10-26,Bridesmaids,Penelope&Belle,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+366,Anna,Robertson,,anna.marie.robertson@gmail.com,220609533,"38A Colombo Street, Newtown, Wellington 6021",,2015-11-28,,1,0,0,0,0,0,0,0,0,0,,2016-06-11,2016-05-11,Collection,Diana,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+367,Louise,Bishop,,loubish@gmail.com,2040866204,"31 Highbrook Drive, East Tamaki, Auckland 2013",,2015-11-28,,1,0,0,1,0,0,0,0,0,0,,2016-02-27,2016-01-27,Bridesmaids,Dawn ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+368,Nicola,Wilkie,,nicolawilkie@mail.com ,49709743,"200 Kakariki Way, Whitemans Valley 5371",,2015-12-04,,1,0,0,0,0,0,0,0,0,0,,2016-02-13,2016-01-13,Bridesmaids,Georgia,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+369,Anna,Cowie,,cowie.anna@gmail.com,273542383,"52 Shields Street, Clyde 9330",,2015-12-05,,0,0,0,0,1,0,0,0,0,0,,2016-04-29,2016-03-29,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+370,Roula,Amsar,,,,,1,2017-04-18,,0,0,0,0,0,0,0,0,0,0,,2017-08-12,2017-06-30,Wholesale Collection,Peony ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+372,Alex,Hamilton,,alexandra.mary.hamilton@gmail.com,275079705,"Flat 12, 15 McKinley Crescent, Brooklyn, Wellington 6021",,2015-12-12,,1,0,0,0,0,0,0,0,0,0,,2016-07-30,2016-06-30,Collection,Custom,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+373,Ariana,Meloche,,,,,,2017-03-21,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Collection,Peony & Alice ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+376,Amy,Pyle,,amypyletextiles@gmail.com,221622482,not provided ,,2015-12-16,,0,0,0,0,0,0,0,0,1,0,Uni with Sally ,2016-04-02,2016-03-16,Collection,Rosella ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+378,Kate,Parkes,,parkesgl@gmail.com,220753190,"12 Waitui Crescent, Waiwhetu, Lower Hutt 5010",,2015-12-18,,1,0,0,0,0,0,0,0,0,0,,2016-12-31,2016-11-30,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+379,Kate,Philpott,,kate_philpott@hotmail.com,273563855,"16 Ellora Street, Ngaio, Wellington 6035",,2015-12-19,,0,0,0,0,0,0,0,0,1,0,Friend ,2016-04-16,2016-04-08,Bridesmaids,Amelia + slip,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+380,Georgina,Furniss,,georginafurniss@gmail.com ,447867389329,"72 Effra Parade, London, SW2 1PR, UK",,2015-12-22,,1,0,0,0,0,0,0,0,0,0,,2016-08-20,2016-06-20,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+381,Steph,Boxall,,stephboxall@hotmail.com,021 022 18185,"92 Kentwood Drive, Woodridge, Wellington 6037",,2015-12-23,,1,0,0,0,0,0,0,0,0,0,,2016-12-17,2016-11-17,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+382,Virginia,Van,Deun,vvandeun@xtra.co.nz,274221051,"500C Harewood Road, Harewood, Christchurch 8051",,2016-01-07,,1,0,0,0,0,0,0,0,0,0,,2017-02-17,2017-01-17,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+383,Rebecca,Garret,,becca1818@hotmail.com,274405533,"221 Chatsfield Drive, Te Awamutu 3800",,2016-01-08,,1,0,0,0,0,0,0,0,0,0,,2017-04-29,2017-03-29,Custom,,,,NULL,Expired,2016-11-05,NULL,NULL,0,NULL
+384,Mary,Lou,Harris,marylouharris.nz@gmail.com,,,,2016-01-09,,0,0,0,0,0,0,0,0,0,0,,2016-03-26,2016-02-26,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+385,Julia,Megson,,,,,1,2017-06-10,,0,0,0,0,0,0,0,0,0,0,,2018-05-27,2017-10-13,Wholesale Collection,Julia ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+387,Rhiannon,Dew,,rhiannon.kate.dew@gmail.com,224257161,"Unit 420, 74 Taranaki Street, Te Aro, Wellington 6011",,2016-01-12,,1,0,0,0,0,0,0,0,0,0,,2017-02-18,2017-01-18,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+389,Mhairi,Fisher,,,,,,2017-03-15,,0,0,0,0,0,0,0,0,0,0,,2017-10-07,2017-06-14,Wholesale Collection,Camille ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+390,Mille,Feuille,sample,,,,,2016-08-31,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Peony/Paige,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+391,Ali,Beer,,beer_alison@hotmail.com,211195493,"40 Woodward Street East, Featherston 5710",,2016-01-13,,1,0,0,0,0,0,0,0,0,0,,2017-03-18,2017-02-11,Collection,Rosella variation,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+392,Amy,Fitzgerald,,amy@flowevents.co.nz,not provided ,not provided,,2016-01-14,,0,0,0,0,0,0,0,0,0,0,,2016-03-12,2016-02-12,,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+393,Jessica,Kennair,,jken079@gmail.com,211550167,"46 Tanera Crescent, Brooklyn, Wellington 6021",,2016-01-14,,1,0,0,0,0,0,0,1,0,0,,2016-05-01,2016-04-01,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+394,Annabel,Angus,,,,,,2016-11-24,,0,0,0,0,0,0,0,0,0,0,,2017-03-04,2017-02-04,Wholesale Collection,Custom,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+395,Susannah,Apps,,susannahapps@hotmail.com,275360777,"181 Ahu Ahu Road, RD 4, New Plymouth 4374",,2016-01-15,,1,0,0,0,0,0,0,0,0,0,,2016-06-11,2016-05-11,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+396,Clare,Dombroski,,claredombroski@yahoo.com,212113408,"14 Clyde Street, Ferndale, New Plymouth 4310",,2016-01-15,,0,0,0,0,1,0,0,0,0,0,,2016-07-30,2016-06-30,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+427,Elodie,Berthe,,elodieberthe@hotmail.com ,221730587,"2A Trelissick Crescent, Ngaio, Wellington 6035",,2016-01-16,,1,0,0,0,0,0,0,0,0,0,,2017-03-11,2017-02-11,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+428,Jo,Boyd,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,2017-01-21,2016-12-20,Wholesale Collection,Custom,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+429,Jasmine,Winstanley,,jaz.winstanley@gmail.com,278100684,"15 Titoki Street, Lansdowne, Masterton 5810",,2016-01-19,,1,0,0,0,0,0,0,0,0,0,,2016-04-23,2016-03-23,Bridesmaids,Georgia ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+430,Molly,Wilcox,,emmalouisewilcox03@gmail.com,212305453,"363 Patumahoe Road, Pukekohe 2678",,2016-07-06,,0,0,0,0,0,0,0,0,0,0,,2016-12-10,2016-11-10,Wholesale Collection,Florence ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+431,Emma,Coddington,,emmacoddington@gmail.com,274706925,"13A Wilford Street, Woburn, Lower Hutt 5011",,2016-01-23,,0,0,0,0,0,0,0,0,1,0,Word of mouth,2016-10-22,2016-09-22,Collection,Custom,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+432,Florence,Wilson,,florence.francesca@gmail.com,21625623,"123 Tod Road, RD 2, Otane 4277",,2016-01-26,,1,0,0,0,0,0,0,1,0,0,,2016-07-02,2016-06-02,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+433,Natalie,Tasker,,,,,1,2016-08-31,,0,0,0,0,0,0,0,0,0,0,,2017-02-04,2016-11-30,Wholesale Collection,Flora,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+434,Natalie,Theron,,,,,,2017-05-09,,0,0,0,0,0,0,0,0,0,0,,2017-12-09,2017-08-09,Wholesale Collection,Rosella,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+435,Natasha,Cole,,cole.natasha@hotmail.co.nz,210702902,,,2016-07-06,,0,0,0,0,0,0,0,0,0,0,,2017-01-06,2016-11-30,Wholesale Bridesmaids,Mia,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+436,Nicola,Shaw,,,,,,2015-07-03,,0,0,0,0,0,0,0,0,0,0,,2015-11-01,2015-11-01,Wholesale Collection,Florence ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+437,Lydia,Ng,,ng.oiying.lydia@gmail.com,211278288,Not given,,2016-01-30,,0,0,0,0,0,0,0,0,1,0,friends,2016-10-15,2016-09-15,Collection,custom,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+438,Karla,Parker,,karlasparker@gmail.com,61414742210,"95 Crown St, Flemington, Melbourne, VIC 3031",,2016-01-30,,1,0,0,0,0,0,0,0,0,0,,2016-12-17,2016-11-17,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+439,Sarah,McCullough,,sarahjmccullough@gmail.com,212127596,"90 Standen Street, Karori, Wellington 6012",,2016-02-02,,0,0,0,0,0,0,0,0,1,0,colleague ,2016-05-21,2016-04-21,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+440,Lauren,Oliver,,lauren_oliver@outlook.com,,"241 Moorhouse Avenue, Sydenham, Christchurch 8011",,2016-02-02,,0,0,0,0,0,0,0,0,1,0,Mille Feuille ,2017-03-04,2017-02-04,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+441,Nicole,Larkin,,,,,,2017-01-31,,0,0,0,0,0,0,0,0,0,0,,2017-04-29,2017-03-20,Wholesale Collection,Flora ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+442,Sarah,Thompson-Lester,,s.thompsonlester@gmail.com,221852428,not given,,2016-02-04,,0,0,0,0,1,0,0,0,1,0,,2017-01-07,2016-12-07,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+443,Katie,Desbarats,,,,,1,2017-04-06,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Collection,Flora,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+444,Sophie,Peters,,sophie.peters1590@gmail.com,273031600,"2 Clifford Street, Whataupoko, Gisborne 4010",,2016-02-13,,0,0,0,0,0,0,0,0,1,0,Courtney Horwood Photographer,2016-10-22,2016-09-22,Collection,Rosella ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+445,Emma,Plewinski,,emmaplewinski@gmail.com ,278341272,"109B Owen Street, Newtown, Wellington 6021",,2016-02-13,,0,1,1,0,0,0,0,0,1,0,,2016-12-15,2016-11-30,Collection,Julia ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+446,Jo,Read,,joread89@gmail.com,276889818,"21 Cheshire Street, Parnell, Auckland 1052",,2016-02-13,,0,0,0,0,0,0,0,0,1,0,Friend,2017-02-04,2017-01-04,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+447,Emma,Davidson,,emma14_2@hotmail.com ,276924348,"58 Madras Street, Khandallah, Wellington 6035",,2016-02-13,,0,0,0,0,0,0,0,1,0,0,,2017-01-07,2016-12-07,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+448,Bridget,Hill,,bridget.g.hill@gmail.com,276999534,"Flat 4, 21A Talavera Terrace, Kelburn, Wellington 6012",,2016-02-13,,0,1,0,0,1,0,0,1,0,0,,,,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+449,Kaylene,Ehret,,,,,,2017-03-21,,0,0,0,0,0,0,0,0,0,0,,2018-06-23,2017-06-21,Wholesale Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+450,Whitney,Kilback,,,,,,2017-03-03,,0,0,0,0,0,0,0,0,0,0,,2017-09-01,2017-06-02,Wholesale Collection,Custom,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+451,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+452,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+453,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+454,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+455,Natasha,Hubbard,,natasha@ussherlawyers.co.nz,272897625,"322B Mary Road, Whangamata 3620",,2016-02-19,,1,0,0,0,0,0,0,0,0,0,,2016-04-15,2016-04-08,Bridesmaids,Bella ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+456,Miriam,Cahill,,miriam_a_cahill@yahoo.co.uk,220977894,"50 Chippendale Crescent, Highbury, Palmerston North 4412",,2016-02-20,,0,0,0,0,0,0,0,0,1,0,Friend,2016-09-05,2016-07-30,Collection,Billie,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+457,Kelly-Ann,Gall,,kellyann.m.gall@gmail.com,276301535,"100/72 Tory Street, Te Aro, Wellington 6011",,2016-02-20,,0,1,0,0,0,0,0,0,0,0,,2017-01-14,2016-12-14,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+458,Janella,Roulston,,janelle.roulston@gmail.com ,273443800,"52 Melbourne Road, Island Bay, Wellington 6023",,2016-02-20,,0,0,0,0,0,0,0,0,1,0,,2017-02-04,2017-01-04,Custom,,,,NULL,Expired,2016-11-05,NULL,NULL,1,NULL
+459,Kristina,Dalit,,k-dalit@yahoo.co.nz,273264282,"Flat 5, 59 Majoribanks Street, Mount Victoria, Wellington 6011",,2016-02-20,,0,0,0,0,0,1,0,0,0,0,,2017-02-04,2017-01-04,Collection,Bloomfeild ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+460,Briony,Steel,,brionysteel@gmail.com,211491201,"23 Hicks Crescent, Waikanae Beach, Waikanae 5036",,2016-02-20,,1,0,0,0,0,0,0,0,1,0,Jenna Wara,2017-02-18,2017-01-18,Collection,Bluebell  - Pintuck skirt,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+461,Lily,Hinton,,lily_harperhinton@hotmail.com,226430023,(Not provided) ,,2016-02-23,,1,0,0,0,0,0,0,0,0,0,,2017-02-17,2017-01-17,Custom,,,,NULL,Expired,2016-11-05,NULL,NULL,1,NULL
+462,Abby,Stevens,,abigailsteven@hotmail.com,273061458,"38 Rua Street, Lyall Bay Wellington,",,2016-02-25,,0,0,0,0,0,0,0,0,0,0,,2016-05-06,2016-04-06,Accessory,Birdcage veil ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+463,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+464,Gemma,Easton,,gemmaeaston@live.com,274261519,"18 Manchester Street, Petone, Lower Hutt 5012",,2016-02-27,,0,1,0,0,0,0,0,0,0,0,,2017-02-04,2016-12-22,Collection,Gloriana ,,,NULL,Expired,2016-11-05,NULL,NULL,1,NULL
+465,Lisa,Blake,,lisablake16@gmail.com,21992857,(Not provided) ,,2016-02-27,,0,0,0,0,0,0,0,0,1,0,,2017-03-25,2017-02-25,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+466,Franchesca,Harkness,,,274774009,,,2016-02-27,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+467,Sarah,Old,,,,,,2017-01-20,,0,0,0,0,0,0,0,0,0,0,,2017-09-16,2017-04-20,Wholesale Collection,Alice ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+468,Francesca,Jackson,,fgrj131@gmail.com,21372443,"40 Bishopsworth Street, Hillsborough, Christchurch 8023",,2016-03-02,,0,0,0,0,0,0,0,0,1,0,Mille Feuille,2017-02-04,2017-01-04,Bridesmaids,Custom Flowergirl,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+469,Emily,Ryder,,eilyjaneryder@gmail.com,223010837,"26/7 Mertoun Place, Edinburgh, EH11 IJY",,2016-03-03,,0,0,0,0,0,0,0,0,1,0,,2017-03-11,2017-02-11,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+470,Sarah,Gilkison,,sarah.gilkison@xtra.co.nz,210663940,"Flat 3, 51 Jutland Road, Hauraki, Auckland 0622",,2016-03-04,,0,1,1,1,0,0,0,0,0,0,,2017-02-18,2017-01-18,,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+471,Kayley,Brooker,,kayley.brooker@gmail.com,220967812,"18 Dawson Street, Berhampore, Wellington 6023",,2016-03-05,,0,0,0,0,0,0,0,0,1,0,Fiance ,2016-10-01,2016-09-01,Custom,Rosella/Penylane,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+472,Georgia,Young,,georgiavictoria.young@gmail.com,2102416351,"Suite P3, 99 Dixon Street, Te Aro, Wellington 6011",,2016-03-05,,1,0,0,0,0,1,0,0,0,0,,2016-12-31,2016-11-30,Collection,Rosella/Audrey,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+473,Jennifer,Buckle,,,2040078111,"37 Buckingham Street, Melrose, Wellington 6023",,2016-03-10,,0,0,0,0,0,0,0,0,1,0,,2016-10-15,2016-09-15,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+474,Annelies,Van,Der,ajd.vandermijn@gmail.com,21325135,"6 MacAulay Street, Johnsonville, Wellington 6037",,2016-03-10,,1,0,0,0,0,0,0,1,0,0,,2017-02-18,2017-01-18,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+475,Annelies,Van,Der,,,,,2016-03-10,,0,0,0,0,0,0,0,0,0,0,,2017-02-18,2017-01-18,Bridesmaids,Lillian,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+476,Charlotte,Bell,,,272025552,"10 Victors Road, Hoon Hay, Christchurch 8025",,2016-03-12,,0,0,0,1,0,0,0,0,0,0,,2016-08-17,2016-07-17,Collection,Florence ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+477,Lisa,Stewart,,lisa.stwart@gmail.com,21955979,"140 Miromiro Road, Normandale, Lower Hutt 5010",,2016-03-12,,1,0,0,0,0,0,0,0,0,0,,2016-08-06,2016-07-06,Collection,Audrey,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+478,Stephanie,Nock,,steph.nock04@gmail.com,273493715,"127 Normandale Road, Normandale, Lower Hutt 5010",,2016-03-12,,1,0,0,0,0,0,0,0,1,0,,2016-09-03,2016-08-03,Collection,Grace ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+479,Sarah,Stickland,,sarahstickland@gmail.com,212642028,"23A Glover Road, St Heliers, Auckland 1071",,2016-03-12,,1,0,0,0,0,0,0,0,0,0,,2017-01-28,2016-12-28,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+480,Chloe,Forbes,,chloe.octopus@gmail.com,226579327,"Flat 12, 43 Mulgrave Street, Thorndon, Wellington 6011",,2016-03-17,,1,1,0,0,0,0,0,0,0,0,,2017-03-26,2017-02-25,Collection,Albertine,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+481,Jennifer,Herman,,jennifer_herman@hotmail.com ,451828740,"2/478 Sydney Rd, Brunswick, 3056, VIC",,2016-03-18,,1,0,0,0,0,0,0,0,1,0,Melbourne stockist,2017-04-08,2017-03-08,Collection,Rosella/Audrey,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+482,Gracie,Prisk,,gracie.prisk@gmail.com,273412743,"10 Olivias Place, Stoke, Nelson 7011",,2016-03-19,,0,0,0,0,0,0,0,0,1,0,friend/family,2016-05-14,2016-04-14,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+483,Sarah,Russell,,sarah.russell88@gmail.com,272531994,"75 Redwood Avenue, Tawa, Wellington 5028",,2016-03-19,,1,0,0,0,0,0,0,0,0,0,,2016-12-10,2016-11-23,Collection,Billie,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+484,Rachel,Strahl,,rachstrahl@gmail.com,274657852,"60 Pilmuir Street, Hutt Central, Lower Hutt 5010",,2016-03-19,,0,0,0,0,0,1,0,0,0,0,,2017-03-04,2017-02-04,Collection,Florence ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+485,Rachael,Earnshaw,,rachaelearnshaw1@gmail.com,220415092,"6 Oakleigh Street, Maungaraki, Lower Hutt 5010",,2016-03-23,,1,1,0,0,0,0,0,0,0,0,,2017-02-18,2017-01-21,Collection,Audrey,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+486,Lindsay,Boggan,,,2108243008,"Flat 2, 95 Peverel Street, Riccarton, Christchurch 8041",,2016-03-24,,0,0,1,1,0,0,0,0,0,0,,2016-11-19,2016-10-19,Collection,Florence ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+487,Keriata,Royal,,keriata.royal@gmail.com,2102900961,"18 Jocelyn Crescent, Pinehaven, Upper Hutt 5019",,2016-03-26,,1,0,0,0,0,0,0,0,0,0,,2017-01-28,2016-12-28,Collection,Billie ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+488,Hayley,Pearson,,hales_jp@hotmail.com,0272577008 (mum),"3 Fortification Road, Karaka Bays, Wellington 6022",,2016-03-26,,0,0,0,0,0,0,0,0,1,0,friend,2017-02-25,2017-02-21,Collection,Rosella (customised),,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+489,Anja,von,glückSEEligkeit,,,,,2016-03-29,,0,0,0,0,0,0,0,0,1,0,Photographer,,,Wholesale Collection,Rosella,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+490,Laura,Johnson,,laura_maria_johnson@hotmail.com,2040776360,"23A Ngaio Gorge Road, Ngaio, Wellington 6035",,2016-03-31,,0,1,0,0,0,0,0,0,0,0,,2017-01-21,2017-01-13,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+491,Tisha,Manson,,,,,,2017-01-20,,0,0,0,0,0,0,0,0,0,0,,2017-07-29,2017-04-20,Wholesale Collection,Peony + Violet,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+492,Perth,-,Bianca,,,,,2015-05-30,,0,0,0,0,0,0,0,0,0,0,,2016-03-19,2015-11-30,Wholesale Collection,Felicia ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+493,Samantha,McKay,,sam.mckay93@outlook.com,279037714,"1 Lawson Street, Pahiatua 4910",,2016-04-02,,1,0,0,0,0,0,0,0,0,0,,2016-11-26,2016-11-10,Collection,Diana ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+494,Kelly,McFeeters,,kellymay.mc@gmail.com,221288972,"451 Adelaide Road, Berhampore, Wellington 6023",,2016-04-02,,1,0,0,0,0,0,0,0,0,0,,2017-02-04,2017-01-04,Collection,Florence/Gloriana,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+495,Madeleine,Gannon,,madeleine.gannon@gmail.com,279515773,"15 Te Whiti Grove, Korokoro, Lower Hutt 5012",,2016-04-02,,0,0,0,0,0,0,0,0,0,0,,2017-02-04,2017-01-04,Collection,Florence variation ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+496,Sharee,Robson,,shareerobson@gmail.com,212951501,"Flat 3, 34 Austin Street, Mount Victoria, Wellington 6011",,2016-04-02,,0,0,0,0,0,0,0,0,1,0,Bille Brook,2017-03-18,2017-02-18,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+497,Abby,Coddington,,abbycoddington@gmail.com ,273013434,"21 Laura Fergusson Grove, Fairfield, Lower Hutt 5011",,2016-04-02,,0,0,0,0,0,0,0,0,1,0,Emma Coddington,2017-12-22,2016-12-22,Collection,Grace w Agatha skirt,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+498,Jenny,Munro,,jennymunro03@yahoo.co.nz,210551797,"128 Wyndham Road, Pinehaven, Upper Hutt 5019",,2016-04-06,,0,1,0,0,0,0,0,0,0,0,,2016-08-19,2016-07-19,Collection,Felicia + Lindee Rose ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+499,Tanja,Gantar,,tanja.gantar@gmail.com,220803601,"19 Stafford Street, Mount Victoria, Wellington 6011",,2016-04-08,,1,0,0,0,0,0,0,0,0,0,,2016-09-03,2016-08-03,Collection,Poppy,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+500,Jacinta,Palmer,,jacinta.palmer25@gmail.com,272430161,"5/26 Glenmore St, Thorndon, Wellington 6012 ",,2016-04-08,,0,0,0,0,0,0,0,0,1,0,Margaret Topping,2017-01-07,2016-12-07,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+501,Bridget,Curtis,,bridget.curtis@xtra.co.nz,211038430,"22 Sunstone Crescent, Brown Owl, Upper Hutt 5018",,2016-04-09,,1,0,0,0,0,0,0,0,0,0,,2016-10-29,2016-09-29,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+502,Tess,Nelson,,tess_nelson@hotmail.com,212172974,"24 Wright Street, Wainuiomata, Lower Hutt 5014",,2016-04-09,,1,0,0,1,0,0,0,0,0,0,,2016-11-26,2016-10-26,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+503,Rebecca,McGuinness,,beckyrosemcguinness@hotmail.com,211470380,"18 Freeling Street, Island Bay, Wellington 6023",,2016-04-09,,1,0,0,0,0,0,0,0,0,0,,2016-11-26,2016-10-26,Bridesmaids,Lillian,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+504,Perth,-,Camille,,,,,2015-04-27,,0,0,0,0,0,0,0,0,0,0,,,,Collection,Camille,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+505,Jess,Drayton,,jessica.drayton@gmail.com,447518508228,(lives in London) ,,2016-04-12,,1,0,0,0,0,0,0,0,0,0,,2018-01-01,2017-12-01,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+506,Holly,Lynch,,wholisticfitness@hotmail.com,272784494,"836 Makomako Road, RD 3, Pahiatua 4983",,2016-04-15,,1,0,0,0,0,0,0,0,0,0,,2017-01-14,2016-12-14,Collection,Diana - ivory,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+507,Annie,O'Connor,,annie.oconnor@hotmail.com,212460773,"305/28 Torrens Terrace, Mount Cook, Wellington 6011",,2016-04-16,,0,0,0,0,0,0,0,0,1,0,Brooke brown ,2017-11-01,2017-10-01,Collection,Jacqueline ,,,NULL,Email,2016-05-11,NULL,NULL,0,NULL
+508,Perth,-,Debbie,,,,,2015-11-17,,0,0,0,0,0,0,0,0,0,0,,2016-07-09,2016-03-24,Wholesale Collection,Camille,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+509,Helen,Barlow,,barlowhele@gmail.com,2102746182,"44 Murray Avenue, Hawera 4610",,2016-04-19,,0,1,0,0,0,0,0,0,0,0,,2017-01-28,2016-12-28,Collection,Albertine ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+510,Allie,Miles,,allie.miles96@gmail.com,2040016224,"103 Wyndrum Avenue, Waterloo, Lower Hutt 5011",,2016-04-22,,0,1,0,0,1,0,0,0,1,0,,2016-12-31,2016-11-30,Collection,Grace (customized) ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+511,Kelly,Young,,kellymarieyoung@gmail.com,21861581,"705 Willowpark Road North, Hastings 4122",,2016-04-22,,1,0,0,0,0,0,0,0,0,0,,2017-03-31,2017-02-28,Custom,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+512,Rebekah,Adams,,bex_joy_adams@hotmail.com,1404640961,"29 Anderson st, Newport, VIC, 3015 Melbourne Australia ",,2016-04-23,,0,0,0,0,0,0,0,0,1,0,Stephanie Knock ,2016-11-12,2016-10-12,Collection,Billie ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+513,Katie,Martin,,katie.louise.martin@hotmail.co.uk,220385934,"76 Wilson Street, Newtown, Wellington 6021",,2016-04-23,,1,0,0,0,0,0,0,0,0,0,,2016-08-20,2016-07-20,Bridesmaids,Amelia ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+514,Grace,Paske,,gracepaske@gmail.com,2108195652,"70A Seatoun Heights Road, Seatoun, Wellington 6022",,2016-04-23,,1,0,0,0,0,0,0,0,0,0,,2017-01-21,2016-12-21,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+515,Kim,Beban,,kimberleybeban@hotmail.com ,278647628,"28 Mawson Street, Waiwhetu, Lower Hutt 5010",,2016-04-23,,0,1,0,0,0,0,0,0,0,0,,2017-01-28,2016-12-28,Collection,Billie/Moonstone,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+516,Lauren,Cordery,,cordery@hotmail.co.nz,276779771,"885 Paget Road, RD 2, Takapau 4287",,2016-04-23,,1,0,0,0,0,0,0,0,0,0,,2017-02-03,2017-01-03,Collection,Billie/Diana,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+517,Erin,Wilson,,erinwilsonm@gmail.com,273311774,"Flat 2, 100 Severn Street, Island Bay, Wellington 6023",,2016-04-23,,1,0,0,0,0,0,0,0,0,0,,2017-02-04,2017-01-04,Collection,Florence ,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+518,Elisah,de,Wolf,elisahdewolf@hotmail.com,2102799951,"13 Heron Hill, Kerikeri 0230",,2016-04-23,,1,0,0,0,0,0,0,0,0,0,,2018-03-03,2018-02-03,Collection,Billie variation ,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+519,Emma,Martin,,emj153@gmail.com,274054331,"Apartment 104, 1193 Hinemoa Street, Rotorua 3010",,2016-04-23,,0,0,0,1,0,0,0,1,0,0,,2017-03-17,2017-02-17,Collection,Diana ,,,NULL,Paperswan Bride,NULL,NULL,NULL,0,NULL
+520,Megan,Brown,,meganannebrownnz@gmail.com,276356682,"24A Jellicoe Drive, Hamilton East, Hamilton 3216",,2016-04-28,,1,1,0,0,0,0,0,0,0,1,Kate Wills,2017-01-29,2017-01-29,18 Dec. 2016,1,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+521,Catherine,Moore,,catherinemoore_@hotmail.com,211093962,"24A Jellicoe Drive, Hamilton East, Hamilton 3216",,2016-04-29,,0,0,0,0,0,0,0,0,1,0,friends ,2017-03-11,2017-02-11,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+522,Scarlet,Lees,,scarletlees@hotmail.com ,273183665,"114B Coromandel Street, Newtown, Wellington 6021",,2016-04-30,,0,0,0,0,0,1,0,0,0,0,,2016-11-26,2016-10-26,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+523,Ilagi,Vagana,,ilagi.vagana@gmail.com,279778034,"Flat 2, 134 Mitchell Street, Brooklyn, Wellington 6021",,2016-04-30,,1,1,1,0,0,0,0,0,0,0,,2016-09-02,2016-08-02,Collection,Billie ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+524,Diana,Haggitt,,dianaa.haggitt@xtra.co.nz,273262355,"276 Point Chevalier Road, Point Chevalier, Auckland 1022",,2016-04-30,,1,0,0,0,0,0,0,0,0,0,,2017-01-07,2016-11-30,Bridesmaids,"Bella, Alexis",,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+525,Carrie,Peterson,,petersoncarrie@hotmail.com ,274279885,"317 Glapins Road, RD2, Marton 4788",,2016-04-30,,0,0,0,0,0,0,0,0,1,0,,2017-02-25,2017-01-14,Collection,Rosella (customized),,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+526,Rebekah,Callaghan,,beckie.ruth1@gmail.com,2102386253,"39 Gurney Road, Kelson, Lower Hutt 5010",,2016-05-04,,0,0,0,0,0,0,1,1,0,0,bride & groom,2016-10-22,2016-09-22,Collection,Diana ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+527,Perth,-,Lyn,,Gorp,,,2015-11-17,,0,0,0,0,0,0,0,0,0,0,,2016-04-01,2016-01-22,Wholesale Bridesmaids,Georgia ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+528,Helen,Zou,,zouhelen06@gmail.com,210674217,"85 Grant Road, Thorndon, Wellington 6011",,2016-05-06,,1,0,0,0,0,0,1,0,0,0,WWS,2016-11-26,2016-10-26,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+529,Harriet,Gordon,,harriet.j.gordon@gmail.com,273049078,"60 Ngapuhi Road, Remuera, Auckland 1050",,2016-05-06,,0,0,0,0,0,0,0,0,1,0,Primrose & Finch,2017-02-11,2017-01-11,Collection,Gloriana,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+530,Courtney,Simpson,,courtneyhsimpson@gmail.com,273928881,"3 Glenross Street, Glenross, Dunedin 9011",,2016-05-06,,1,0,0,0,0,0,0,0,0,0,,2017-02-25,2017-01-27,Collection,Billie (customized) ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+531,Kyrie,Barker,,kyrie-barker@yahoo.co.uk,226367162,not provided,,2016-05-07,,1,0,0,0,0,0,0,0,0,0,,2016-10-01,2016-08-13,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+532,Lorin,Kicklighter,,lorin.kicklighter@gmail.com,211434251,"Flat 13, 14 Alpha Street, Te Aro, Wellington 6011",,2016-05-07,,0,1,0,0,1,0,0,0,0,0,,2017-01-03,2016-12-03,Collection,Billie (strapless) ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+533,Meagan,Roe,,meags13@hotmail.com,63825722,"54 Zohs Road, Mangaweka 4797",,2016-05-07,,1,0,0,0,0,0,0,0,0,0,,2016-11-25,2016-10-25,Bridesmaids,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+534,Melissa,Tan,,tanpe452@gmail.com ,210407817,"8 Erlestoke Crescent, Churton Park, Wellington 6037",,2016-05-07,,1,1,0,0,0,0,0,0,0,0,,2016-12-09,2016-11-12,Collection,Marigold (customized),,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+535,Alana,Boyle,,lanaboyle@hotmail.com ,223657698,"Flat 1, 6 Shannon Street, Mount Victoria, Wellington 6011",,2016-05-07,,1,1,0,0,0,0,0,0,0,0,,2016-12-15,2016-11-30,Custom,custom ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+536,Siobhan,Marshall,,siobhangm@hotmail.com,223132391,"Flat 27, 6 Airborne Road, Rosedale, Auckland 0632",,2016-05-13,,1,0,0,0,0,0,0,0,1,0,Primrose & Finch,2016-09-03,2016-08-03,Collection,Elsie ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+537,Pip,Williams,,,,,1,2016-08-31,,0,0,0,0,0,0,0,0,0,0,,2017-12-17,2017-11-30,Wholesale Collection,Genevieve,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+538,Jenna,Roberts,,jennamargaretr@gmail.com,278827344,"109 Tutere Street, Waikanae Beach, Waikanae 5036",,2016-05-13,,0,0,0,0,0,0,0,1,0,0,bride & groom,2018-02-01,2018-01-01,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+539,Caroline,Brady,,caroline_brady@hotmail.co.uk ,221988350,"14a City View Grove, Harbour View, Lower Hutt 5010",,2016-05-14,,0,0,0,0,0,0,1,0,0,0,Wellington,2016-07-01,2016-06-14,Accessory,Veil ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+540,Carraldo,Fougere,,carraldofougere@gmail.com ,273687024,"242 Queens Drive, Lyall Bay, Wellington 6022",,2016-05-14,,1,0,0,0,0,0,0,0,0,0,,2017-01-06,2016-12-06,Collection,Tea length ,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+541,Angela,Woollett,,ang.wool@gmail.com ,277402031,"Flat 1, 16 Austin Street, Mount Victoria, Wellington 6011",,2016-05-14,,1,0,0,0,0,0,0,0,0,0,,2017-03-25,2017-02-25,Collection,Diana ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+542,Joanna,Woollett,,joanna.woollett@gmail.com,211123770,"106 Sylvan Avenue, Northcote, Auckland 0627",,2016-05-14,,0,0,0,0,0,0,0,0,1,0,Through friends ,,,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+543,Aimee,Gordon,,,,,,2014-11-08,,0,0,0,0,0,0,0,0,0,0,,2015-04-18,2015-04-18,Wholesale Collection,Rosella,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+544,Alex,Wilkin,(Auckland),,,,,2015-09-09,,0,0,0,0,0,0,0,0,0,0,,2016-01-03,2015-11-07,Wholesale Collection,Audrey ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+545,Amy,Revell,(Auckland),,,,,2015-09-24,,0,0,0,0,0,0,0,0,0,0,,2016-02-13,2016-01-09,Wholesale Collection,Florence,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+546,Lara,Mawer,,lara.mawer@gmail.com,273070697,"58 Hungerford Road, Houghton Bay, Wellington 6023",,2016-05-18,,0,0,0,0,0,0,1,0,0,0,Wellington,2017-02-04,2017-01-04,Collection,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+547,Bailey,Tebutt,(AUCK),,,,,2016-03-02,,0,0,0,0,0,0,0,0,0,0,,2016-03-26,2016-03-26,Wholesale Bridesmaids,Amelia + Slip ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+548,Becky,Brown,(AUCK),,,,,2015-08-13,,0,0,0,0,0,0,0,0,0,0,,2016-01-23,2015-12-15,Wholesale Bridesmaids,Lillian x2,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+549,Hanna,Kilpin,,hkilpin@gmail.com,63557322,"Carna Court Flat 14, 145A Kew Rd, Richmond, TW9 2PN, UK",,2016-05-20,,0,0,0,0,0,0,0,0,1,0,Yvette Edwards ,2017-03-22,2017-01-15,Bridesmaids,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+550,Elizabeth,Vollebregt,,e_volley@hotmail.com ,273241641,"154 Essex St, Masterton 5810 ",,2016-05-21,,1,1,0,0,0,0,0,0,0,0,,2016-11-19,2016-10-19,Collection,Audrey/Rosella,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+551,Amanda,Taylor,,amandamareetaylor@gmail.com ,21861632,"84 Daventry Street, Waterview, Auckland 1026",,2016-05-21,,0,1,0,0,0,0,0,0,0,0,,2016-11-26,2016-10-26,Collection,Billie ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+552,Rachel,Kendall,,rachel.a.kendall@gmail.com,274167999,"34 Ranui Terrace, Tawa, Wellington 5028",,2016-05-21,,0,0,0,0,0,0,0,0,1,0,,2016-10-22,2016-09-22,Custom,Albertine customized,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+553,Louise,Ryan,,louise_ryan_24@hotmail.com,221030857,Nelson ,,2016-05-21,,1,0,0,0,0,0,0,0,0,0,,2017-01-28,2016-12-28,Collection,Rosella customized,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+554,Mereana,Wilson,,mereanawil@gmail.com ,277332764,"9 The Topdeck, Whitby, Porirua 5024",,2016-05-21,,0,0,0,0,1,0,0,0,0,0,,2017-04-25,2017-03-25,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+555,Louise,Ord,,louise_ord@yahoo.co.uk,212364345,"12 Devon Street, Aro Valley, Wellington 6021",,2016-05-21,,1,0,0,0,0,0,0,0,0,0,,2017-08-26,2017-07-26,Collection,,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+556,Anna,Chapman,,annachapman0@gmail.com ,273513133,"15 Senio Grove, Trentham, Upper Hutt 5018",,2016-05-21,,0,0,0,0,0,0,0,0,1,0,Emma Cooney ,2017-12-01,2017-11-01,Collection,Estelle ,,,NULL,,NULL,NULL,NULL,0,NULL
+557,Donna,Lawrence,,dons.lawrence@gmail.com,21401933,"19B Bracken Avenue, Takapuna, Auckland 0622",,2016-05-24,,0,0,0,1,1,0,1,1,0,0,,2016-09-03,2016-08-19,Bridesmaids,"Bella, Amelia, Charlotte",,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+558,Natasha,Hudson,,,2108327796,"100 Nevay Road, Karaka Bays, Wellington 6022",,2016-05-27,,0,0,1,0,0,0,0,0,0,0,,2017-02-11,2017-01-11,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+559,Rebekah,Mitchell,,mitchell_rebekah@hotmail.com,211175024,"PO Box 87495, Meadowbank, Auckland 1742",,2016-05-27,,1,0,0,0,0,0,0,0,0,0,,2017-05-06,2017-04-15,Collection,Diana,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+560,Alice,Berry,,alice.nberry@gmail.com,221943915,Not provided,,2016-05-28,,0,0,0,0,0,0,0,0,1,0,Anna Beauchamp (nee Gurran) ,2016-10-15,2016-09-15,Custom,Custom ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+561,Lauren,Horgon,,lolhorgan@yahoo.co.uk,223257106,"29 Montreal Grove, Kingston, Wellington 6021",,2016-05-28,,1,0,0,0,0,0,0,0,0,0,,2017-04-21,2017-03-21,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+562,Claire,Beckford,,Claire.Beckford@gmail.com,273641450,"7 Deveron Place, Tawa, Wellington 5028",,2016-05-28,,0,1,0,0,0,0,0,0,0,0,,2018-11-10,2018-10-10,Collection,Camille,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+563,Emma,Morrison,,emma.emmz@gmail.com,211781155,"20 Ariki Street, Boulcott, Lower Hutt 5010",,2016-05-28,,0,0,0,0,0,0,0,0,1,0,F. Duncan ,,,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+564,Bec,Davis,,rebeccadavis283@gmail.com ,272000354,"301 Dimmock Road, RD 1, Pokeno 2471",,2016-05-31,,1,0,0,0,0,0,0,0,0,0,,2017-03-25,2017-02-25,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+565,Becky,Brown,(AUCK),,,,,2015-08-13,,0,0,0,0,0,0,0,0,0,0,,2016-01-23,2015-12-15,Wholesale Collection,Rosella ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+566,Becky,Merchant,,,,,1,2015-09-24,,0,0,0,0,0,0,0,0,0,0,,2016-02-27,2016-01-22,Wholesale Collection,Moonstone ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+567,Chelsea,McConnell,(AUCK),,,,,2016-04-01,,0,0,0,0,0,0,0,0,0,0,,2016-07-09,2016-06-04,Wholesale Collection,Gloriana/Albertine,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+568,Chloe,Humphrey,(AUCK),,,,,2016-06-03,,0,0,0,0,0,0,0,0,0,0,,2017-02-25,2017-01-25,Wholesale Collection,Albertine/Diana,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+569,Marguerite,Quin,,mlqinasia@yahoo.co.nz,272418055,"203 Buckley Road, Southgate, Wellington 6023",,2016-06-03,,0,0,0,0,0,0,1,0,0,0,,2017-01-08,2016-12-08,Custom,top & skirt,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+570,Chloe,Parkinson,(AUCK),,,,,2015-08-05,,0,0,0,0,0,0,0,0,0,0,,2015-12-12,2015-10-30,Wholesale Collection,Rosella,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+571,Claire,Smollett,,clairesmollett@gmail.com ,272820902,"41 Anne Street, Wadestown, Wellington 6012",,2016-06-03,,0,0,0,0,0,0,0,0,1,0,Pip - Ang's Friend,2017-01-27,2016-12-27,Collection,Billie ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+572,Claudia,Somer,(Auckland),,,,,2015-09-15,,0,0,0,0,0,0,0,0,0,0,,2016-02-13,2016-01-09,Wholesale Bridesmaids,Lillian x 3,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+573,Claudia,Somer,(Auckland),,,,,2015-09-15,,0,0,0,0,0,0,0,0,0,0,,2016-02-13,2016-01-09,Wholesale Collection,"Felica, Lindee Rose",,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+574,Crenagh,Manion,,,,,1,2016-06-03,,0,0,0,0,0,0,0,0,0,0,,2016-09-16,2016-07-30,Wholesale Bridesmaids,Bella,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+575,Dina,Dinh,,,,,1,2015-09-08,,0,0,0,0,0,0,0,0,0,0,,2016-01-22,2015-12-11,Wholesale Bridesmaids,BM x 5 ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+576,Emily,McKibbin,(AUCK),,,,,2015-11-05,,0,0,0,0,0,0,0,0,0,0,,2016-04-23,2016-03-23,Wholesale Collection,Albertine,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+577,Emma,Green,(AUCK),,,"Flat 3, 11 Lovelock Avenue, Mount Eden, Auckland 1024",,2016-04-18,,0,0,0,0,0,0,0,0,0,0,,2017-01-07,2016-12-02,Wholesale Collection,Grace,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+578,Emma,Pollock,,,,,1,2015-12-14,,0,0,0,0,0,0,0,0,0,0,,2016-03-19,2016-02-13,Wholesale Bridesmaids,Amelia + slip,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+579,Nicole,Macleod,,nicolemacleod13@gmail.com ,210439963,"81 Middle Road, RD 6, Raetihi 4696",,2016-06-04,,1,0,0,0,0,0,0,0,0,0,,2017-01-07,2016-12-21,Collection,Florence,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+580,Anatasia,Napitupulu,,a.g.napitupulu@gmail.com,2102443999,"1 Claverton Grove, Churton Park, Wellington 6037",,2016-06-04,,0,0,0,0,1,0,1,0,0,0,,2017-10-01,2017-09-01,Collection,,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+581,Sharyn,Beech,,sharynbeech@icloud.com,272555000,"83 King George Avenue, Epsom, Auckland 1023",,2016-06-09,,0,0,0,0,0,0,0,0,0,1,,2016-09-13,2016-08-13,Bridesmaids,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+582,Rebecca,Coenders,,bexandbella@gmail.com ,21477145,"9 Geneva Terrace, Kelvin Grove, Palmerston North 4414",,2016-06-11,,1,0,0,0,0,0,0,0,0,0,,2016-10-30,2016-09-30,Collection,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+583,Jess,Clarke,,jessclarke2@gmail.com ,273495453,"8H Egmont Street, Te Aro, Wellington 6011",,2016-06-11,,0,0,0,0,0,0,0,0,1,0,Grace Newman-Hall (ne: Rive),2016-12-03,2016-11-03,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+584,Hannah,Williamson,,hannahkatewilliamson@gmail.com,21612999,"3 Fuller Grove, Woburn, Lower Hutt 5010",,2016-06-11,,0,0,0,0,0,0,1,0,0,0,,2017-01-04,2016-12-15,Bridesmaids,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+585,Juline,Bunel,,juline.bunel@gmail.com ,2102492353,not provided,,2016-06-11,,1,0,0,0,0,0,0,0,1,0,,2017-01-07,2016-12-07,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+586,Michelle,Cooper,,coopermich1@gmail.com ,273404706,"12C Military Road, Boulcott, Lower Hutt 5010",,2016-06-11,,0,0,0,0,0,0,1,0,0,0,,2017-02-25,2017-01-28,Collection,Diana ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+587,Anita,Mitchell,,mitchell.anita@gmail.com ,223100708,"48A McKinley Crescent, Brooklyn, Wellington 6021",,2016-06-11,,0,0,1,0,0,0,0,0,0,0,,2017-02-25,2017-01-25,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+588,Millie,Harwood,,a.harwood26@hotmail.com,273483996,"22 Alfred Street, Nelson South, Nelson 7010",,2016-06-16,,1,0,0,0,0,0,0,0,0,0,,2017-06-09,2017-05-09,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+589,Suzanne,McGifford,,suzmcgifford@hotmail.com ,211739937,"68 Roxburgh Street, Mount Victoria, Wellington 6011",,2016-06-18,,0,0,0,0,0,0,0,0,1,0,colleague ,2016-08-06,2016-07-30,Collection,Paige,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+590,Debbie,Lewis,,debzlewis23@gmail.com,274205008,"23 Natusch Road, Belmont, Lower Hutt 5010",,2016-06-18,,0,0,0,0,0,0,1,0,1,0,Steph Lewis (nee Kippax) ,2016-11-05,2016-10-05,Collection,Paige/Florence,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+591,Carla,Horobin,,Carla.horobin@gmail.com,211117678,"14 Chipping Dale, Mangere Bridge, Auckland 2022",,2016-06-18,,0,0,0,0,0,0,0,0,0,0,,2016-11-26,2016-10-26,Collection,Florence/Paige,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+592,Rochelle,Wells,,shellzwells@gmail.com ,272927031,"44 Richmond Road, Carterton 5713",,2016-06-18,,1,0,0,0,0,0,0,0,0,0,,2017-01-21,2016-12-21,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+593,Claudia,Zwimpfer,,Claudia.Zwimpfer@clemengerbbdo.co.nz ,274462660,"52 Pitt Street, Wadestown, Wellington 6012",,2016-06-18,,0,0,1,0,0,0,0,0,0,0,,2017-02-03,2017-01-03,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+594,Anna,Wittmann-Wenzel,,annawittmann-wenzel@hotmail.com,272589774,"41 Red Beech Avenue, Woodridge, Wellington 6037",,2016-06-18,,0,0,0,0,0,0,1,0,0,0,,2017-02-04,2017-01-04,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+595,Amanda,Cooper,,amandacoops@hotmail.com,276268404,"41 Red Beech Avenue, Woodridge, Wellington 6037",,2016-06-18,,0,0,0,0,0,0,1,0,1,0,,2017-02-04,2017-01-04,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+596,Sara,McKee,,sara.mckee88@gmail.com,220231537,not provided,,2016-06-22,,0,0,0,0,0,0,1,0,1,0,,2016-12-17,2016-12-03,Collection,Rosella/Sweetpea,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+597,Sarah,Kong,,sarah.kong@live.com ,210380708,"111 Austin Street, Mount Victoria, Wellington 6011",,2016-06-22,,0,0,0,0,1,1,1,0,0,1,,2017-01-09,2016-11-26,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+598,Claire,Fitzpatrick,,claire_bell7@hotmail.com ,210678954,"19 Pine Ridge Terrace, Waikanae Beach, Waikanae 5036",,2016-06-24,,0,0,0,0,0,0,0,0,0,0,,2017-01-27,2016-12-27,Custom,Marilyn,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+599,Claire,Fitzpatrick,,claire_bell7@hotmail.com ,210678954,"19 Pine Ridge Terrace, Waikanae Beach, Waikanae 5036",,2016-06-24,,0,0,0,0,0,0,0,0,0,0,,2017-01-27,2016-12-27,Bridesmaids,Amelia,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+600,Jemma,O'Flaherty,,jemma.oflaherty@studentflights.co.nz,223157035,"42 William Street, Petone, Lower Hutt 5012",,2016-06-24,,0,0,0,0,0,1,0,0,0,0,,2017-02-25,2017-01-31,Custom,skirt & top,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+601,Caitlin,Hall,,caitlin_hall_91@hotmail.com ,272492354,"3 Teppett Place, Foxton Beach, Foxton 4815",,2016-06-24,,0,0,0,0,0,0,1,0,0,0,,2017-04-01,2017-03-01,Collection,Elsie ,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+602,Maria,Koroniadis,,mkoroniadis@gmail.com ,273576059,"3 Lomond Street, Newlands, Wellington 6037",,2016-06-25,,0,0,0,0,0,0,1,0,0,0,,2017-01-28,2016-12-28,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+603,Anna,Buchanan,,anna.buchanan@gmail.com,274604239,"35 Colombo Road, Waiuku 2123",,2016-06-25,,0,0,0,0,0,0,0,0,1,0,Sister ,2017-02-04,2017-01-04,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+604,Kristin,VanderPoel,,kristinvanderpoel@gmail.com,273069750,"47 Northland Road, Northland, Wellington 6012",,2016-06-25,,0,0,0,0,0,0,1,0,0,0,,2017-03-04,2017-02-04,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+605,Alice,Hodgson,,alice.r.hodgson@gmail.com,274221543,"6 York Street, Moera, Lower Hutt 5010",,2016-06-25,,0,1,0,0,0,0,1,0,1,0,friends,2017-03-18,2017-02-18,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+606,Emily,McColl,,emily.mccoll@swvets.co.nz,272220428,"353 Fergusson Drive, Heretaunga, Upper Hutt 5018",,2016-06-28,,0,0,0,0,0,0,0,0,1,0,friend ,2017-02-24,2017-01-24,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+607,Maria,Vittar,,maria.vittar@gmail.com ,21879748,"90A Paremata Road, Paremata, Porirua 5024",,2016-07-02,,1,0,0,0,0,0,0,0,0,0,,2016-10-15,2016-09-15,Collection,Florence ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+608,Leesl,Kallian,,leesl.kallian@live.com ,211684478,"18 Bayvista Drive, Karaka, Papakura 2113",,2016-07-02,,1,0,0,0,0,0,0,0,0,0,,2016-12-16,2016-11-16,Collection,Elsie/Paige + BM,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+609,Oriagh,Fox,,oriaghfox@hotmail.com,277253669,"32 Bremner Street, Fairfield, Dunedin 9018",,2016-07-02,,0,0,0,0,1,0,0,0,1,0,Friend,2017-02-17,2017-01-17,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+610,Sarah,Steele,,sarahsteele@windowslive.com ,0272749799 (text only) ,"Flat 101, 42 Constable Street, Newtown, Wellington 6021",,2016-07-02,,0,0,0,0,0,0,1,0,0,0,,2017-02-22,2017-01-22,Collection,Florence ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+611,Hannah,Goodwin,,hannah.goodwin1@gmail.com ,275559901,"1196 State Highway 30, RD 2, Whakatane 3192",,2016-07-02,,1,0,0,0,0,0,0,0,0,0,,2017-02-25,2017-01-28,Collection,Elsie ,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+612,Fumi,Kato,,fumikato318@gmail.com ,274651408,"Flat 1, 63 Kolmar Road, Papatoetoe, Auckland 2025",,2016-07-02,,0,1,0,0,0,0,0,0,0,0,,2017-03-04,2017-02-04,Collection,Gloriana ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+613,Kirsten,Sutherland,,buffy999@gmail.com ,21858701,"222 Helston Road, Paparangi, Wellington 6037",,2016-07-02,,1,1,0,0,1,0,1,1,0,0,,2017-03-31,2017-03-04,Collection,Rosella/Peony,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+614,Kirsten,Sutherland,,,,,,2016-07-02,,0,0,0,0,0,0,0,0,0,0,,2017-03-31,2017-03-04,Bridesmaids,Penelope,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+615,Emma,Smith,(Auckland),,,,,2015-09-29,,0,0,0,0,0,0,0,0,0,0,,2016-03-06,2016-02-12,Wholesale Collection,Albertine,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+616,Lucy,Wells,,lucwells@gmail.com,226834113,"848 Te Moehau Road, Moawhango 4792",,2016-07-02,,1,0,0,0,0,0,0,0,0,0,,2017-04-07,2017-03-15,Collection,Felicia,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+617,Abby,Wilson,,,220450334,,,2016-07-02,,0,0,0,0,0,0,0,0,0,0,,,,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+618,Priscilla,Patel,,priscillapatel@hotmail.com ,21833574,"Flat 2, 27 Roberts Road, Glenfield, Auckland 0629",,2016-07-03,,0,0,0,0,0,0,1,0,0,0,,2016-12-10,2016-11-28,Collection,Paige ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+619,Anna,Hollander,,anna.hollander@unilever.com ,21983156,"4A Rongo Road, Royal Oak, Auckland 1023",,2016-07-03,,0,1,0,0,0,0,0,0,0,0,,2017-02-10,2016-12-18,Collection,Gloriana (customized),,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+620,Henna,Ansari,,henna47@gmail.com ,212361562,"25 Temuka Gardens, Blockhouse Bay, Auckland 0600",,2016-07-03,,1,1,1,0,0,0,1,0,0,0,,2017-02-11,2016-12-18,Collection,Florence/paige,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+621,Alex,Cardinal,,alex.cardinal@gmail.com,212612562,"12 Queens Park Crescent, Frankton, Hamilton 3204",,2016-07-03,,0,1,0,1,0,0,0,0,0,0,,2017-03-25,2017-03-11,Collection,Elsie ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+622,Jen,Dawson,,jen-dawson10@hotmail.com ,275178760,"Flat 3, 38 Tawa Road, Onehunga, Auckland 1061",,2016-07-03,,1,0,0,1,0,0,0,0,0,0,,2017-04-01,2017-03-01,Collection,dune ,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+623,Hannah,Bradley,,,274268655,,,2016-07-03,,0,0,0,0,0,0,0,0,0,0,,,,Bridesmaids,,,,NULL,,NULL,NULL,NULL,0,NULL
+624,Anna,Boyack,,anna.boyack@gmail.com ,2108642523,(not provided) ,,2016-07-05,,0,0,0,0,0,0,0,0,1,0,friend,2018-04-21,2018-03-21,Collection,Georgia + lindee rose,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+625,Erin,Olsen,,,,,,2014-10-13,,0,0,0,0,0,0,0,0,0,0,,2015-04-10,2015-04-10,Wholesale Collection,Felicia,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+626,Fiona,Lie,,,,,1,2015-10-14,,0,0,0,0,0,0,0,0,0,0,,2016-03-12,2016-02-19,Wholesale Collection,Teresa + Agatha ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+627,Gemma,Flay,(AUCK),,,"25 Tui Glen Road, Birkenhead, Auckland 0626",,2016-05-18,,0,0,0,0,0,0,0,0,0,0,,2016-11-26,2016-08-30,Wholesale Collection,Albertine,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+628,Helen,Gribble,(AUCK),,,,,2015-11-23,,0,0,0,0,0,0,0,0,0,0,,2016-03-04,2016-02-12,Wholesale Collection,Audrey ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+629,Isabelle,Daniels,(Auckland),,,,,2015-10-08,,0,0,0,0,0,0,0,0,0,0,,2016-03-12,2016-02-19,Wholesale Collection,Albertine/Rosella,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+630,Jane,Morton,,,,,1,2015-08-05,,0,0,0,0,0,0,0,0,0,0,,2015-12-19,2015-10-30,Wholesale Collection,Gloriana,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+631,Emma,Phillips,,peoplespantryltd@gmail.com ,21553260,"34 Gawler Street, Te Horo Beach 5581",,2016-07-07,,1,0,0,0,0,0,0,0,0,0,,2016-09-16,2016-08-16,Bridesmaids,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+632,Jessica,Parr,,jess.parr@gmail.com ,220450360,"5 Churchill Crescent, Featherston 5710",,2016-07-07,,0,0,0,0,0,0,0,1,0,0,,2017-03-11,2017-02-11,Collection,,,,NULL,over budget,NULL,NULL,NULL,0,NULL
+633,Ashleigh,Coleman,,ashleigh.coleman@anz.com ,272747007,"105 Brothers Road, RD 13, Pleasant Point 7983",,2016-07-08,,0,0,0,0,0,0,0,0,1,0,Nikki Rigby ,2017-04-22,2017-03-22,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+634,Elle,van,Wynbergen,ellevanwynbergen@gmail.com ,223099821,"171 Breaker Bay Road, Breaker Bay, Wellington 6022",,2016-07-09,,1,1,1,1,1,1,1,1,1,1,,2017-02-05,2017-01-05,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+635,Tessa,Macaulay,,tessa.macaulay@gmail.com,221007239,"6 Semeloff Terrace, Aro Valley, Wellington 6021",,2016-07-09,,0,1,0,1,1,0,0,0,0,0,,2017-01-21,2016-12-21,Collection,Julia ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+636,Sarah,Wong,,saryha@hotmail.com,273483650,"42 Cresswell Place, Johnsonville, Wellington 6037",,2016-07-09,,1,0,0,0,1,0,1,0,1,0,collegues ,2017-02-25,2017-01-28,Custom,strapless,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+637,Sarah,Wong,,saryha@hotmail.com,273483650,"42 Cresswell Place, Johnsonville, Wellington 6037",,2016-07-09,,0,0,0,0,0,0,0,0,0,0,,2017-02-25,2017-01-28,Bridesmaids,Amber,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+638,Scarlett,Storr,,scarlettstorr@gmail.com,221399462,Not provided ,,2016-07-09,,0,1,0,0,0,0,1,0,0,0,,2017-04-08,2017-03-11,Custom,custom,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+639,Jenny,Merrill,,info@toptouch.co.nz,279195316,"10 Ruru Road, Otaihanga, Paraparaumu 5036",,2016-07-09,,0,1,0,0,0,0,1,0,0,0,,2017-03-25,2017-02-25,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+640,Margaret,Sutton,,margaret_m_sutton@hotmail.com,274140322,"18 Balfour Street, Mornington, Wellington 6021",,2016-07-14,,0,0,0,0,0,0,1,0,1,0,Georgette Philp,2017-01-13,2016-12-13,Collection,Rosella/Victoria ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+641,Abi,Holt,,abiholt15@gmail.com,276969985,"6 Taft Street, Brooklyn, Wellington 6021",,2016-07-15,,1,0,0,0,1,1,0,0,0,0,,2017-02-04,2017-01-04,Collection,Moonstone,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+642,Kate,Jenkins,,kate24922@hotmail.com ,226317990,not provided,,2016-07-16,,1,0,0,0,0,0,0,0,0,0,,2016-10-02,2016-09-20,Bridesmaids,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+643,Anna,Crosbie,,anna.crosbie@gmail.com,273616197,"9 Fifth Avenue, Mount Albert, Auckland 1025",,2016-07-16,,0,0,0,0,0,0,0,0,1,0,friend,2017-01-11,2016-12-11,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+644,Brady,Crawford,,bradycrawford19@gmail.com,221634414,"226 Major Drive, Kelson, Lower Hutt 5010",,2016-07-16,,0,0,1,1,0,0,1,0,0,0,,2017-03-03,2017-02-03,Collection,Audrey ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+645,JoJo,McGlade,,jojo.mcglade1991@gmail.com,210459498,"23 Waiwherowhero Drive, Saint Andrews, Hamilton 3200",,2016-07-16,,1,1,0,0,0,0,0,1,0,0,NZ Bride,2017-04-28,2017-03-29,Collection,Albertine ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+646,Kate,Harrison,,kateharrison56@hotmail.com ,2102571836,"Flat 1, 2 Quentin Avenue, Epsom, Auckland 1023",,2016-07-16,,0,0,0,0,0,0,0,0,0,0,,2017-08-05,2017-07-05,Collection,,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+647,Clea,Marshall,,cleamarshall@gmail.com,21374379,"2 Guadeloupe Crescent, Grenada Village, Wellington 6037",,2016-07-16,,0,0,0,0,0,0,0,0,1,0,friend ,2017-11-01,2017-10-01,Collection,Julia ,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+648,Gabrielle,Kemp,,gabriellerkemp@gmail.com,273057825,"9 Mason Street, Moera, Lower Hutt 5010",,2016-07-16,,1,0,0,0,0,0,0,0,1,0,friends ,2017-02-25,2017-01-25,Custom,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+649,Anna,Hermansson,,annabetsy93@gmail.com ,279783071,"13 Whenua View, Titahi Bay, Porirua 5022",,2016-07-16,,1,0,0,0,0,0,0,0,0,0,,,,Collection,,,,NULL,Ordered,2016-10-14,NULL,NULL,0,NULL
+650,Sarah,Woolerton,,sjwoolerton@gmail.com,21928436,"Flat 1, 15 Belle Vue Avenue, Northcote Point, Auckland 0627",,2016-07-16,,1,0,0,0,0,0,0,0,0,0,,2017-03-03,2017-02-03,Collection,Diana - ivory ,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+651,Jess,Elder,,jessicalouiseelder@gmail.com,274182570,"71 Sar Street, Wadestown, Wellington 6012",,2016-07-16,,1,1,0,0,0,0,0,0,0,0,,2017-03-04,2017-02-04,Bridesmaids,Charlotte,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+652,Hillary,Brown,,brown.hilary.m@gmail.com ,210617813,"5A Hector Street, Ponsonby, Auckland 1011",,2016-07-16,,0,0,0,0,0,0,0,0,1,0,WOM,2017-03-04,2017-02-04,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+653,Lily,Nunweek,,lilyeve@gmail.com,211423772,"Flat 2, 26 Wedgwood Avenue, Mangere East, Auckland 2024",,2016-07-16,,0,0,0,0,0,0,0,0,1,0,friend,2017-03-24,2017-02-24,Collection,Albertine ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+654,Erin,Thompson,,erinmariet@live.com,211720256,"31 Hamilton Road, Papatoetoe, Auckland 2025",,2016-07-16,,0,0,0,0,0,0,0,0,1,0,WOM,2017-04-22,2017-03-22,Custom,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+655,Laura,Mash,,lauramash@hotmail.com,220931239,"31 Karaka Park Place, Glendowie, Auckland 1071",,2016-07-17,,1,0,0,0,0,0,0,0,0,0,,2016-02-04,2016-12-18,Collection,Flora ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+656,Fritha,Witton,,frithawitton@hotmail.com,211727279,"Flat 1, 25 Taioma Crescent, Te Atatu Peninsula, Auckland 0610",,2016-07-17,,0,0,0,0,0,0,0,0,0,1,Primrose & Finch,2017-01-28,2016-11-30,Bridesmaids,Amelia ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+657,Emma,Johnson,,emma.johnson@windowslive.com ,2102635326,"Flat 2, 202 Fisher Parade, Farm Cove, Auckland 2012",,2016-07-17,,0,0,0,0,0,0,0,1,0,0,NZ Weddings ,2017-02-17,2017-01-19,Collection,Albertine ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+658,Kelsey,Bigwood,,kelseybigwood@gmail.com ,211617506,"36 Scott Road, Stanmore Bay, Whangaparaoa 0932",,2016-07-17,,0,0,0,0,0,0,0,0,0,0,,2017-02-18,2017-01-18,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+659,Jackie,Bloor,,jackiebloor88@gmail.com,211692545,"Flat 2, 10 Agincourt Street, Glenfield, Auckland 0629",,2016-07-17,,1,0,0,0,0,0,0,0,0,0,,2017-03-10,2017-01-08,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+660,Stella,Lu,,stellalututu@hotmail.com ,278681199,"37 Ring Lane, Newlands, Wellington 6037",,2016-07-20,,1,0,0,0,0,0,0,0,0,0,,2016-08-04,2016-08-04,Bridesmaids,Georgia,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+661,Aster,,,alamesra@hotmail.com ,273100676,not provided ,,2016-07-21,,0,0,0,0,0,1,0,0,0,0,,2017-02-06,2017-01-06,Collection,Billie,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+662,Alana,Scotson,,lanie.scotson@gmail.com,272469444,"23 Rosewood Place, Paraparaumu 5032",,2016-07-23,,1,0,1,0,0,0,0,0,0,0,,2016-08-27,2016-08-27,Collection,Peony + alice,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+663,Jeanine,Bosman,(AUCK),,,,,2015-08-05,,0,0,0,0,0,0,0,0,0,0,,2016-01-08,2015-11-20,Wholesale Collection,Rosella,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+664,Lindsay,Hunter,,lindsayhunterr@gmail.com,410122010,"unit 401E 9 Robert st, Collingwood, Victoria, 3066",,2016-07-26,,0,0,0,0,0,0,0,0,0,1,Primrose - Melbourne,2017-11-25,2017-07-01,Collection,Camile - sleeves,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+665,Lizzie,Werry,,lizzie_werry@hotmail.com,274479128,"Apartment F102, 48 Constable Street, Newtown, Wellington 6021",,2016-07-30,,1,1,0,0,0,0,0,0,1,0,,2017-02-25,2017-01-25,Collection,"Paige, Alice",,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+666,Lukah,Prentice,,lukah.k.p@gmail.com,273145519,"114 Portal Street, Durie Hill, Wanganui 4500",,2016-07-30,,0,0,0,0,0,0,1,0,0,0,,2017-02-25,2017-01-25,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+667,Sara,Crowther,,twinnie09@hotmail.com,273194618,"234 Major Drive, Kelson, Lower Hutt 5010",,2016-07-30,,1,1,0,0,1,0,0,0,1,0,Hannah Crowther ,2017-03-04,2017-02-04,Collection,Flora (no painting) ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+668,Shannon,McRae,,shannon_mcrae124@hotmail.com,272567566,"4 Park Road, Belmont, Lower Hutt 5010",,2016-07-30,,0,1,0,0,0,0,1,0,0,0,,2017-03-11,2017-02-17,Collection,Delphine ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+669,Kimberley,Seagar,,kimberleyseagar@gmail.com ,276688922,not provided ,,2016-07-30,,0,1,0,0,0,0,0,0,0,0,,2017-03-11,2017-02-11,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+670,Monique,Coulter,,mon.coulter@hotmail.com,276940040,"39A Andrew Street, Marchwiel, Timaru 7910",,2016-07-30,,0,0,0,0,0,0,0,0,1,0,,,,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+671,Kylie,Hamilton,,shellbells515@yahoo.com ,212463626,"57 Pah Street, Motueka 7120",,2016-08-03,,1,1,1,0,0,0,0,1,1,0,,2016-12-20,2016-11-29,Collection,Piper ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+672,Hayley,Holm,,hayleyholm@hotmail.com,21737878,"65 Bringans Street, Alexandra 9320",,2016-08-05,,0,0,0,0,0,0,0,0,0,0,,2016-12-16,2016-10-31,Bridesmaids,Alexis,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+673,Sophie,Roberts,,sophieroberts11@gmail.com,277417619,"205 Tasman Street, Mount Cook, Wellington 6021",,2016-08-05,,0,0,0,0,0,0,0,0,1,0,Emily Graham & Ashleigh Lloyd,2017-01-07,2016-12-07,Collection,Paige (customized) ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+674,Rachael,Mahe,,jipjiprocks@hotmail.com,211766165,"10 Western Springs Road, Morningside, Auckland 1021",,2016-08-06,,0,1,0,0,0,0,0,0,0,0,,2017-02-03,2016-01-03,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+675,Joy,Davidson,,davidson.joy@gmail.com,211901006,"7 Patrice Place, Massey, Auckland 0614",,2016-08-06,,1,0,0,0,0,0,0,0,0,0,,2016-11-26,2016-10-26,Bridesmaids,"Dawn, Ruby",,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+676,Jessica,Grose,,jgro0448@gmail.com,273404686,"61 Athol Place, Algies Bay, Warkworth 0920",,2016-08-06,,0,0,0,0,0,0,0,0,1,0,family friend,2016-11-29,2016-10-29,Bridesmaids,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+677,Cecile,Knechcizk,,cecile.knechcizk@gmail.com,221484801,"75 Barnard Street, Wadestown, Wellington 6012",,2016-08-06,,1,0,0,0,0,0,0,0,0,0,,2016-12-17,2016-11-17,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+678,Lucy,Townend,,lbtownend@gmail.com,272710046,"47A Mazengarb Road, Paraparaumu Beach, Paraparaumu 5032",,2016-08-06,,0,0,0,0,0,0,0,0,1,0,word of mouth,2016-12-31,2016-11-30,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+679,Nakyla,Flintoff,,klyaflintoff@yahoo.com,212699901,"29 Prospect Terrace, Pukekohe 2120",,2016-08-06,,1,0,0,0,0,0,0,0,0,0,,2017-01-22,2016-12-07,Collection,Albertine,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+680,Laura,Lynskey,,laura.lynskey33@gmail.com,21853543,"134 Lancaster Road, Beach Haven, Auckland 0626",,2016-08-06,,1,0,0,0,0,0,0,0,0,0,,2017-03-31,2016-12-20,Collection,Camille,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+681,Kristen,Cargill,,kristencargill@gmail.com,277374752,"Flat 14, 5 Malcolm Lane, Thorndon, Wellington 6011",,2016-08-06,,1,1,1,0,1,0,0,0,0,0,,2018-05-01,2018-04-01,Collection,Delphine,,,NULL,,NULL,NULL,NULL,0,NULL
+682,Meridith,Maclean,,macleanmeredith@gmail.com,21452200,"Level 4, 12-14 Northcroft Street, Takapuna, Auckland 0622",,2016-08-06,,0,1,0,0,0,0,0,0,0,0,,2017-04-01,2017-03-01,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+683,Kathryn,Tucker,,kathryn-tucker@hotmail.com,274042138,"4 Leander Place, Flagstaff, Hamilton 3210",,2016-08-07,,1,0,0,0,0,0,0,0,0,0,,2016-12-02,2016-11-02,Bridesmaids,Lillian,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+684,Erin,McCulloch,,erin.mcculloch@gmail.com,220358523,"10 Hulse Avenue, Sandringham, Auckland 1025",,2016-08-07,,1,0,0,0,0,0,0,0,0,0,,2017-02-18,2017-02-18,Custom,,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+685,Rachael,Aitken,,rachwax@hotmail.co.nz,211190661,"2 Puriri Avenue, Leigh 0985",,2016-08-07,,0,0,0,0,1,0,0,0,0,0,,2017-02-25,2017-01-25,Collection,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+686,Alison,Powell,,alisonpowell6@gmail.com,273690005,"35 Barrack Road, Mount Wellington, Auckland 1060",,2016-08-07,,1,0,0,0,0,0,0,0,0,0,,2017-03-25,2017-01-31,Collection,Marie ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+687,Laura,Stenberg,,laurastnbrg@gmail.com,211411861,"131 Wattle Road, RD 2, Te Kauwhata 3782",,2016-08-07,,1,0,0,0,0,0,0,0,0,0,,2017-05-12,2017-04-12,Collection,Seina,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+688,Beth,Elder,,bforrestelder@gmail.com,278287555,"7B Ormonde Road, Remuera, Auckland 1050",,2016-08-07,,1,0,0,0,0,0,1,0,0,0,,2017-05-13,2017-04-13,Collection,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+689,Lauren,Pangborn,,laurenpangborn@hotmail.com ,276989953,"126 Oete Road, RD 2, Pahiatua 4982",,2016-08-10,,1,0,0,0,0,0,0,0,0,0,,2016-11-26,2016-10-26,Bridesmaids,Lillian ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+690,Marieke,Jasperse,,marieke.jasperse@gmail.com,274161461,"Unit W303, 28 Torrens Terrace, Mount Cook, Wellington 6011",,2016-08-10,,0,0,0,0,0,0,0,0,1,0,Friend,2017-02-01,2017-01-31,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+691,Courtney,Wana,,courtney.wana@hotmail.com,272579859,"354 Otakiri Soldiers Road, RD 3, Whakatane 3193",,2016-08-11,,0,0,0,0,0,0,0,0,0,0,,2016-12-31,2016-10-31,Bridesmaids,Penelope ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+692,Idrene,Warren,,idrene.w@hotmail.com,63285833,"26 Edwards Street, RD 7, Feilding 4777",,2016-08-11,,0,0,0,0,0,0,1,0,0,0,,2017-05-06,2017-04-06,Collection,Julia,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+693,Jeanine,Bosman,(AUCK),,,,,2015-08-05,,0,0,0,0,0,0,0,0,0,0,,2016-01-08,2015-11-20,Wholesale Bridesmaids,x4,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+694,Jen,Solly,,jenn.solly@gmail.com,2102376416,"31 Raine Street, Wanganui East, Wanganui 4500",,2016-08-13,,0,0,0,0,0,0,0,0,1,0,Friend ,2016-12-03,2016-11-15,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+695,Amie,Galvin,,amie.galvin@gmail.com,276986444,"15 Helston Road, Johnsonville, Wellington 6037",,2016-08-13,,1,1,0,0,0,0,0,0,0,0,,2017-02-11,2017-01-11,Collection,Florence,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+696,Rachel,Brooks,,rk.brooks46@gmail.com,212024505,"89 Totaravale Drive, Totara Vale, Auckland 0629",,2016-08-13,,0,0,0,0,1,0,0,0,0,0,,2017-02-18,2017-01-18,Collection,Gloriana ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+697,Emma,Van,Den,711.emma@gmail.com,226737701,"Flat 3, 89 Barnard Street, Wadestown, Wellington 6012",,2016-08-13,,1,0,0,0,1,0,0,0,0,0,,2017-07-13,2017-06-13,Custom,Custom lace top,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+698,Nicola,Cross,,nickyc000@gmail.com,273613618,"52 Roseneath Terrace, Roseneath, Wellington 6011",,2016-08-17,,0,0,0,0,0,0,0,0,1,0,WOM,2016-12-03,2016-11-03,Collection,Estelle (customized) ,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+699,Astra,Howse,,astra.howse@outlook.com ,210451033,"Flat 1, 39 Leighton Avenue, Waiwhetu, Lower Hutt 5010",,2016-08-17,,0,1,0,0,0,0,0,0,0,0,,2017-04-01,2017-03-04,Collection,Genevieve,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+700,Katie,Mortimer,,k.mortimer@xtra.co.nz,274250065,"59 Gladstone Road, Northcote, Auckland 0627",,2016-08-20,,0,1,1,0,0,0,0,1,0,0,together Journal,2017-02-04,2017-01-04,Bridesmaids,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+701,Michelle,Louw,,mllouw@gmail.com,212603589,"12 Christobel Circle, Huntington, Hamilton 3210",,2016-08-20,,0,0,0,0,0,0,0,0,1,0,Liz-Marie Louw,2017-02-16,2016-12-07,Collection,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+702,Amanda,Bidwell,,manda.bidwell@gmail.com,273234886,"239 Ponsonby Road, Ponsonby, Auckland 1011",,2016-08-20,,0,0,0,0,0,0,0,0,1,0,,2017-02-25,2017-01-19,Collection,Coco,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+703,Laura,Carson,,carsonlaur@gmail.com,273788000,"8 Maurice Terrace, Te Aro, Wellington 6011",,2016-08-20,,0,0,0,0,0,0,0,0,1,0,,2017-03-04,2017-02-04,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+704,Leah,Chamberlin,,leah@kitenga.co.nz,212277991,"36A Volga Street, Island Bay, Wellington 6023",,2016-08-20,,1,0,0,0,0,0,0,0,1,0,,2017-03-25,2017-02-25,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+705,Alicia,Bennett,,aliciabennettnz@gmail.com,211304717,"256 Ohiro Road, Brooklyn, Wellington 6021",,2016-08-20,,1,1,0,0,1,0,0,0,0,0,,2017-04-08,2017-03-08,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+706,Erica,Marie,Burke,ericamarieburke@gmail.com,2102970366,"8A Kawerau Avenue, Devonport, Auckland 0624",,2016-08-20,,0,1,1,0,0,0,0,1,0,0,Hello May ,2017-04-15,2017-03-20,Collection,Siena (customized) ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+707,Lily,Wong,,lilyannawong@gmail.com,212965512,"16 Springbank Lane, Te Atatu Peninsula, Auckland 0610",,2016-08-20,,0,0,1,0,0,0,0,1,0,0,,2018-01-01,2018-01-01,Collection,,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+708,Bridget,Taylor,,bridget.s.taylor@gmail.com,273162233,"22 Sefton Avenue, Grey Lynn, Auckland 1021",,2016-08-20,,0,0,0,0,0,0,0,0,1,0,word of mouth,2017-09-01,2017-09-01,Collection,Florence,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+709,Ella,Mizrahi,,ellamizrahi@gmail.com,2108162299,"10 Preston Avenue, Mount Albert, Auckland 1025",,2016-08-21,,1,0,0,0,1,0,0,0,0,0,paper & lace blog ,2016-12-17,2016-11-17,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+710,Nikki-lee,Mark,,nikkileemark@gmail.com,21599984,"64 Christian Road, Swanson, Auckland 0614",,2016-08-21,,0,0,0,0,0,0,0,0,1,0,NZ weddings ,2017-02-04,2017-01-04,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+711,Karla,Tomlinson,,karlatomo79@gmail.com,212364328,"91A Colwill Road, Massey, Auckland 0614",,2016-08-21,,0,0,0,0,0,0,0,0,0,1,through a friend,2017-02-11,2017-01-11,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+712,Sharon,Rodewyk,,sharonrodewyk@gmail.com,2102287048,"90 Hamilton Road, RD 1, Waimauku 0881",,2016-08-21,,0,1,0,0,0,0,0,0,0,0,,2017-02-25,2017-01-25,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+713,Miu,Ng,,miuyee710@gmail.com,211194096,"5 Mazuran Place, Flat Bush, Auckland 2016",,2016-08-21,,0,1,1,0,0,0,0,0,0,0,,2016-10-14,2016-09-14,Collection,Genevieve,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+714,Kelsey,Waters,,kelsey.waters@hotmail.co.uk,21983408,"11 Sunny Crescent, Huapai, Kumeu 0810",,2016-08-21,,1,0,0,0,0,0,0,0,0,0,,2018-03-31,2018-02-28,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+715,Isabella,Barker,,stevehelenb@xra.co.nz,211768380,"10 Landing Drive, Albany, Auckland 0632",,2016-08-21,,0,0,0,0,0,0,0,0,0,0,,2017-04-01,2017-03-01,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+716,Nicola,Jones,,nicola.ja.jones@gmail.com,274433449,"66 Te Kawa Road, Greenlane, Auckland 1061",,2016-08-21,,0,1,0,0,0,0,0,0,0,0,,2017-05-19,2017-04-19,Collection,Genevieve/gloriana,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+717,Amber,Phinisee,,amberphiniseephotography@gmail.com,4783977122,"100 Tiffland Court, Bonaire, GA, 31005",,2016-08-25,,1,0,0,0,0,0,0,0,0,0,,2017-06-21,2016-11-30,Collection,Genevieve,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+718,Lauren,Sweeney,,lauren.swee@live.com.au,437740273,"13 railway street, petersham, NSW, 2049",,2016-08-26,,1,0,0,0,0,0,0,0,0,0,,2017-01-07,2016-11-30,Collection,Peony & Violet,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+719,Tiffany,Guillemot,,tcdguillemot@icloud.com,21474433,"1 Solway Drive, Witherlea, Blenheim 7201",,2016-08-26,,1,0,0,0,0,0,0,0,0,0,,2017-02-17,2017-01-17,Bridesmaids,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+720,Laura,Gordon,,laura.gordon26@hotmail.com,276307694,"13 Sherwood Street, Woburn, Lower Hutt 5010",,2016-08-27,,0,0,0,0,0,0,0,0,0,1,friends,2017-01-28,2016-12-28,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+721,Bryony,Puketapu,,bryony.puketapu@gmail.com,276679010,"30 Coolidge Street, Brooklyn, Wellington 6021",,2016-08-27,,1,0,0,0,0,1,0,0,0,0,,,,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+722,Jessica,Curnow,(AUCK),,,,,2016-01-30,,0,0,0,0,0,0,0,0,0,0,,2016-05-07,2016-04-15,Wholesale Collection,Gloriana,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+723,Jessica,Tong,,,,,1,2016-05-04,,0,0,0,0,0,0,0,0,0,0,,2016-11-05,2016-09-30,Wholesale Collection,Rosella,,,NULL,,NULL,NULL,NULL,0,NULL
+724,Jordan,Turner,,,,,,2016-04-01,,0,0,0,0,0,0,0,0,0,0,,2016-09-28,2016-07-31,Wholesale Collection,Albertine,,,NULL,,NULL,NULL,NULL,0,NULL
+725,Josey,Lawry,(AUCK),,,,,2015-11-23,,0,0,0,0,0,0,0,0,0,0,,2016-03-05,2016-02-12,Wholesale Collection,Gloriana,,,NULL,,NULL,NULL,NULL,0,NULL
+726,Julia,Gilling,(AUCK),,,,,2015-09-15,,0,0,0,0,0,0,0,0,0,0,,2016-03-19,2016-01-13,Wholesale Collection,Pennylane ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+727,Kate,Sutton,(AUCK),,,,,2016-01-30,,0,0,0,0,0,0,0,0,0,0,,2016-05-26,2016-05-04,Wholesale Collection,Camille,,,NULL,,NULL,NULL,NULL,0,NULL
+728,Kate,Verkerk,(Auckland),,,,,2015-09-24,,0,0,0,0,0,0,0,0,0,0,,2016-03-05,2016-02-12,Wholesale Collection,Penny Lane,,,NULL,,NULL,NULL,NULL,0,NULL
+729,Katie,Swift,(AUCK),,,,,2015-08-08,,0,0,0,0,0,0,0,0,0,0,,2016-01-09,2015-11-30,Wholesale Collection,Felicia,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+730,Kay,Younger,(AUCK),,,,,2015-10-29,,0,0,0,0,0,0,0,0,0,0,,2015-12-19,2015-11-30,Wholesale Collection,Virginia ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+731,Kimberley,Drennan,(AUCK),,,,,2015-12-14,,0,0,0,0,0,0,0,0,0,0,,2016-05-21,2016-05-10,Wholesale Collection,Diana,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+732,Katrina,Belle,,katrinabelle@live.com.au,61468963299,"76/1 Sanoilanos Street,South Melbourne, VIC, 3205, Australia ",,2016-09-02,,0,0,0,0,0,0,0,0,0,1,Primrose ,2017-05-13,2017-02-28,Collection,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+733,Rosina,Lambert,,not provided ,272092032,not provided,,2016-09-03,,0,0,0,0,0,0,0,0,0,0,,2016-10-03,2016-09-03,Collection,,,,NULL,not interested/too short a timeframe,NULL,NULL,NULL,1,NULL
+734,Anna,Strand,,annastrand026@gmail.com,2108261916,not provided,,2016-09-03,,0,0,0,0,0,0,0,0,0,1,WOM,2017-01-28,2016-12-28,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+735,Shaina,Thurston-Parris,,shaina_and_jackson@ihug.co.nz,211046413,"519 Mahurangi East Road, Algies Bay, Warkworth 0920",,2016-09-03,,0,0,0,0,0,0,0,0,0,0,,2016-10-22,2016-09-22,Collection,Rosa & Bette,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+736,Yvonne,Taliauli,,evont74@gmail.com,211683611,,,2016-09-03,,0,0,0,1,1,0,0,0,0,0,,2016-11-26,2016-11-19,Collection,Diana,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+737,Bridget,Vickers,,bridget.vickers@hotmail.com,274492981,"120 Pikarere Street, Titahi Bay, Porirua 5022",,2016-09-03,,1,1,0,0,1,0,0,0,0,0,,2018-02-10,2018-01-10,Collection,Albertine,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+738,Hayley,Addison,,hbaddison@gmail.com,277109554,"1 Olwyn Terrace, Dinsdale, Hamilton 3204",,2016-09-03,,0,0,0,0,0,0,0,0,0,0,,2018-06-01,2018-05-01,Collection,Piper ,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+739,Michelle,Famularo,,mic.famularo@gmail.com ,2108239972,not provided,,2016-09-04,,1,0,0,0,0,0,0,0,0,0,,2016-03-24,2016-02-24,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+740,Anesha,Dullabh,,anesha.dullabh@gmail.com,21923777,"18A Vinter Terrace, Mount Albert, Auckland 1025",,2016-09-04,,0,0,0,0,0,0,0,0,1,0,Priscilla Patel,2017-02-19,2017-01-28,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+741,Kirsty,de,Gruchy,,,,,2016-06-03,,0,0,0,0,0,0,0,0,0,0,,2016-12-02,2016-09-02,Wholesale Collection,Rosella ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+742,Ksenia,Grudeva,(AUCK),,,,,2015-08-13,,0,0,0,0,0,0,0,0,0,0,,2016-01-22,2015-12-15,Wholesale Collection,Camille ,,,NULL,,NULL,NULL,NULL,0,NULL
+743,Kyla,Stevens,(AUCK),,,,,2016-06-03,,0,0,0,0,0,0,0,0,0,0,,2017-02-23,2017-01-23,Wholesale Collection,Marilyn ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+744,Irene,Campbell,,irene.mbcampbell@hotmail.com,273123076,"20A Charlotte Avenue, Brooklyn, Wellington 6021",,2016-09-10,,0,0,0,0,0,0,0,0,1,0,Alex Geddes,2017-02-18,2017-01-18,Collection,Poppy,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+745,Rachel,White,,r.l.a.white@hotmail.com,273832236,"Flat 4, 211 Taradale Road, Pirimai, Napier 4112",,2016-09-10,,1,1,1,0,0,0,0,0,0,0,,2017-02-24,2017-02-08,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+746,Jess,Hinman,,hinmanjessica@gmail.com,221930213,"31A Hall Street, Newtown, Wellington 6021",,2016-09-10,,1,0,0,0,0,0,0,0,0,0,,2017-07-16,2017-06-16,Collection,,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+747,Shimmie,Yee,,shimmie_01@msn.com,21616727,"5 Makomako Road, Brooklyn, Wellington 6021",,2016-09-10,,0,0,0,0,0,0,0,0,1,0,friend,2018-01-01,2017-12-01,Custom,custom,,,NULL,,NULL,NULL,NULL,0,NULL
+748,Fiona,Gallagher,,fionagallaghergirl@gmail.com,211200558,"36 Hallenstein Street, Queenstown 9300",,2016-09-13,,1,1,0,0,0,0,0,0,0,0,,2017-03-12,2017-02-12,Collection,Julia,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+749,Christine,Takai,,chrissy_takai@outlook.co.nz,278251520,"168 Onepu Road, Lyall Bay, Wellington 6022",,2016-09-15,,0,0,0,0,0,0,0,0,1,0,,2016-11-19,2016-11-10,Collection,Delphine ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+750,Shaney,Marinkovich,,shaneymarinkovichmelhop@gmail.com,276424344,"67A Bombay Street, Ngaio, Wellington 6035",,2016-09-16,,0,0,0,0,0,0,0,0,1,0,many,2017-03-10,2017-02-10,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+751,Sarah,Havell,,sarah.o.havell@gmail.com,278764958,"104 Beachlands Road, Beachlands, Auckland 2018",,2016-09-17,,0,0,0,0,1,0,0,0,0,1,primrose,2017-03-17,2017-02-17,Custom,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+752,Jolene,Butson,,joleneant@hotmail.com,21644233," 13 Banks Blvd, Whitby, Porirua 5024",,2016-09-17,,1,0,0,0,0,0,0,0,0,0,,2017-03-05,2017-02-05,Collection,Julia ,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+753,Poonam,Thoana,,prthoana@gmail.com,21945116,"161 Cyril French Drive, Flat Bush, Auckland 2016",,2016-09-17,,1,0,1,0,1,0,0,0,0,0,,2017-03-25,2017-03-11,Collection,Custom ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+754,Danielle,Masterton,,danielle.r.masterton@gmail.com ,274533643,"51 Webb St, Mount Cook, Wellington 6011",,2016-09-17,,1,0,0,0,0,0,0,0,0,0,,2017-08-27,2017-07-27,Collection,,,,NULL,,2016-10-14,NULL,NULL,0,NULL
+755,Lilla,Dullabh,,lilla_dullabh@westpac.co.nz,44981637,"20 Ashton Fitchett Drive, Brooklyn, Wellington 6021",,2016-09-23,,0,0,0,0,0,0,0,0,0,0,,2016-11-15,2016-10-31,Custom,Sequin Top,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+756,Georgina,Smith,,georgierose.smith@gmail.com,2102521361,not provided,,2016-09-23,,0,0,0,0,0,0,0,0,0,1,Friend booked :),2017-04-07,2017-03-07,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+757,Gemma,Gray,,gem.gray@hotmail.com,273143392,"Flat 1, 6 Rahui Street, Strathmore Park, Wellington 6022",,2016-09-28,,0,0,0,0,0,0,0,0,1,0,friends,2017-02-25,2017-01-25,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+758,Kate,Monaghan,,monaghanl@live.com,273423498,"7 Lilac Close, Cambridge 3434",,2016-09-30,,1,0,0,0,0,0,0,0,0,0,,2017-04-16,2017-03-16,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+759,Jess,McLaren,,jess.mclaren@hotmail.com,273254918,Camp Hill,,2016-10-01,,0,0,1,0,0,0,0,0,0,0,,2017-01-27,2016-12-27,Collection,,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+760,Lara,Rapson,,rapsonlara@gmail.com,273492629,"101A Grafton Road, Roseneath, Wellington 6011",,2016-10-01,,0,0,0,0,0,0,0,0,1,1,Bridget Grace & Lucy ,2017-02-04,2017-01-04,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,1,NULL
+761,Holly,Kennedy,,kennedyholl@gmail.com,277248444,"4 Millward Street, Newtown, Wellington 6021",,2016-10-01,,1,0,0,0,0,0,0,0,0,0,,2017-03-11,2017-02-11,Collection,,,,NULL,Expired,2016-10-14,NULL,NULL,0,NULL
+762,Clair,Moloney,,clair.moloney@gmail.com,2108855594,"Flat 4, 12 Majoribanks Street, Mount Victoria, Wellington 6011",,2016-10-01,,0,0,0,0,0,0,0,0,1,0,,2018-05-01,2018-04-01,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+763,Fae,Carrie,,fae.carrie@gmail.com,4474040503747,,,2016-10-04,,0,0,0,0,0,0,0,0,0,0,,2017-03-31,2017-01-21,Bridesmaids,Amelia + slips,,,NULL,,NULL,NULL,NULL,0,NULL
+764,Kyla,Stevens,(AUCK),,,,,2016-06-03,,0,0,0,0,0,0,0,0,0,0,,2017-02-23,2017-01-23,Wholesale Bridesmaids,"Georgia, blossom ",,,NULL,,NULL,NULL,NULL,0,NULL
+765,Kylie,Bethune,(AUCK),,,,,2015-08-21,,0,0,0,0,0,0,0,0,0,0,,2015-12-28,2015-11-14,Wholesale Bridesmaids,Lillian x 2,,,NULL,,NULL,NULL,NULL,0,NULL
+766,Laura,Hawkins,(AUCK),,,,,2015-12-05,,0,0,0,0,0,0,0,0,0,0,,2016-05-21,2016-04-16,Wholesale Collection,Lindee Rose ,,,NULL,,NULL,NULL,NULL,0,NULL
+767,Laura,Hawkins,(AUCK),,,,,2016-02-27,,0,0,0,0,0,0,0,0,0,0,,2016-05-21,2016-04-16,Wholesale Bridesmaids,"Bella, Amelia",,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+768,Lucy,Van,Dalen,,,,,2015-10-13,,0,0,0,0,0,0,0,0,0,0,,2016-01-08,2015-12-08,Wholesale Collection,Camille ,,,NULL,,NULL,NULL,NULL,0,NULL
+769,Sarah,Sutherland,,suds.ss@gmail.com,272783596,not provided,,2016-10-05,,0,0,0,0,0,0,0,0,0,0,,2017-01-21,2016-12-21,Custom,,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+770,Emily,Russell,,emily@russella.net.nz,212775222,"255 Victoria Avenue, Hokowhitu, Palmerston North 4410",,2016-10-05,,0,1,0,0,0,0,1,0,0,0,,2017-12-16,2017-11-16,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+771,Marama,Broughton,,mudzimar@hotmail.com,274283097,"Flat 6, 23C Maida Vale Road, Roseneath, Wellington 6011",,2016-10-07,,1,1,0,1,1,0,0,0,0,0,,2017-02-16,2017-01-28,Collection,Marigold,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+772,Tessa,Davies,,tessa.jazz@hotmail.com,273784421,"2 Jarvie Grove, Churton Park, Wellington 6037",,2016-10-08,,0,0,0,0,0,0,0,0,0,0,,2017-01-28,2016-12-28,Collection,,,,NULL,Brides on Thordon,NULL,NULL,NULL,1,NULL
+773,Katie,McFarland,,katiemcfarland@live.com,273110103,"30B Huntingdon Street, Northland, Wellington 6012",,2016-10-08,,0,1,1,0,0,0,0,1,0,0,Together Journal,2017-10-01,2017-09-01,Custom,,,,NULL,,NULL,NULL,NULL,0,NULL
+774,Laura,Lincoln,,laura.lincoln@hotmail.com,274251646,"Suite 502, 163 The Terrace, Wellington Central, Wellington 6011",,2016-10-08,,1,0,0,0,0,0,0,0,0,0,,2018-08-18,2018-07-18,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+775,Megan,Alexander,,megsalexander@gmail.com,274257633,"34 Alexandra Street, Richmond, Christchurch 8013",,2016-10-13,,1,1,0,1,0,0,0,1,0,0,,2018-02-24,2018-01-24,Collection,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+776,Mikhala,Cant,,,,,1,2015-11-05,,0,0,0,0,0,0,0,0,0,0,,2016-02-19,2016-02-05,Wholesale Bridesmaids,3 x different,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+777,Joyce,Kamille,,joyce.kamille@gmail.com,2102369291,not provided,,2016-10-15,,0,1,0,0,0,0,0,0,0,0,,2017-11-07,2017-10-07,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+778,Rebecca,Mulholland,,becka86@gmail.com,274444877,"81 Kahu Street, Burnham Camp, Burnham 7600",,2016-10-19,,0,0,0,0,0,0,0,0,1,0,Gema Easton,2018-12-01,2018-12-01,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+779,Natalie,King,(AUCK),,,,,2016-06-03,,0,0,0,0,0,0,0,0,0,0,,2017-02-04,2017-01-04,Wholesale Collection,Albertine ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+780,Natalie,Lord,(AUCK),,,,,2015-12-14,,0,0,0,0,0,0,0,0,0,0,,2016-04-09,2016-03-05,Wholesale Bridesmaids,different,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+781,Nikita,Walker,,,,,,2015-10-23,,0,0,0,0,0,0,0,0,0,0,,2016-02-09,2016-01-09,Wholesale Bridesmaids,4 x different ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+782,Olivia,Sherrell,(AUCK),,,,,2015-11-05,,0,0,0,0,0,0,0,0,0,0,,2016-04-02,2016-03-04,Wholesale Collection,Marigold ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+783,Pip,Mill,(AUCK),,,"108B Brightside Road, Stanmore Bay, Whangaparaoa 0932",,2016-06-03,,0,0,0,0,0,0,0,0,0,0,,2017-04-22,2017-03-22,Wholesale Collection,Rosella (diff lace),,,NULL,Expired,NULL,NULL,NULL,0,NULL
+784,Rachael,Linehan,,,,,,2015-01-18,,0,0,0,0,0,0,0,0,0,0,,2015-04-10,2015-04-10,Wholesale Collection,Florence ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+785,Ramina,Rai,,,,,,2015-04-27,,0,0,0,0,0,0,0,0,0,0,,2015-07-25,2015-07-25,Wholesale Collection,Albertine,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+786,Rebecca,Bell,(AUCK),,,"Flat 1, 136 Fraser Street, Tauranga South, Tauranga 3112",,2016-06-03,,0,0,0,0,0,0,0,0,0,0,,2016-11-26,2016-10-26,Wholesale Collection,Bespoke ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+787,Rosalie,Fisher,(Auckland),,,,,2015-09-24,,0,0,0,0,0,0,0,0,0,0,,2016-01-09,2015-12-15,Wholesale Bridesmaids,Lillian x 2,,,NULL,,NULL,NULL,NULL,0,NULL
+788,Sarah,Brunton,,,,,1,2016-06-03,,0,0,0,0,0,0,0,0,0,0,,2016-12-09,2016-09-02,Wholesale Collection,Rosella ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+789,Sarah,Greig,(AUCK),,,,,2016-02-18,,0,0,0,0,0,0,0,0,0,0,,2017-01-07,2016-06-15,Wholesale Collection,Lindee Rose ,,,NULL,,NULL,NULL,NULL,0,NULL
+790,Shawna,LeCourt,(AUCK),,,,,2015-08-05,,0,0,0,0,0,0,0,0,0,0,,2015-12-20,2015-10-30,Wholesale Bridesmaids,Bella x 2,,,NULL,,NULL,NULL,NULL,0,NULL
+791,Sonja,Clemens,,,,,,2014-07-21,,0,0,0,0,0,0,0,0,0,0,,2015-04-02,2015-04-02,Wholesale Collection,Florence,,,NULL,,NULL,NULL,NULL,0,NULL
+792,Stacey,Redpath,(AUCK),,,"64A Scarlet Oak Drive, Schnapper Rock, Auckland 0632",,2016-06-03,,0,0,0,0,0,0,0,0,0,0,,2017-03-04,2017-02-04,Wholesale Collection,PennyLane,,,NULL,,NULL,NULL,NULL,0,NULL
+793,Stephanie,Blackwell,(Auckland),,,,,2015-09-28,,0,0,0,0,0,0,0,0,0,0,,2016-02-13,2016-02-01,Wholesale Collection,Bespoke,,,NULL,,NULL,NULL,NULL,0,NULL
+794,Susan,Bridges,(AUCK),,,,,2015-08-05,,0,0,0,0,0,0,0,0,0,0,,2015-12-29,2015-11-20,Wholesale Collection,Audrey,,,NULL,,NULL,NULL,NULL,0,NULL
+795,Tanja,Brieskorn,(AUCK),,,,,2016-06-03,,0,0,0,0,0,0,0,0,0,0,,2016-11-18,2016-10-18,Wholesale Collection,Diana - ivory ,,,NULL,,NULL,NULL,NULL,0,NULL
+796,Nicky,Wallis,,,,,,2015-07-25,,0,0,0,0,0,0,0,0,0,0,,2015-12-17,2015-10-30,Wholesale Accessory,Lindee Rose,,,NULL,,NULL,NULL,NULL,0,NULL
+797,Amy,Wheeler,,,,,,2015-05-21,,0,0,0,0,0,0,0,0,0,0,,2015-11-21,2015-11-21,Wholesale Collection,Florence,,,NULL,,NULL,NULL,NULL,0,NULL
+798,Gloria,Kim,,,,,,2015-06-02,,0,0,0,0,0,0,0,0,0,0,,2015-09-05,2015-09-05,Wholesale Collection,Rosella ,,,NULL,,NULL,NULL,NULL,0,NULL
+799,Katrina,Finn,,,,,,2015-07-02,,0,0,0,0,0,0,0,0,0,0,,2015-12-05,2015-10-30,Wholesale Collection,Albertine/ Rosella ,,,NULL,,NULL,NULL,NULL,0,NULL
+800,Kelley,Nielsen,,,,,,2015-06-30,,0,0,0,0,0,0,0,0,0,0,,2015-11-14,2015-09-15,Wholesale Collection,Florence ,,,NULL,,NULL,NULL,NULL,0,NULL
+801,Loren,Armstrong,,,,,,2015-05-12,,0,0,0,0,0,0,0,0,0,0,,2015-11-21,2015-11-21,Wholesale Collection,Florence ,,,NULL,,NULL,NULL,NULL,0,NULL
+802,Molly,Evans,,,,,,2015-05-21,,0,0,0,0,0,0,0,0,0,0,,2015-11-21,2015-11-21,Wholesale Collection,Rosella,,,NULL,,NULL,NULL,NULL,0,NULL
+803,Amy,Dendale,(AUCK),,,,,2016-05-19,,0,0,0,0,0,0,0,0,0,0,,2016-11-12,2016-07-30,Wholesale Collection,Virginia + Eleanor ,,,NULL,,NULL,NULL,NULL,0,NULL
+804,Angela,Del,Vicario,,,,,2016-01-30,,0,0,0,0,0,0,0,0,0,0,,2016-06-29,2016-06-07,Wholesale Collection,Marigold,,,NULL,,NULL,NULL,NULL,0,NULL
+805,Justine,Milne,,justine.milne@gmail.com,211907844,"9 Glenbrae Street, Atawhai, Nelson 7010",,2016-10-21,,0,0,0,0,0,0,0,0,0,1,hair dresser,2017-02-18,2017-01-10,Collection,Albertine ,,,NULL,Ordered,NULL,NULL,NULL,1,NULL
+806,Rachael,Hepburn,,hepburn.rachael@gmail.com,220861049,not provided,,2016-10-22,,0,0,0,0,0,0,0,0,1,0,Isabel Donelan,2017-04-01,2017-03-01,Collection,,,,NULL,Hera Bridal ,NULL,NULL,NULL,0,NULL
+807,Bianca,Collor,,bianca.collor@gmail.com,211623107,"5/200 Onepu Road, Lyall Bay, Wellington 6022",,2016-10-22,,0,1,1,0,1,0,0,0,0,1,walked past willis st,2017-03-17,2017-02-17,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+808,Natalie,Rowley,,nat_rowley@yahoo.com,211776580,"33A Sugarloaf Road, Brooklyn, Wellington 6021",,2016-10-22,,0,0,0,0,0,0,0,0,0,0,,2018-01-19,2017-12-19,Collection,Julia,,,NULL,,NULL,NULL,NULL,0,NULL
+809,Sarah,Denmark,,sjdenmark@yahoo.com,210353995,not provided ,,2016-10-25,,1,0,0,0,0,0,0,0,0,0,,2017-03-24,2017-02-24,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+810,Deborah,Teh,(AUCK),,,,,2016-01-30,,0,0,0,0,0,0,0,0,0,0,,2016-04-23,2016-04-08,Wholesale Bridesmaids,Georgia,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+811,Katie,Roche,,kdrpwedding@gmail.com,273177260,"27C Prospect Terrace, Johnsonville, Wellington 6037",,2016-10-28,,1,0,0,0,0,0,0,0,0,0,,2017-10-07,2017-09-07,Custom,,,,NULL,getting back to us,NULL,NULL,NULL,0,NULL
+812,Erica,Buxton,,ericamaeb@gmail.com,21995550,,,2016-10-29,,0,0,0,0,0,1,0,0,0,0,,2017-03-10,2017-02-18,Collection,Peony,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+813,Ruth,Thomson,,ruth.thomson83@gmail.com,211048859,"61 Waripori Street, Berhampore, Wellington 6023",,2016-10-29,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,,NULL,NULL,NULL,0,NULL
+814,Franchesca,Path,(AUCK),,,"2 Hampervale Place, Flat Bush, Auckland 2016",,2016-06-03,,0,0,0,0,0,0,0,0,0,0,,2017-01-14,2016-12-14,Wholesale Bridesmaids,Georgia ,,,NULL,,NULL,NULL,NULL,0,NULL
+815,Juliet,Taylor,(AUCK),,,,,2015-08-15,,0,0,0,0,0,0,0,0,0,0,,2015-11-27,2015-10-30,Wholesale Bridesmaids,Bella x1 Blossom x 1,,,NULL,,NULL,NULL,NULL,0,NULL
+816,Rebecca,Versey,,,,,1,2016-08-31,,0,0,0,0,0,0,0,0,0,0,,2017-12-29,2016-11-30,Wholesale Collection,Julia,,,NULL,,NULL,NULL,NULL,0,NULL
+817,Renee,McInnes,,,,,,2015-05-15,,0,0,0,0,0,0,0,0,0,0,,2016-02-19,2016-01-19,Wholesale Collection,Gloriana,,,NULL,,NULL,NULL,NULL,0,NULL
+818,Ruby,Everest,,,,,,2016-09-01,,0,0,0,0,0,0,0,0,0,0,,2016-11-30,2016-10-15,Wholesale Collection,custom ,,,NULL,,NULL,NULL,NULL,0,NULL
+819,Sam,Johnston,,,,,,2016-09-01,,0,0,0,0,0,0,0,0,0,0,,2016-02-18,2016-12-18,Wholesale Collection,Florence,,,NULL,,NULL,NULL,NULL,0,NULL
+820,Kirsten,Rosewarke,,kristen.rosewarke@gmail.com,21403082,"50B Hawker Street, Mount Victoria, Wellington 6011",,2016-11-04,,0,0,0,0,0,0,0,0,1,0,Referral ,2017-06-10,2017-05-10,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+821,Heather,Tiffin,,htiffin@gmail.com,273191884,"707 Colyton Road, RD 5, Feilding 4775",,2016-11-05,,0,0,0,0,0,0,0,0,0,0,,2017-03-04,2017-01-06,Bridesmaids,Amelia,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+822,Heather,Tiffin,,htiffin@gmail.com,273191884,"707 Colyton Road, RD 5, Feilding 4775",,2016-11-05,,0,0,0,0,0,0,0,0,1,0,referral,2017-03-04,2017-01-06,Collection,Peony & Violet,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+823,Nicola,O'Sullivan,,nicky.j.osullivan@gmail.com,,,,2016-11-12,,0,0,0,0,0,0,0,0,0,0,,2017-03-25,2017-03-11,Bridesmaids,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+824,Clare,Armstrong,,clare_armstrong@hotmail.com,211836761,"31 Jaunpur Crescent, Broadmeadows, Wellington 6035",,2016-11-15,,0,0,0,0,0,0,0,0,1,0,Grace Rive,2017-04-15,2017-03-15,Collection,,,,NULL,Expired,2016-12-19,NULL,NULL,0,NULL
+825,Samantha,Wallace,,,,,,2017-04-01,,0,0,0,0,0,0,0,0,0,0,,2017-09-02,2017-06-28,Collection,Rosella + Veil,,,NULL,,NULL,NULL,NULL,0,NULL
+826,Sarah,Hodges,,sarahjoannne.hodges@gmail.com,276828378,,,2016-07-06,,0,0,0,0,0,0,0,0,0,0,,2017-03-04,2017-02-04,Wholesale Collection,Gloriana,,,NULL,,NULL,NULL,NULL,0,NULL
+827,Yeseul,Kim,,yeseul0208@hotmail.com,273096352,"56 Duthie Street, Karori, Wellington 6012",,2016-11-19,,0,0,0,0,0,0,0,0,1,0,,2017-04-28,2017-03-28,Collection,,,,NULL,Expired,2016-12-19,NULL,NULL,0,NULL
+828,Sarah,McLennan,,sarahmclennan86@gmail.com,274625192,"1 Gala Street, Waverley, Dunedin 9013",,2016-11-19,,0,0,0,0,0,0,0,0,0,0,,2017-04-29,2017-03-15,Collection,Julia ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+829,Hannah,Lovett,,hannah.lovett@hotmail.com,277844561,"4A Downing Street, Crofton Downs, Wellington 6035",,2016-11-19,,1,0,0,0,0,0,0,0,0,0,,,,Collection,,,,NULL,,2017-12-19,NULL,NULL,0,NULL
+830,Leen,Van,Eerdenbrugh,leendenbrugh@hotmail.com,211846797,"41 Tamaki Street, Tahunanui, Nelson 7011",,2016-11-22,,1,0,0,0,0,0,0,0,0,0,,2017-08-18,2017-07-18,Collection,,,,NULL,,2016-12-19,NULL,NULL,0,NULL
+831,Katie,Chalmers,,katie_chalmers@hotmail.com,211736661,"11A Washington Avenue, Brooklyn, Wellington 6021",,2016-11-23,,0,0,0,0,0,0,0,0,1,0,Jess Teaz,2017-03-11,2017-03-03,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+832,Abbie,Beeson,,,,,,2015-07-22,,0,0,0,0,0,0,0,0,0,0,,2016-03-18,2015-10-30,Wholesale Collection,Sweetpea,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+833,Claire,Potter,,,,,,2015-08-21,,0,0,0,0,0,0,0,0,0,0,,2016-03-12,2015-11-30,Wholesale Collection,Marie ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+834,Rebekah,Hadfield,,becks_hadfield@windowslive.com,277226458,"61E Chatsworth Road, Silverstream, Upper Hutt 5019",,2016-11-24,,0,0,1,0,0,0,0,0,0,1,friend,2017-03-25,2017-02-25,Custom,,,,NULL,,NULL,NULL,NULL,0,NULL
+835,Danelle,Mahar,,,,,,2015-07-22,,0,0,0,0,0,0,0,0,0,0,,2016-03-05,2015-11-30,Wholesale Collection,Diana/Marilyn,,,NULL,,NULL,NULL,NULL,0,NULL
+836,Danika,King,,,,,,2015-01-17,,0,0,0,0,0,0,0,0,0,0,,2015-12-15,2015-12-15,Wholesale Collection,Marigold,,,NULL,,NULL,NULL,NULL,0,NULL
+837,Hannah,Jamal,,,,,,2015-01-17,,0,0,0,0,0,0,0,0,0,0,,2015-05-03,2015-05-03,Wholesale Collection,Rosella (White),,,NULL,,NULL,NULL,NULL,0,NULL
+838,Jordan,Humphries,,,,,,2014-11-02,,0,0,0,0,0,0,0,0,0,0,,2015-09-19,2015-09-19,Wholesale Collection,Rosella ,,,NULL,,NULL,NULL,NULL,0,NULL
+839,Katherine,Ferlitsch,,,,,,2015-06-11,,0,0,0,0,0,0,0,0,0,0,,2016-01-09,2015-09-30,Wholesale Collection,Rosella/florence,,,NULL,,NULL,NULL,NULL,0,NULL
+840,Katie,Skillington,,,,,,2014-11-24,,0,0,0,0,0,0,0,0,0,0,,2015-04-26,2015-04-26,Wholesale Collection,Rosella,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+841,Kelly,Hayne,,,,,,2014-08-25,,0,0,0,0,0,0,0,0,0,0,,2015-10-17,2015-10-17,Wholesale Collection,Albertine,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+842,Brooke,Reid,,brookemelissareid@gmail.com,211394652,"66A Freyberg Street, Lyall Bay, Wellington 6022",,2016-11-26,,1,0,0,0,0,0,0,0,0,0,,2017-02-18,2017-02-18,Collection,Rosella Sample,,,NULL,Expired,NULL,NULL,NULL,1,NULL
+843,Stef,Waldon,,stefwaldon@gmail.com,273033232,"387 Anakiwa Road, Anakiwa 7281",,2016-11-26,,1,0,0,0,0,0,0,0,0,0,,2018-01-13,2017-12-13,Collection,Gloriana ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+844,Emily,Bourne,,emily_bourne@hotmail.co.uk,274252821,"4B Gaya Grove, Ngaio, Wellington 6035",,2016-12-03,,1,0,0,0,0,0,0,0,0,0,,2017-04-08,2017-03-08,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+845,Stephanie,Edridge,,stephanie.edridge@gmail.com,211835624,"2E/31 Pirie Street, Mt Victoria, Wellington 6011",,2016-12-03,,0,1,0,0,1,1,0,0,0,0,,2017-03-10,2017-02-23,Collection,Diana,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+846,Freida,Brides,-,,sample,,,2016-12-03,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Delphine ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+847,Freida,Brides,-,,Sample,,,2016-12-03,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Marigold,,,NULL,,NULL,NULL,NULL,0,NULL
+848,Freida,Brides,-,,sample,,,2016-12-03,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Rosella,,,NULL,,NULL,NULL,NULL,0,NULL
+849,Freida,Brides,-,,Sample,,,2016-12-03,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Diana,,,NULL,,NULL,NULL,NULL,0,NULL
+850,Freida,Brides,-,,Sample,,,2016-12-03,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Genevieve,,,NULL,,NULL,NULL,NULL,0,NULL
+851,Louissa,McMullan,,,,,,2014-10-13,,0,0,0,0,0,0,0,0,0,0,,2015-10-01,2015-10-01,Wholesale Collection,Florence,,,NULL,,NULL,NULL,NULL,0,NULL
+852,Rebecca,Win,,becs.win@gmail.com,226944686,"19 Richmond Hill, Glenside, Wellington 6037",,2016-12-10,,0,1,0,0,0,0,0,0,0,0,,2017-11-01,2017-10-01,Collection,Florence,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+853,Anna,Morton,,a.morton@windowslive.com,272226965,"47 Hassall Street, Parkside, Timaru 7910",,2016-12-10,,1,0,0,0,0,0,0,0,0,0,,2018-01-27,2017-12-27,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+854,Rachael,Bird,,rachaelkbird@gmail.com,276965245,"5 St Ronans Avenue, Waterloo, Lower Hutt 5011",,2016-12-10,,0,1,0,0,0,0,0,0,0,0,,,,Collection,Piper,,,NULL,,NULL,NULL,NULL,0,NULL
+855,Ellen,Tibbs,,elle.tibbs@hotmail.com,212662670,"27 Ellis Street, Brightwater 7022",,2016-12-13,,1,0,0,0,1,0,0,0,0,0,,2017-05-05,2017-04-05,Collection,,,,NULL,Expired,2017-03-15,NULL,NULL,0,NULL
+856,Renee,Kelk,,renee.kellk@gmail.com,210354477,"73 Donald Street, Karori, Wellington 6012",,2016-12-14,,0,1,0,0,0,0,0,0,0,0,,2017-03-31,2017-03-28,Collection,Audrey,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+857,Shin-Yi,Chau,,shin-yi@44fitness.co.nz,21509124,,,2016-12-15,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,5 samples,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+858,Jessica,Manning,,jmmannering@gmail.com,223049632,,,2016-12-15,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Rosella Sample + Veil,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+859,Laura,Magowan,,laura.p.magowan@gmail.com,273120397,,,2016-12-15,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Bluebell Smaple ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+860,Emma,Herbert,,emma_herbert_1@hotmail.com,2743477615,,,2016-12-15,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Georgia sample ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+861,Chantel,Baker,,chantel_baker@hotmail.com,27477262,,,2016-12-15,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,no name Sample,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+862,Sarah,Gabbitas,,gabbitasara@gmail.com,277384219,,,2016-12-15,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,Sweetpea,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+863,Rebecca,Hulse,,becca7892@hotmail.com,272442913,"7 Tilbury Street, Fairfield, Lower Hutt 5011",,2016-12-17,,0,0,1,0,0,0,0,0,1,0,,2017-03-23,2017-03-17,Collection,Albertine ,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+864,Cassandra,Shih,,shihcass@gmail.com,,,,2016-12-17,,0,0,0,0,0,0,0,0,0,0,,2017-05-15,2017-04-22,Bridesmaids,custom,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+865,Stephanie,Bishop,,sahbishop@gmail.com,226900577,"8 Yale Road, Mount Cook, Wellington 6021",,2016-12-22,,1,0,0,0,0,0,0,0,0,0,,2017-01-28,2017-01-28,Collection,,,,NULL,,NULL,NULL,NULL,1,NULL
+866,Mallory,Harvey,,,,,,2015-01-27,,0,0,0,0,0,0,0,0,0,0,,2015-10-16,2015-10-16,Wholesale Collection,Florence (white),,,NULL,Expired,NULL,NULL,NULL,0,NULL
+867,Frederieke,Sanne,van,fsddeen@gmail.com,Deen,"31/28 Princess Terrace, Newtown, Wellington 6021",,2016-12-22,,0,0,0,0,0,0,0,0,0,1,Annelies VDM,2018-01-01,2018-01-01,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+868,Cheryl,Lum,,lum.follett@gmail.com,61478008981,Sydney,,2016-12-23,,0,0,0,0,0,0,0,0,1,0,sister,2017-10-21,2017-08-21,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+869,Emily,Thompson,,ethommo@gmail.com,212031241,"Flat 2, 90 Allington Road, Karori, Wellington 6012",,2017-01-04,,0,0,0,0,0,0,0,0,1,0,Ali Silcock,2018-10-01,2018-09-01,Custom,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+870,Jing,Li,,jing-03@hotmail.com,274287725,"74 Dowse Drive, Maungaraki, Lower Hutt 5010",,2017-01-06,,0,0,0,0,0,0,0,0,1,0,Sarah Ng,2017-05-13,2017-04-13,Custom,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+871,Rebecca,Lampe,,rebecca.c.lampe@gmail.com,223540593,"27 Boundary Road, Kelburn, Wellington 6012",,2017-01-06,,0,0,0,0,0,0,0,0,0,1,Friends ,2017-09-09,2017-08-09,Collection,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+872,Nicole,Brosnahan,,nicole.brosnahan@hotmail.com,211278424,"8 Parkinson Close, Whitby, Porirua 5024",,2017-01-07,,1,1,0,0,0,0,0,0,0,0,,2017-04-08,2017-03-08,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+873,Kelsey,Kooyman,,kelsey.kooyman@gmail.com ,2102840266,"4 White Road, Burnham Camp, Burnham 7600",,2017-01-14,,1,0,0,0,0,0,0,0,0,0,,2018-01-13,2017-12-13,Collection,,,,NULL,found dress at Rue De Siene ,NULL,NULL,NULL,0,NULL
+874,Sarah,Rose,Sutherland,sarah.rose.sutherland@gmail.com,273851099,"22 Collingwood Street, Ngaio, Wellington 6035",,2017-01-14,,1,0,0,0,0,0,0,0,0,0,,2017-07-01,2017-06-01,Collection,Diana + veil ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+875,Nora,McGlinchey,,noriemcg@hotmail.com,2040193247,"Flat 1, 52 Wright Street, Mount Cook, Wellington 6021",,2017-01-14,,0,0,0,0,0,1,0,0,0,0,,2017-07-29,2017-06-29,Collection,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+876,Jennifer,Abele,,jenniferdawnabele@gmail.com ,778-689-8841,"468 Raza Pl. Campbell River, BC, Canada ",,2017-01-14,,0,0,0,1,0,0,0,0,0,0,,2017-10-07,2017-09-07,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+877,Megan,Horsfeild,,,,,,2014-10-20,,0,0,0,0,0,0,0,0,0,0,,2015-05-08,2015-05-08,Wholesale Collection,Rosella,,,NULL,,NULL,NULL,NULL,0,NULL
+878,Melissa,Fogarty,,,,,,2014-10-27,,0,0,0,0,0,0,0,0,0,0,,2015-09-19,2015-09-19,Wholesale Collection,Florence,,,NULL,,NULL,NULL,NULL,0,NULL
+879,Sarah,Hayden,,,,,,2015-01-27,,0,0,0,0,0,0,0,0,0,0,,2015-10-18,2015-10-18,Wholesale Collection,Moonstone,,,NULL,,NULL,NULL,NULL,0,NULL
+880,Moire,Cuncannon,,moire.cuncannon@gmail.com,61424367810,"4/8 Brighton Ave, Toronto, NSW 2283",,2017-01-21,,1,0,0,0,0,0,0,0,0,0,,2017-07-29,2017-06-29,Collection,,,,NULL,found dress elsewhere,NULL,NULL,NULL,0,NULL
+881,Leanne,Clarry,,leanneclarry@hotmail.com,226569077,"8 Rama Crescent, Khandallah, Wellington 6035",,2017-01-21,,1,0,0,0,0,1,0,0,0,0,,2017-06-10,2017-05-10,Bridesmaids,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+882,Sarah,Jones,,sarahljones@hotmail.co.nz,279113848,"9 George Street, Stokes Valley, Lower Hutt 5019",,2017-01-21,,0,0,0,0,0,0,0,0,1,0,,2017-10-21,2017-09-21,Collection,Florence,,,NULL,Ordered,2017-03-15,NULL,NULL,0,NULL
+883,Sarah,Kirkby,,,,,,2014-11-24,,0,0,0,0,0,0,0,0,0,0,,2015-07-15,2015-07-15,Wholesale Collection,Florence,,,NULL,Stockist,NULL,NULL,NULL,0,NULL
+884,Sharon,Benson,,sharon.benson@gmail.com,273192807,"93 Fraser Avenue, Johnsonville, Wellington 6037",,2017-01-27,,0,0,0,0,0,0,0,0,1,0,,2018-01-05,2017-12-05,Custom,,,,NULL,confirmed ,NULL,NULL,NULL,0,NULL
+885,Diana,Watt,,diana.grace.watt@gmail.com,273925391,not provided,,2017-01-27,,1,0,0,0,0,0,0,0,0,0,,2017-05-13,2017-04-13,Collection,,,,NULL,Expired,2017-03-15,NULL,NULL,0,NULL
+886,Caroline,Richardson,,carolinerichardson27@gmail.com,226224746,"Flat 1, 60 Owen Street, Newtown, Wellington 6021",,2017-01-27,,1,0,0,0,0,0,0,0,0,0,,2017-06-01,2017-05-01,Collection,,,,NULL,Expired,2017-03-15,NULL,NULL,0,NULL
+887,Katie,Rehrmann,,kathryn.rehrmann@hotmail.com,401165160,108 Hay Street Leichhardt NSW 2040,,2017-01-28,,1,0,0,0,0,0,0,0,0,0,,2017-07-08,2017-04-30,Collection,"Agatha, Violet + Cami",,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+888,Catharine,McFarlane,,,,,,2015-04-13,,0,0,0,0,0,0,0,0,0,0,,2015-08-23,2015-08-23,Wholesale Collection,Moonstone,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+889,Becky,Warner,,beckz77@msn.com,273256783,"1 Pohue Grove, Stokes Valley, Lower Hutt 5019",,2017-01-31,,0,1,0,0,0,0,0,0,0,0,,2017-07-08,2017-06-08,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+890,Shani,Gledhill,-,,,,,2017-02-03,,0,0,0,0,0,0,0,0,0,1,NZ weddings ,2017-04-21,2017-03-20,Collection,,,,NULL,Stockist,NULL,NULL,NULL,0,NULL
+891,Emma,King,,,,,,2015-04-13,,0,0,0,0,0,0,0,0,0,0,,2016-02-13,2016-02-13,Wholesale Collection,Rosella/Albertine,,,NULL,Competition,NULL,NULL,NULL,0,NULL
+892,Nicola,Gane,,nicolamgane@hotmail.com,274830330,"47 Argyle Avenue, Takaro, Palmerston North 4410",,2017-02-04,,1,0,0,0,0,0,0,0,0,0,,2017-04-08,2017-03-15,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+893,Emily,Lay,,emily.hc.lay@gmail.com,210526824,Not provided ,,2017-02-04,,1,1,0,0,0,0,0,0,0,0,,,,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+894,Jessica,Lee,,,,,,2015-06-27,,0,0,0,0,0,0,0,0,0,0,,2016-02-06,2015-09-30,Wholesale Collection,Albertine ,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+895,Lucy,Feltham,,lucy.feltham@ncq.school.nz,274487863,"12 Istana Place, Britannia Heights, Nelson 7010",,2017-02-10,,1,0,0,0,0,0,0,0,0,0,,2017-04-15,2017-03-20,Collection,,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+896,Sarah,Tatton,,sarahtatton@hotmail.com,273041760,"70 Wallace Street, Mount Cook, Wellington 6021",,2017-02-10,,0,1,1,0,0,0,0,0,0,0,,2017-11-10,2017-10-10,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+897,Samantha,Nuku,,samantha.nukem@gmail.com ,274999244,"608E Pioneer Highway, Highbury, Palmerston North 4412",,2017-02-11,,1,0,0,0,0,0,0,0,0,1,Estelle,2017-12-01,2017-11-01,Collection,Julia,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+898,Miriam,Nelson,Clark,miriamnelsonclark@gmail.com,276344723,"26 Marewa Road, Hataitai, Wellington 6021",,2017-02-11,,1,1,0,0,1,0,0,0,0,0,,2018-01-06,2017-12-06,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+899,Genevieve,Berning,,gberning18@gmail.com,212119615,"3 Melrose Crescent, Melrose, Wellington 6023",,2017-02-15,,1,0,0,0,0,0,0,0,0,0,,2017-10-28,2017-09-28,Collection,,,,NULL,found dress elsewhere ,NULL,NULL,NULL,0,NULL
+900,Kate,Solomons,,,,,,2015-04-13,,0,0,0,0,0,0,0,0,0,0,,2015-10-18,2015-10-18,Wholesale Collection,Rosella,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+901,Alejandra,Rios,,,,,,2016-07-26,,0,0,0,0,0,0,0,0,0,0,,2017-03-03,2016-09-30,Wholesale Collection,Diana ,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+902,Bethany,Jones,,,,,,2016-05-13,,0,0,0,0,0,0,0,0,0,0,,2016-11-19,2016-07-30,Wholesale Collection,MarieMarilyn ,,,NULL,Stockist,NULL,NULL,NULL,0,NULL
+903,Lauren,Charleau,,lacharleau@gmail.com,212808021,"6 Mortimer Terrace, Aro Valley, Wellington 6021",,2017-02-17,,1,0,0,0,0,0,0,0,0,0,,2017-08-26,2017-07-26,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+904,Melanie,Lapalme,,mlapalme13@hotmail.com,277771305,"48A Satara Crescent, Khandallah, Wellington 6035",,2017-02-17,,1,0,0,0,0,0,0,0,0,0,,2017-10-14,2017-09-14,Bridesmaids,,,,NULL,,NULL,NULL,NULL,0,NULL
+905,Angela,Lauder,,angelallauder@gmail.com,211658168,"65 Otaki Gorge Road, RD 2, Otaki 5582",,2017-02-17,,0,0,0,0,1,0,0,1,0,1,Belen Ortega,2017-12-09,2017-10-29,Collection,Audrey,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+906,Natalie,Lawrence,,natalie_lawrence@hotmail.com,278412633,"66 Raumati Road, Raumati Beach, Paraparaumu 5032",,2017-02-17,,1,0,0,0,0,0,0,0,0,0,,2018-02-09,2018-01-09,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+907,Amber,Watson,,watsonazm@gmail.com,273522660,"23 Clyde Street, Island Bay, Wellington 6023",,2017-02-18,,0,0,0,0,0,0,0,0,0,1,Ashleigh,2017-07-15,2017-06-15,Collection,,,,NULL,Chosen another dress,NULL,NULL,NULL,0,NULL
+908,Barbara,Cortez,,barbaracortez@yahoo.com,211414577,"2 Oriental Terrace, Mount Victoria, Wellington 6011",,2017-02-18,,1,0,0,0,0,0,0,0,0,0,,2017-04-15,2017-03-30,Collection,Dune ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+909,Sheryl,Harding,,sheryl.harding7@gmail.com,274720264,"13 View Mount, Stoke, Nelson 7011",,2017-02-18,,0,0,0,0,0,0,0,0,0,0,,2017-06-17,2017-05-17,Collection,,,,NULL,Expired,2017-03-15,NULL,NULL,0,NULL
+910,Sacha,Harwood,,sacha.olivia@hotmail.com ,275724001,"39 Sanctuary Key, Papamoa Beach, Papamoa 3118",,2017-02-18,,1,0,0,0,0,0,0,0,0,0,,2017-08-05,2017-07-05,Collection,Flora,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+911,Dori,Greene,,dorigreene@ymail.com,226872012,"49 Bisley Avenue, Moana, Nelson 7011",,2017-02-18,,0,0,0,0,0,0,0,0,0,1,Friend,2018-03-01,2018-02-01,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+912,Jo,Graham,,jo@joannagraham.co.nz,27231,not provided,,2017-02-21,,0,0,0,0,0,0,0,0,0,0,,2017-05-01,2017-03-31,Accessory,veil,,,NULL,Expired,NULL,NULL,NULL,0,NULL
+913,Caitlin,Swauger,,,,,1,2016-01-16,,0,0,0,0,0,0,0,0,0,0,,2016-10-08,2016-03-28,Wholesale Collection,Diana ,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+914,"Diana,",neckline,change,,,,,2016-01-13,,0,0,0,0,0,0,0,0,0,0,,2016-02-29,2016-03-11,Wholesale Collection,Diana ,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+915,Rebecca,Polson,,rebeccapolson26@gmail.com,273506639,"185 Brooklyn Road, Brooklyn, Wellington 6021",,2017-02-25,,0,0,0,0,0,0,0,0,1,0,Kate Wills,2017-10-21,2017-09-21,Custom,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+916,Hayley,Latham,,hayleylatham@gmail.com,21312214,"6 Carvel Lane, Whitby, Porirua 5024",,2017-02-25,,0,0,0,0,0,0,0,0,0,1,friend,2018-02-03,2018-01-03,Custom,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+917,Susanna,McLaren,,susanna.mclaren@xtra.co.nz,276215601,"3 Zeala Grove, Stokes Valley, Lower Hutt 5019",,2017-02-25,,0,0,0,0,0,0,0,0,0,1,WOM,2017-08-01,2017-07-01,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+918,Heather,Dill,,petersheat@gmail.com,273790015,"11 Tio Tio Road, Miramar, Wellington 6022",,2017-02-28,,1,0,0,0,0,0,0,0,0,0,,2017-05-06,2017-04-06,Collection,,,,NULL,Expired,2017-03-15,NULL,NULL,0,NULL
+919,Jasmine,Cameron,,jcameron@windowslive.com,447491829602,"8 Dunsinane Place, Marton 4710",,2017-02-28,,0,0,0,0,0,0,0,0,0,0,,2018-10-01,2018-09-01,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+920,Rachael,Pilkington,,rachaelpilkington61@gmail.com,212939225,"Unit 5D, 11 Tennyson Street, Te Aro, Wellington 6011",,2017-03-02,,1,0,1,0,1,0,0,0,0,0,,2017-12-22,2017-11-22,Custom,,,,NULL,Ordered,2017-03-15,NULL,NULL,0,NULL
+921,Rebecca,Hulse,,,,,,2017-03-03,,0,0,0,0,0,0,0,0,0,0,,2017-03-23,2017-03-17,Collection,Albertine - Alterations ,,,NULL,,NULL,NULL,NULL,0,NULL
+923,Jaimee,Taylor,,jmetaylor@windowslive.com,272012022,"19 Chester Street, Taradale, Napier 4112",,2017-03-04,,1,0,0,0,0,0,0,0,0,0,,2017-11-25,2017-10-25,Collection,,,,NULL,Found dress elsewhere ,NULL,NULL,NULL,0,NULL
+924,Kelsey,Hawkins,,kelseyhawkins@windowslive.com,272181259,"26 Lydia Place, Kelvin Grove, Palmerston North 4414",,2017-03-04,,0,0,0,0,1,0,1,0,1,0,Brooke Law,2018-01-20,2017-12-20,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+925,Sharn,Potaka,,sharn.potaka7@gmail.com,220242308,"7 Kabul Street, Khandallah, Wellington 6035",,2017-03-04,,1,0,0,0,0,0,0,0,0,0,,2019-02-01,2019-01-01,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+926,Hannah,Potts,,hpaontntash@live.com ,276090877,"4 Freyberg Street, Roslyn, Palmerston North 4414",,2017-03-07,,1,0,0,0,0,0,0,0,0,0,,2018-03-03,2018-02-03,Collection,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+927,Rebekah,Sims,,rebekah.sims@hotmail.com,276656144,"148 Tiro Tiro Road, Levin 5510",,2017-03-07,,1,0,0,0,0,0,0,0,0,0,,2017-12-22,2017-11-22,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+928,Danielle,Evans,,evans.danielle93@yahoo.co.nz,279185381,"32 Heke Street, Ngaio, Wellington 6035",,2017-03-08,,0,0,0,0,0,0,1,0,0,0,,2017-09-29,2017-09-29,Custom,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+929,Casey,Lin,,hello@caseylindesign.com,211130200,"11 Ellora Street, Ngaio, Wellington 6035",,2017-03-11,,0,0,0,0,0,0,0,0,1,0,Sarah Kong ,2017-11-03,2017-10-03,Custom,,,,NULL,Ordered ,NULL,NULL,NULL,0,NULL
+930,Rachael,Balasingam,,rachaelbalasingam@windowslive.com ,273740758,"28 Molyneux Close, Whitby, Porirua 5024",,2017-03-11,,0,0,0,0,0,0,0,0,1,0,Kelly-Ann Gall,2017-06-03,2017-05-03,Collection,,,,NULL,Expired,2017-04-19,NULL,NULL,0,NULL
+931,Lauren,Kelly,,laurenhbkelly@gmail.com ,21996304,"55 Kinghorne Street, Strathmore Park, Wellington 6022",,2017-03-11,,0,0,0,0,1,0,0,0,0,0,,2017-12-16,2017-11-16,Collection,,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+932,Aimie,Stowers,,aimie.stowers@gmail.com,273584478,"32 Lansdowne Crescent, Glenview, Hamilton 3206",,2017-03-11,,0,0,1,0,1,0,0,0,0,0,,2018-01-05,2017-12-05,Collection,Delphine,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+933,Monique,Waayer,,monique.waayer@gmail.com,273145940,"10 Oriental Terrace, Mount Victoria, Wellington 6011",,2017-03-11,,0,0,0,0,0,0,0,0,1,0,Ellie Stewart ,2018-02-01,2018-01-01,Collection,,,,NULL,,2017-03-15,NULL,NULL,0,NULL
+934,New,Camille,,,,,1,2016-01-13,,0,0,0,0,0,0,0,0,0,0,,2016-02-29,2016-03-11,Wholesale Collection,New Camille ,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+935,Stacey,Thomas,,stacey.thomas.nz@flightcentre.co.nz,273901322,"142 Hataitai Road, Hataitai, Wellington 6021",,2017-03-14,,0,0,0,0,0,0,0,0,1,0,Jemma O'flaherty,2017-08-12,2017-07-12,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+936,Angelica,Milligan,,,,,,2017-04-08,,0,0,0,0,0,0,0,0,0,0,,2017-08-19,2017-06-20,Wholesale Collection,,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+937,Roxan,Mathys,,roxanmathys@gmail.com,447480802720,"186 hydethorpe Road, London ",,2017-03-16,,0,0,0,0,0,0,0,0,1,0,Friend,2017-12-30,2017-11-30,Collection,Audrey,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+938,Sophia,Gowans,,sophie.gowans@btinternet.com,221854385,"2J QBA Apartments, 54 Webb Street, Te Aro, Wellington 6011",,2017-03-17,,1,0,0,0,0,0,0,0,0,0,,2017-06-30,2017-05-30,Collection,,,,NULL,Expired,2017-04-19,NULL,NULL,0,NULL
+939,Laura,Nicholson,,laurakatenicholson@gmail.com,272583259,"41 Ebdentown Street, Ebdentown, Upper Hutt 5018",,2017-03-17,,0,1,1,0,0,0,0,0,0,1,Other ,2018-03-01,2018-02-01,Collection,,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+940,Gabby,Smith,,,,,1,2017-04-25,,0,0,0,0,0,0,0,0,0,0,,2017-12-30,2017-07-30,Wholesale Collection,Diana ,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+941,Kerry,Fraser,,kez.fraser1@gmail.com,277654313,"18 MacArthur Street, Levin 5510",,2017-03-18,,1,0,0,0,0,0,0,0,0,0,,2017-11-04,2017-10-04,Collection,Florence/Julia ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+942,Orlaith,Maher,,orlaithmaher1@gmail.com,226821177,not provided ,,2017-03-18,,1,0,0,0,0,0,0,0,0,0,,2017-11-23,2017-10-23,Collection,,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+943,Anna,Cairns,,agracecairns@gmail.com,274246130,"30 Ludstone Road, Kaikoura 7300",,2017-03-18,,0,1,0,0,0,0,0,0,0,0,,2017-12-01,2017-11-01,Collection,,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+944,Tammy,Leaf-Wright,,tammy.leafwright@gmail.com,274634247,"14 Bertram Street, Hillcrest, Rotorua 3015",,2017-03-18,,0,0,0,0,0,0,0,0,0,0,,2018-01-13,2017-12-13,Collection,,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+945,Kathleen,Benavides,,,,,,2016-09-09,,0,0,0,0,0,0,0,0,0,0,,2017-10-01,2016-12-10,Wholesale Collection,Genevieve ,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+946,Sabrina,Rodriguez,,,,,,2016-09-09,,0,0,0,0,0,0,0,0,0,0,,2017-03-01,2016-12-10,Wholesale Collection,Julia,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+947,McKenzie,Cox,,mckenziecox@icloud.com ,212939447,"25 Hurunui Street, Waikanae 5036",,2017-03-25,,0,0,0,0,0,0,0,0,1,0,,2017-09-30,2017-08-30,Collection,Geneveive,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+948,Ashvini,Kahawatta,,ashvini.kahawatta@gmail.com,277104225,"78 Lyall Parade, Lyall Bay, Wellington 6022",,2017-03-25,,0,0,0,0,0,0,0,0,0,0,Friend ,2017-11-05,2017-10-05,Collection,Diana,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+949,Chelsea,Atkin,,chelsea.atkin@ballance.co.nz,278398731,"19 Gartrell Street, Woodbourne, Blenheim 7206",,2017-03-25,,1,0,0,0,0,0,0,0,0,0,,2018-01-27,2017-12-27,Collection,Albertine ,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+950,Clare,Kennedy,,clare.m.kennedy@gmail.com ,447449949548,"27 Warnborough Rd, Oxford, OX26JA ",,2017-03-25,,1,0,0,0,0,0,0,0,0,0,,2018-01-31,2017-12-31,Collection,,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+951,Giselle,D'Mello,,giselledmello12@gmail.com,61499080566,not provided,,2017-03-31,,1,0,0,0,0,0,0,0,0,0,,2018-02-01,2018-01-01,Collection,Audrey/Gloriana,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+952,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+953,Anna,Howe,,anna_howe@hotmail.com,273158394,"Flat 1, 222 Dominion Road, Red Hill, Papakura 2110",,2017-04-01,,0,0,0,0,0,0,0,0,1,0,Annelies VDM,2017-10-21,2017-09-21,Collection,Diana/poppy,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+954,Anne,Molineux,,annemolineux@gmail.com,276991788,"9 Queen Street, Mount Victoria, Wellington 6011",,2017-04-01,,1,0,0,0,0,0,0,0,0,0,,2017-09-09,2017-08-09,Collection,,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+955,Holly,Grant,,holly.diane.grant@gmail.com,274392519,"51B Buckingham Street, Melrose, Wellington 6023",,2017-04-01,,0,0,0,0,0,1,0,0,0,0,,2018-01-20,2017-12-20,Collection,,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+956,Sophie,Syemour,,sophie.seymour@chapmantripp.com,212305528,"Flat 504, 22 Herd Street, Te Aro, Wellington 6011",,2017-04-01,,1,0,0,0,0,0,0,0,0,0,,2018-02-04,2018-01-04,Collection,,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+957,Grace,Li,,gracewaiyanli@gmail.com ,211142553,"Flat 25, 46 Hiropi Street, Newtown, Wellington 6021",,2017-04-01,,0,0,0,0,0,0,0,0,0,0,,2018-03-24,2018-02-24,Collection,,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+958,Rachel,Batchelor,,rachel.batchelor@live.com ,277126000,"7A Heathglen Place, Bayview, Auckland 0629",,2017-04-05,,0,0,0,0,0,0,0,0,0,1,friends ,2018-02-17,2018-01-17,Custom,,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+959,Toni,Ann,Almani,toniann.alamani@gmail.com,211717790,"52 Woodhouse Avenue, Karori, Wellington 6012",,2017-04-06,,1,1,0,0,0,0,0,0,1,0,"Natalie Mezaros, Monique Ramage",2017-09-16,2017-08-16,Custom,,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+960,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,found dress elsewhere,NULL,NULL,NULL,0,NULL
+961,Claire,Pouwels,,cjmpouwels@gmail.com,447554376971,"56 Middle Lane, London, N8 8PD, UK",,2017-04-07,,1,0,0,0,0,0,0,0,0,0,,2018-02-23,2018-01-23,Collection,Audrey,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+962,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+963,Amanda,Stirling,,a-stirling@hotmail.com,273107017,"173 Major Drive, Kelson, Lower Hutt 5010",,2017-04-08,,1,0,0,0,0,0,0,0,1,0,friend,2018-01-20,2017-12-20,Collection,Piper ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+964,Rochelle,Giles,,rochellegiles@windowslive.com,274051843,"4 Hihi Place, Waikanae 5036",,2017-04-08,,0,1,0,0,0,0,0,0,0,0,,2018-02-03,2018-01-03,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+965,Lauren,Russell,,laurenmichelleruss@gmail.com,21595477,"8A James Street, Plimmerton, Porirua 5026",,2017-04-08,,0,0,0,0,0,0,0,1,0,0,,2018-03-10,2018-02-10,Collection,,,,NULL,ordered ,NULL,NULL,NULL,0,NULL
+966,Lucy,Morgan,,ljmorgan85@gmail.com,223188995,"87 Cypress Drive, Maungaraki, Lower Hutt 5010",,2017-04-08,,1,0,0,0,0,0,0,0,0,0,,2018-02-03,2018-01-03,Collection,,,,NULL,,2017-04-19,NULL,NULL,0,NULL
+967,Anna,Hill,,anna_jane06@hotmail.com,2102958129,"56A Rintoul Street, Newtown, Wellington 6021",,2017-04-08,,1,0,0,0,0,1,0,0,0,0,,2018-02-24,2018-01-24,Collection,,,,NULL,Found dress elsewhere,NULL,NULL,NULL,0,NULL
+968,Miriam,Meszaros,,miriammeszaros@gmail.com,278291959,"4 Sasanof View, Ascot Park, Porirua 5024",,2017-04-13,,1,1,1,0,0,0,0,0,1,0,Natalie Meszaros ,2018-02-24,2018-01-24,Custom,,,,NULL,yes,NULL,NULL,NULL,0,NULL
+969,Lesley,Bashall,,lesleybashall@gmail.com,273260546,"4/62 Old Karori Road, Karori, Wellington 6012",,2017-04-13,,1,0,0,0,0,0,0,0,0,0,,2018-04-28,2018-03-28,Collection,Julia ,,,NULL,ordered ,NULL,NULL,NULL,0,NULL
+970,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+971,Daniella,Jara,,daniella.jara5@gmail.com,224320106,"Flat 2, 15 Rakeiora Grove, Korokoro, Lower Hutt 5012",,2017-04-19,,1,0,0,0,0,0,0,0,0,0,,2017-12-01,2017-11-01,Collection,Albertine,,,NULL,yes,NULL,NULL,NULL,0,NULL
+972,Kate,Walton,,katelouisewalton@gmail.com,221829144,"105 Round Hill Road, Karitane 9471",,2017-04-20,,0,0,1,0,0,0,0,0,0,0,,2017-10-07,2017-09-07,Collection,Julia,,,NULL,yes,NULL,NULL,NULL,0,NULL
+973,Vicky,Harker,,vicky.harker@gmail.com,211313394,"6A Upland Road, Kelburn, Wellington 6012",,2017-04-20,,0,0,0,0,0,0,0,0,1,0,Iona Manning,2018-01-04,2017-12-04,Collection,,,,NULL,yes,NULL,NULL,NULL,0,NULL
+974,Jennie,Mole,,jenniferjayne55@gmail.com,226459202,"44C Roxburgh Street, Mount Victoria, Wellington 6011",,2017-04-21,,1,0,0,0,0,0,0,0,0,0,,2018-07-01,2018-06-01,Collection,Flora,,,NULL,yes,NULL,NULL,NULL,0,NULL
+975,Elizabeth,Philip,,eamphilip@gmail.com,276964026,"754 Tikokino Road, RD 3, Waipawa 4273",,2017-04-22,,1,0,0,0,0,0,0,0,0,0,,2017-11-10,2017-10-10,Collection,Albertine ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+976,Nic,Rivers,,nicola.rivers1@gmail.com,274634009,"PO Box 414, Masterton 5840",,2017-04-22,,1,0,0,0,0,0,0,0,0,0,,2018-02-24,2018-01-24,Collection,Audrey/Florence,,,NULL,Found dress elsewhere,NULL,NULL,NULL,0,NULL
+977,Shannon,Dillon,,shanondillon@clear.net.nz,211652356,"267B Dowse Drive, Maungaraki, Lower Hutt 5010",,2017-04-22,,1,0,0,0,0,0,0,0,0,0,,2018-03-10,2018-02-10,Collection,Audrey ,,,NULL,yes,NULL,NULL,NULL,0,NULL
+978,Katie,Shillito,,katie.ollie.wedding@gmail.com,226940826,"305/80 Riddiford Street, Newtown, Wellington 6021",,2017-04-22,,1,0,0,0,0,0,0,1,0,0,,2018-05-05,2018-04-05,Custom,Custom ,,,NULL,,NULL,NULL,NULL,0,NULL
+979,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Stockist,NULL,NULL,NULL,0,NULL
+980,Rachel,Penman,,rypenman@yahoo.co.nz,211353946,"45 Calvin Place, Avondale, Auckland 1026",,2017-04-27,,0,1,0,0,0,0,0,0,0,0,,2017-11-04,2017-10-04,Accessory,Shoes ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+981,Alysha,Dougherty,,alysha.doughtery@hotmail.com,277573390,"101 Makara Road, Karori, Wellington 6012",,2017-04-28,,1,0,0,0,0,0,0,0,0,0,,2018-02-03,2018-01-03,Collection,Florence/Julia ,,,NULL,yes,NULL,NULL,NULL,0,NULL
+982,Idianna,McEwin,,indiannamcewin@gmail.com,21881398,Not provided ,,2017-04-29,,0,1,0,1,0,0,0,0,0,0,,2018-01-27,2017-12-20,Collection,Peony + Violet ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+983,Caitlin,Killalea,,caitlinkillalea@gmail.com ,276977672,"Flat 1, 174 Hanson Street, Newtown, Wellington 6021",,2017-04-29,,1,1,1,1,0,1,0,0,0,0,,2018-03-24,2018-02-24,Collection,June ,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+984,Lisa,Hansen,,lisa-hansen@hotmail.co.nz,273831098,"4A Sim Street, Johnsonville, Wellington 6037",,2017-05-04,,0,1,0,0,0,0,0,0,0,0,,2017-03-24,2017-02-24,Collection,,,,NULL,found dress elswhere,NULL,NULL,NULL,0,NULL
+985,Sisi,Loi,,,,,,2017-05-23,,0,0,0,0,0,0,0,0,0,0,,2018-01-13,2017-08-30,Wholesale Collection,Julia ,,,NULL,Stockist,NULL,NULL,NULL,0,NULL
+986,Kushaiah,Bollen,,kushaiah.bollen@gmail.com,223545663,"19 Wyndham Road, Pinehaven, Upper Hutt 5019",,2017-05-06,,1,0,0,0,0,0,0,0,0,0,,2018-02-01,2018-01-01,Collection,,,,NULL,Found dress elsewhere,2017-05-19,NULL,NULL,0,NULL
+987,Tracy,Tunupopo,,tracytunupopo@gmail.com,21720400,"42 Lees Grove, Wainuiomata, Lower Hutt 5014",,2017-05-06,,0,0,0,0,1,0,0,0,0,0,,2017-09-30,2017-08-30,Collection,Julia,,,NULL,,2017-05-19,NULL,NULL,0,NULL
+988,Dannielle,Shaw,,Danielle.shaw_@hotmail.com,273661358,"34 Samwell Drive, Whitby, Porirua 5024",,2017-05-06,,1,0,0,0,0,0,0,0,0,0,,2018-01-26,2017-12-26,Collection,,,,NULL,,2017-05-19,NULL,NULL,0,NULL
+989,Abby,Griffin,,aegriffin01@gmail.com,21713022,"14 Kerkwall Drive, Naenae, Lower Hutt 5011",,2017-05-06,,0,1,0,0,0,0,0,0,1,0,,2018-03-10,2018-02-10,Collection,,,,NULL,,2017-05-19,NULL,NULL,0,NULL
+990,Laura,Metz,,,,,1,2017-06-02,,0,0,0,0,0,0,0,0,0,0,,2018-01-06,2017-09-01,Wholesale Collection,Genevieve,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+991,Madison,Young,,,,,1,2017-06-08,,0,0,0,0,0,0,0,0,0,0,,2018-07-13,2017-09-01,Wholesale Collection,Elsie,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+992,Anna,Harris,,annaharris.lp@gmail.com,274263686,"76 Russell Street, Whataupoko, Gisborne 4010",,2017-05-09,,0,0,0,0,0,0,0,0,1,0,Sophie Peters,2017-12-16,2017-11-16,Collection,Audrey ,,,NULL,Found dress at Paperswan,2017-05-19,NULL,NULL,0,NULL
+993,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+994,Rachel,Pentecost,,rachelpentecost@hotmail.com,221015675,"17 Royleen Street, Casebrook, Christchurch 8051",,2017-05-13,,0,1,1,0,0,0,0,0,0,0,,2019-03-09,2019-02-09,Collection,Elsie,,,NULL,ordered,NULL,NULL,NULL,0,NULL
+995,Stella,Fan,,stellafx@hotmail.com,279399366,"6 Matuhi Street, Tirohanga, Lower Hutt 5010",,2017-05-13,,1,0,0,0,0,0,0,0,0,0,,2017-12-03,2017-11-03,Collection,Gloriana ,,,NULL,ordered,NULL,NULL,NULL,0,NULL
+996,Olivia,Ofsofke,,oliviaofsofke@gmail.com,21891055,"Flat 3, 126 Owen Street, Newtown, Wellington 6021",,2017-05-13,,1,1,0,0,0,0,0,0,0,0,,2018-12-01,2018-11-01,Collection,Audrey,,,NULL,emailed,2017-07-13,NULL,NULL,0,NULL
+997,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+998,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Stockist,NULL,NULL,NULL,0,NULL
+999,Bridget,Johnson,,johnsonbridget.d@gmail.com,211466312,Not provided,,2017-05-19,,1,0,0,0,0,0,0,0,0,0,,2017-12-07,2017-11-07,Collection,Charlotte,,,NULL,,NULL,NULL,NULL,0,NULL
+1000,Alexa,Tomey,,alexatomey@live.com,211424845,"15 The Drive, Tawa, Wellington 5028",,2017-05-20,,0,1,0,0,0,0,0,0,0,0,,2017-07-22,2017-06-22,Accessory,Veil,,,NULL,ordered,NULL,NULL,NULL,0,NULL
+1001,Sarah,Moroney,,not filled out properly,2102473380,"75 Condell Avenue, Papanui, Christchurch 8053",,2017-05-20,,0,1,0,0,0,0,0,0,1,0,,2018-01-06,2017-12-06,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+1002,Kat,Banyard,,kat_banyard@live.com,221620667,"Unit 10, 162 Aro Street, Aro Valley, Wellington 6021",,2017-05-20,,0,0,0,0,0,0,0,0,1,0,Caro Ammundsen,2018-03-03,2018-02-03,Custom,Gloriana (shorter),,,NULL,yes,NULL,NULL,NULL,0,NULL
+1003,Melanie,Mikulecky,,melmikulecky@gmail.com,225105913,"26 Ranfurly Street, Trentham, Upper Hutt 5018",,2017-05-20,,0,1,0,0,0,1,0,0,0,0,,2018-08-08,2018-07-08,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+1004,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+1005,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+1006,Floriane,Tintenier,,tintenier.floriane@gmail.com,223108718,"2/218 Onepu Road, Lyall Bay, Wellington 6022",,2017-05-25,,0,0,0,0,1,0,0,0,0,0,,2017-07-25,2017-06-25,Collection,Rosella,,,NULL,,NULL,NULL,NULL,0,NULL
+1007,Frances,Wedde,,fwedde@gmail.com ,21870357,Not provided ,,2017-05-25,,1,0,0,0,0,0,0,0,1,0,Jenny Ryan ,2018-02-01,2018-01-01,Collection,,,,NULL,emailed,2017-07-13,NULL,NULL,0,NULL
+1008,Charlotte,Hollingsworth,,charlotte.hollingsworth@gmail.com,2102640586,"36 Taylor Terrace, Tawa, Wellington 5028",,2017-05-26,,1,0,0,0,0,0,0,0,0,0,,2017-08-26,2017-08-11,Collection,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+1009,Caroline,Estrada,,caroline.estrada@gmail.com,213.219.9550,"3027 N Central Park ave, Chicago, IL 60618",,2017-05-26,,0,0,0,0,0,0,0,0,0,0,,2017-10-08,2017-08-25,Collection,Peony & Violet ,,,NULL,International birde,NULL,NULL,NULL,0,NULL
+1010,Keely,Freed,,phylliskeelyfreed@gmail.com,21366514,"26 Manchester Street, Melrose, Wellington 6023",,2017-05-26,,0,0,0,0,0,0,0,0,1,0,,2017-09-28,2017-08-28,Collection,,,,NULL,emailed,2017-07-13,NULL,NULL,0,NULL
+1011,Emma,Watts,,emma.watts@hotmail.co.nz,277695869,"47 Kimberley Grove, Westbrook, Palmerston North 4412",,2017-05-26,,0,0,0,0,0,0,1,0,0,0,,2018-01-06,2017-12-06,,,,,NULL,incorrect email,NULL,NULL,NULL,0,NULL
+1012,Beth,Robertson,,tropicalrainstorm@gmail.com,221986475,"242 Manganese Point Road, RD 4, Whangarei 0174",,2017-05-27,,0,0,0,0,0,0,0,0,1,0,,2018-01-06,2017-12-06,Collection,Elsie ,,,NULL,emailed,2017-06-20,NULL,NULL,0,NULL
+1013,Jessica,Scanlan,,jessica.mary.scanlan@gmail.com,274043230,"1B Waitohu Road, York Bay, Lower Hutt 5013",,2017-05-27,,0,1,1,0,1,0,0,1,0,0,,2018-02-02,2018-01-02,Collection,,,,NULL,emailed,2017-07-13,NULL,NULL,0,NULL
+1014,Anna,Burgess,,annamareeburgess@gmail.com ,221500780,"9 Fenwick Crescent, Hillcrest, Hamilton 3216",,2017-05-27,,0,0,0,0,0,0,0,0,1,0,Aiees Walker ,2018-04-20,2018-03-20,Collection,Julia,,,NULL,emailed,2017-07-13,NULL,NULL,0,NULL
+1015,Sample,,,,,,,2016-10-20,,0,0,0,0,0,0,0,0,0,0,,,,,,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+1016,Karen,Bengosi,,karen.bengosi@hotmail.com,273696322,"55 Hazlewood Avenue, Karori, Wellington 6012",,2017-05-31,,0,1,0,1,0,0,0,0,0,0,,2018-04-01,2018-03-01,Collection,,,,NULL,emailed,2017-07-13,NULL,NULL,0,NULL
+1017,Claire,Clement,,claire@clairelouise.co.nz,21532256,"5 Karekare Road, Raumati South, Paraparaumu 5032",,2017-06-01,,0,0,0,0,0,0,0,0,1,0,,2019-03-09,2019-02-09,Custom,,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+1018,Brittain,Senter,,,,,1,2016-04-12,,0,0,0,0,0,0,0,0,0,0,,2016-10-29,2016-07-01,Wholesale Collection,Diana - ivory,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+1019,Kirby,Heath,,kirbyheathnz@gmail.com ,276967372,Not provided ,,2017-06-03,,1,1,0,0,0,0,0,0,0,0,,2018-03-10,2018-02-10,Custom,,,,NULL,ordered,NULL,NULL,NULL,0,NULL
+1020,Jessica,Oliver,,jessica.oliver@philandteds.com,210398007," 26 Monorgan Road, Strathmore Park, Wellington 6022",,2017-06-03,,1,1,1,0,0,0,1,0,0,0,,2018-09-01,2018-08-01,Collection,Rosella,,,NULL,ordered,NULL,NULL,NULL,0,NULL
+1021,Jessica,Stuart,,jessicastuart18@gmail.com,223804709,"74 Readers Road, Havelock 7178",,2017-06-03,,1,0,0,0,0,0,0,0,0,0,,2018-01-12,2017-12-12,Collection,Estelle,,,NULL,Aunt making dress,2017-07-15,NULL,NULL,0,NULL
+1022,Corinne,,,corinnewilliams@vodafone.co.nz,211929297,"2 Montego Place, Grenada Village, Wellington 6037",,2017-06-03,,1,0,0,0,0,0,0,0,0,0,,2018-02-01,2018-01-01,Custom,,,,NULL,,NULL,NULL,NULL,0,NULL
+1023,Kate,Davidson,,katelisadavidson@gmail.com,221624956,"10 Swansea Street, Hokowhitu, Palmerston North 4410",,2017-06-03,,1,0,0,0,0,0,0,0,0,0,,2018-02-03,2018-01-03,Collection,,,,NULL,emailed,2017-07-13,NULL,NULL,0,NULL
+1024,Tesa,Duess,,tessa.deuss@gmail.com,223598045,"31A Austin Street, Mount Victoria, Wellington 6011",,2017-06-03,,0,0,0,0,0,0,0,0,1,0,Becky Wysocki,2018-03-03,2018-02-03,Collection,Albertine,,,NULL,emailed,2017-07-13,NULL,NULL,0,NULL
+1025,Leesha,Ishwar,,leesha.ishwar@asb.co.nz,2102584642,,,2017-06-06,,1,1,0,0,0,0,0,0,0,0,,2018-04-07,2018-03-07,Collection,,,,NULL,found elsewhere,2017-07-13,NULL,NULL,0,NULL
+1026,Nina,Morreau,,ninamorreau4@gmail.com,275047078,"1 Market Lane, Wellington Central, Wellington 6011",,2017-06-07,,0,0,0,0,0,0,1,0,0,0,,2018-02-23,2018-01-23,Custom,,,,NULL,emailed,2017-07-13,NULL,NULL,0,NULL
+1027,Tessa,Gerberich,,flyinsparrow@gmail.com,717-383-2353,"133 South Main Street, Harrisonburg VA 22801",,2017-06-08,,0,0,0,0,0,0,0,0,0,0,,2017-12-09,2017-08-01,Collection,Violet,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+1028,Shelley,Lu,,meiling016@hotmail.com,210511180,"20 Duncan Terrace, Kilbirnie, Wellington 6022",,2017-06-08,,0,0,0,0,0,0,0,0,1,0,Carly Harris,2017-12-16,2017-11-16,Custom,Julia custom,,,NULL,ordered,NULL,NULL,NULL,0,NULL
+1029,Erica,Austin,,,,,1,2015-11-06,,0,0,0,0,0,0,0,0,0,0,,2016-08-20,2016-02-23,Wholesale Collection,Diana,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+1030,Ruth,Glynn,,ruthglynn@hotmail.com,272164903,"46 Thompson Street, Mount Cook, Wellington 6011",,2017-06-09,,1,0,0,0,0,0,0,0,0,0,,2018-02-03,2018-01-03,Collection,,,,NULL,emailed,2017-07-13,NULL,NULL,0,NULL
+1031,Fiona,Hutchinson,,fmhutchinson@yahoo.com,221378125,"Flat 7, 26 Wright Street, Mount Cook, Wellington 6021",,2017-06-10,,1,0,0,0,0,0,0,0,0,0,,2018-01-08,2017-12-08,Custom,Julia/Florence ,,,NULL,Stockist,NULL,NULL,NULL,0,NULL
+1032,Rachel,Dervin,,,,,1,2015-11-06,,0,0,0,0,0,0,0,0,0,0,,2016-05-20,2016-02-23,Wholesale Collection,Diana,,,NULL,Ordered ,NULL,NULL,NULL,0,NULL
+1033,Keziah,Bevan,,stretchfam@vodafone.co.nz,277878778,"38 Catherine Crescent, Paparangi, Wellington 6037",,2017-06-10,,0,0,0,0,0,0,0,0,1,0,Abby Mcoy,2017-12-29,2017-11-29,Collection,Peony + Lindee Rose,,,NULL,,NULL,NULL,NULL,0,NULL
+1034,Hannah,Staurt,,hannahstuart@gmail.com,275207547,"26A Liffey Crescent, Island Bay, Wellington 6023",,2017-06-10,,0,0,0,0,0,0,0,0,1,0,friend,2018-02-24,2018-01-24,Collection,Julia ,,,NULL,,NULL,NULL,NULL,0,NULL
+1035,Tracey,Prince,,princetracey40@gmail.com,276827754,"57 Woodland Road, Johnsonville, Wellington 6037",,2017-06-10,,0,0,0,0,0,0,1,0,0,0,,2018-04-14,2018-03-14,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+1036,Anita,Lines,,anitalines@hotmail.co.nz,273132292,"7 Gurney Road, Kelson, Lower Hutt 5010",,2017-06-10,,0,0,0,0,0,0,1,0,0,0,,2018-12-01,2018-11-01,Collection,Genevieve,,,NULL,,NULL,NULL,NULL,0,NULL
+1037,Samantha,Morris,,sam-morris8@hotmail.com,2108406632,"31 Spyglass Lane, Whitby, Porirua 5024",,2017-06-10,,0,0,0,0,0,0,0,0,1,0,,2018-09-01,,Custom,,,,NULL,,NULL,NULL,NULL,0,NULL
+1038,Michaella,Mackie,,michaella.mackie@gmail.com,273345190,Not provided,,2017-06-13,,1,0,0,0,0,0,0,0,0,0,,2018-01-20,2017-12-20,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+1040,Stephanie,Dixon,,,,,,2017-05-16,,0,0,0,0,0,0,0,0,0,0,,2017-10-23,2017-07-30,Wholesale Collection,,,,NULL,Stockist,NULL,NULL,NULL,0,NULL
+1041,Ariana,Kauri,,arianak@live.com,278148624,"8 Lowry Crescent, Stokes Valley, Lower Hutt 5019",,2017-06-16,,1,1,1,0,0,0,0,0,0,0,,2018-08-25,2018-07-25,Collection,Bloomfeild,,,NULL,,NULL,NULL,NULL,0,NULL
+1042,Margaret,Hydes,,margaret.hydes@gmail.com,220102251,"234 Blenheim Road, Riccarton, Christchurch 8041",,2017-06-17,,1,1,0,0,0,0,0,0,0,1,Stuff,2018-01-06,2017-11-01,Accessory,Veil ,,,NULL,,NULL,NULL,NULL,0,NULL
+1043,Danielle,Finnie,,daniellefinnie@gmail.com,273846677,"52 Belvedere Road, Hataitai, Wellington 6021",,2017-06-17,,1,0,0,0,0,0,0,0,0,0,,2018-01-26,2017-12-26,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+1044,Tash,Willis,,tashwillis@hotmail.co.nz,273300991,Not provided ,,2017-06-17,,1,0,0,0,0,0,0,0,0,0,,2018-02-03,2018-01-03,Custom,Billie ,,,NULL,,NULL,NULL,NULL,0,NULL
+1045,Shani,Els,,es@naenae-college.school.nz,278719735,silverstream,,2017-06-17,,1,0,0,0,0,0,0,0,0,0,,2018-02-24,2018-01-24,Collection,Julia,,,NULL,,NULL,NULL,NULL,0,NULL
+1046,Nicole,Georgel,,nicolegeorgel@hotmail.com,274555241,"23 Hoggard Street, Vogeltown, Wellington 6021",,2017-06-17,,0,0,0,0,0,1,0,0,0,0,,2018-03-17,2018-02-17,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+1047,Anne,Glackin,,anneglackin@gmail.com,223440161,"29D Birdwood Avenue, Beckenham, Christchurch 8023",,2017-06-17,,1,0,0,0,0,0,0,0,0,0,,2018-05-01,2018-04-01,Collection,,,,NULL,,NULL,NULL,NULL,0,NULL
+1048,Veil,for,Dani,,,,,2015-12-18,,0,0,0,0,0,0,0,0,0,0,,2015-12-28,2015-12-21,Accessory,Veil ,,,NULL,Stockist,NULL,NULL,NULL,0,NULL
+1051,Violet,Top,,,,,,2017-02-23,,0,0,0,0,0,0,0,0,0,0,,,,Wholesale Sample,,,,NULL,Stockist ,NULL,NULL,NULL,0,NULL
+1052,Jennifer,Milne,,jennifer-milne@live.com,21031261,"Apt 13, 8 Willowbank, North Dunedin",,2017-06-24,,1,0,0,0,0,0,0,0,0,0,,2017-12-09,2017-11-09,Collection,Elsie,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+1053,Jess,Smith,,jlsmithnz@gmail.com,273425990,"111/72 Tory St, Te Aro, Wellington 6011",,2017-06-24,,0,0,0,0,0,0,0,0,1,0,,2018-01-27,2017-12-15,Collection,Bethany w rosella long sleeve top + veil,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+1054,Anna,Mellsop,,a.mellsop@gmail.com,273310459,"104a Barrowclough Road, Whangamata",,2017-06-24,,0,0,0,0,0,0,0,0,1,0,,2018-01-27,2017-12-15,Collection,Bethany/albertine combination,,,NULL,"(from Melbourne, give a little more time)",NULL,NULL,NULL,0,NULL
+1055,Hayley,Buckley,,mayb.hayley@gmail.com,21899903,"8 Bay Drive, Titahi Bay",,2017-06-24,,1,0,0,0,0,0,0,0,0,0,,2018-02-10,2017-12-15,Collection,Bethany with violet top,,,NULL,Ordered,NULL,NULL,NULL,0,NULL
+1056,Eva,Perrone,,elizowe@gmail.com,220336776,6/68 Hill Street,,2017-06-24,,1,0,0,0,0,0,0,0,0,0,,2018-03-03,2018-02-03,Collection,Flora(no painting)/Peony/Elsie/Felicia,,,NULL,email ,2017-07-12,NULL,NULL,0,NULL
+1057,Frances,Skilton,,frances.skilton@hotmail.com,274065584,"86 Rakau Road, Hataitai, Wellington",,2017-06-24,,1,0,0,0,1,0,0,0,0,0,,2018-03-24,2018-02-24,Collection,Gloriana bodice/albertine/julia,,,NULL,email ,2017-07-12,NULL,NULL,0,NULL
+1058,Grace,Boston,,graceboston@gmail.com,273886373,"21/54 Anzac Ave, Dunedin",,2017-06-28,,0,0,0,0,0,0,0,0,0,1,Friends Wedding,2018-01-13,2017-12-13,Collection,Rosella with box pleat skirt,,,NULL,,NULL,NULL,NULL,0,NULL
