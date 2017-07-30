@@ -8,8 +8,11 @@
 					<a class="no_click under" href="index.php?view=g&a=c">DRESSES</a>
 					<ul class="opaque88 hidden">
 						<li>
-							<a href="index.php?view=g&a=c&c=1">2017 DUSK</a>
+							<a href="index.php?view=g&a=c&c=2">2018 RAINE</a>
 						</li>
+							<li>
+								<a href="index.php?view=g&a=c&c=1">2017 DUSK</a>
+							</li>
 							<li>
 								<a href="index.php?view=g&a=c&c=0">CLASSICS</a>
 							</li>
