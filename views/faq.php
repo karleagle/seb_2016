@@ -1,11 +1,11 @@
 <?php
 // GET WEDDING DRESS DETAILS
-$block = new Block('c','4')
+$block = new Block('c','5')
 ?><!DOCTYPE html>
 <html class="no-js">
 <head>
 <meta charset="UTF-8">
-<title>About Sally Eagle &#8212; Bridal Designer</title>
+<title>FAQs About Sally Eagle &#8212; Bridal Designer</title>
 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
 <meta name="description" content="Frequently asked questions for Sally Eagle wedding dresses and bridal consultations." />
 <meta name="keywords" content="FAQs, frequently asked questions, sally eagle, sally eagle bridal, vintage, vintage inspired, vintage wedding dress, vintage wedding gown, vintage bridal gown, wedding dress, wedding dresses, bridal dress, bridal dresses, bridal gown, bridal gowns, bridal wear, bridalwear, wedding dress designer, wedding dress designers, bridal gown designer, bridal gown designers, bridal dress design, bridal dress designer, bridal design, bridal designer, bridal designers, designer bridal, bridal dressmaker, wedding gown designer, wedding gown designers, wellington, willis st, willis street, bridal shop, wellington bridal shop, bridal store, wellington bridal, wellington bridal store, bridal boutique, wellington bridal boutique, wedding dress shop, wedding dress store, wedding dress boutique, wedding gown store, wedding gown shop, wedding gown boutique, bridesmaid, bridesmain dresses, bridesmaids dresses, ball dress, ball dresses, ball dress shops" />

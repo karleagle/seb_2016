@@ -1,6 +1,6 @@
 <?php
 // GET WEDDING DRESS DETAILS
-$block = new Block('c','4')
+$block = new Block('c','5')
 ?><!DOCTYPE html>
 <html class="no-js">
 <head>
@@ -38,41 +38,65 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <?php // INCLUDE HEADER
 	include('templates/header.php');
 ?>
-<!--
 	<div class="submenu ">
 		<ul class="opaque88">
 			<li>
-				<a href="#">FEBRUARY 2017</a>
+				<a href="#">AUGUST 2017</a>
 			</li>
 			<li>
-				<a href="#1">APRIL 2017</a>
+				<a href="#1">SEPTEMBER 2017</a>
 			</li>
 		</ul>
 	</div>
--->
-<!--
 <h2 class="stockist">
-	FEBRUARY 2017
+	AUGUST 2017
 </h2>
 <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
-<?php	Controller::addTrunkshow( //$city, $date, $website, $name, $map, $address, $email, $phone, $id
+<?php	Controller::addTrunkshow( //$CITY, $DATE, $website, $name, $map, $address, $email, $phone, $id
+		"AUCKLAND, NEW ZEALAND",
+		"11&#8211;13 AUGUST",
+		"http://www.thehavenbridal.co.nz/sally-eagle/",
+		"The Haven Bridal Boutique",
+		"https://goo.gl/maps/gXwKkrKhZFT2",
+		"15 Khyber Pass Rd, Auckland",
+		"hello@thehavenbridal.co.nz",
+		"021 0246 4189",
+		"1"
+); ?>
+<h2 class="stockist">
+	SEPTEMBER 2017
+</h2>
+<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+<?php	Controller::addTrunkshow( //$CITY, $DATE, $website, $name, $map, $address, $email, $phone, $id
+		"LONDON, ENGLAND",
+		"12&#8211;17 SEPTEMBER",
+		"https://www.luellas.co.uk/collections/sally-eagle",
+		"Luella&#39;s Bridal",
+		"https://www.google.com/maps/place/Luella's+Bridal/@51.424179,-0.217066,17z/data=!4m5!3m4!1s0x487608cc084c7ff1:0x1afd7507343b352!8m2!3d51.425298!4d-0.217134?hl=en",
+		"78a The High Street, London",
+		"boutique@luellas.co.uk",
+		"020 8879 7744",
+		""
+); ?>
+<?php	Controller::addTrunkshow( //$CITY, $DATE, $website, $name, $map, $address, $email, $phone, $id
 		"ROSM&#200;RE, CANADA",
-		"14 FEBRUARY&#8211;3 MARCH",
+		"22 SEPTEMBER&#8211;1 OCTOBER",
 		"https://www.macheriebleue.com/weddingdresses",
 		"Ma Ch&#233;rie Bleue",
 		"https://goo.gl/maps/T5puFfzXM132",
 		"303 Chemin de la Grande-C&#244;te",
 		"info@macheriebleue.com",
 		"450 818 8388",
-		"1"
+		""
 ); ?>
--->
+<!-- NO TRUNKSHOWS
 	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
 	<div class="gallery">
 		<h1 class="stockist blue">
 			More trunkshows coming soon!
 		</h1>
 	</div>
+-->
 	<!-- END MAIN BLOCK -->
 
 	<!-- START SIMILAR STYLES -->

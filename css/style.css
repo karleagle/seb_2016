@@ -174,6 +174,14 @@ div.content{
 	clear: both;
 }
 
+.clear_left{
+	clear: left;
+}
+
+.clear_right{
+	clear: right;
+}
+
 /* OUTLINE */
 .box{
   border:solid 1px;
@@ -219,7 +227,7 @@ div.bgImg.boutique{
 }
 
 div.bgImg.auckland{
-  background-image:url('../images/boutique/boutique01.jpg');
+  background-image:url('../images/boutique/haven.jpg');
 }
 
 div.bgImg.about{
@@ -611,6 +619,39 @@ nav.browsePages span{
 nav.browsePages a:hover{
 	text-decoration: underline;
 }
+
+/******************* CAMPAIGN *******************/
+img.campaign_p {
+	width: 49.7%;
+}
+
+img.campaign_p.float_left {
+	margin: 0 0.4em 0.4em 0;
+}
+
+img.campaign_l1 {
+	width: 100%;
+}
+
+img.campaign_l2_left {
+	float: left;
+	margin: 0 0.4em 0.4em 0;
+	width: 49.7%;
+}
+
+img.campaign_l2_right {
+	float: left;
+	margin-bottom: 0.4em;
+	width: 49.7%;
+}
+
+div.campaign_box {
+	display: inline-block;
+	height: 50em;
+	overflow: hidden;
+
+}
+
 
 /******************** DRESS *********************/
 

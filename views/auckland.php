@@ -45,23 +45,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div>
 			<a
         class="white link"
-        href="https://www.google.com/maps/place/Foxes+Island+Wines/@-36.8591542,174.7447099,17z/data=!4m5!3m4!1s0x6d0d47960f3c4c89:0xc38a88e38520441f!8m2!3d-36.8591542!4d174.7468986?hl=en" target="_blank">
-        15 WILLIAMSON AVENUE, AUCKLAND
+        href="https://goo.gl/maps/gXwKkrKhZFT2" target="_blank">
+        15 KHYBER PASS RD, GRAFTON, AUCKLAND
       </a>
     </div>
     <a class="white box ls_wide opaque centered"
 			href="http://www.thehavenbridal.co.nz/about/">
 			LEARN MORE
 		</a>
-    <p class="ls_thin">OPEN SAT &amp; SUN 10AM TO 5PM</p>
+    <p class="ls_thin">OPEN FRI &#8211; SUN 10AM TO 5PM</p>
   </div>
 	<div class="left_align padded">
 	  <p class="large blue">
-			Sally Eagle has finally brought her full, exquisite collection
+			Sally Eagle has finally brought her exquisite collection
 			of beautiful, hand&#45;made wedding dresses to Auckland!
 	  </p>
 	  <p>
-			Sally is stocking her latest bridal collection in full at
+			Sally is stocking the best of her bridal collection at
 			<a class="ls_thin"
 				href="http://www.thehavenbridal.co.nz/" target="_blank">
 				The Haven Bridal Boutique</a>.
@@ -69,13 +69,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			gorgeous designs from exclusive local and international bridal designers.
 	  </p>
 	  <p>
-			Consultations take place in the larger, private back section of the
-			Foxes Island Wines showroom. Groups of up to 4 people are recommended, which ensures
+			The Haven is located in a cute boutique in Grafton.
+			Groups of up to 4 people are recommended, which ensures
 			seating for all and leaves ample room for you to move freely in
 			your dress.
 	  </p>
 		<p>
-			With wine and refreshments readily at hand in The Haven&#39;s relaxed
+			With refreshments readily at hand in The Haven&#39;s relaxed
 			atmosphere, you and your friends or family can enjoy yourselves
 			as you find	the dress that is perfectly you.
 		</p>
