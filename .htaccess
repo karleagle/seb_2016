@@ -1,9 +1,12 @@
+#Redirect old website
 Redirect /weddings http://www.sallyeagle.co.nz/index.php?view=g&a=w
 Redirect /weddings1.php http://www.sallyeagle.co.nz/index.php?view=g&a=w
 Redirect /weddings1.php?couple_id=1 http://www.sallyeagle.co.nz/index.php?view=w&a=3
 Redirect /weddings1.php?couple_id=2 http://www.sallyeagle.co.nz/index.php?view=w&a=2
 Redirect /weddings1.php?couple_id=3 http://www.sallyeagle.co.nz/index.php?view=w&a=1
 Redirect /weddings0.php http://www.sallyeagle.co.nz/index.php?view=g&a=w
+
+#Redirect page names
 Redirect /collections.php http://www.sallyeagle.co.nz/index.php?view=g&a=c
 Redirect /collections http://www.sallyeagle.co.nz/index.php?view=g&a=c
 Redirect /dresses.php http://www.sallyeagle.co.nz/index.php?view=g&a=w
@@ -34,3 +37,17 @@ Redirect /trunkshows http://www.sallyeagle.co.nz/index.php?view=trunkshows
 Redirect /index.php?view=t http://www.sallyeagle.co.nz/index.php?view=trunkshows
 Redirect /stockists http://www.sallyeagle.co.nz/index.php?view=stockists
 Redirect /index.php?view=z http://www.sallyeagle.co.nz/index.php?view=stockists
+
+#Redirect Raine links
+Redirect /raine http://www.sallyeagle.co.nz/index.php?view=g&a=c&c=2
+Redirect /taylor http://www.sallyeagle.co.nz/index.php?view=c&a=100
+Redirect /willow http://www.sallyeagle.co.nz/index.php?view=c&a=99
+Redirect /skye http://www.sallyeagle.co.nz/index.php?view=c&a=98
+Redirect /ophelia http://www.sallyeagle.co.nz/index.php?view=c&a=97
+Redirect /amara http://www.sallyeagle.co.nz/index.php?view=c&a=96
+Redirect /meadow http://www.sallyeagle.co.nz/index.php?view=c&a=95
+Redirect /iris http://www.sallyeagle.co.nz/index.php?view=c&a=94
+Redirect /ava http://www.sallyeagle.co.nz/index.php?view=c&a=94
+Redirect /farrah http://www.sallyeagle.co.nz/index.php?view=c&a=93
+Redirect /isla http://www.sallyeagle.co.nz/index.php?view=c&a=92
+Redirect /harlow http://www.sallyeagle.co.nz/index.php?view=c&a=91
