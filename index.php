@@ -77,6 +77,9 @@
 		case 'stockists': //STOCKISTS
 			stockists();
 			break;
+		case 'raine':
+			raine();
+			break;
 		default:
 			base('h');
 	};
@@ -127,6 +130,10 @@
 
 	function contact(){
 		include('views/contact.php');
+	};
+
+	function raine(){
+		include('views/campaign_raine.php');
 	};
 
 ?>

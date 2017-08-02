@@ -8,14 +8,17 @@
 					<a class="no_click under" href="index.php?view=g&a=c">DRESSES</a>
 					<ul class="opaque88 hidden">
 						<li>
-							<a href="index.php?view=g&a=c&c=2">2018 RAINE</a>
+							<a href="index.php?view=raine">RAINE LOOKBOOK</a>
 						</li>
-							<li>
-								<a href="index.php?view=g&a=c&c=1">2017 DUSK</a>
-							</li>
-							<li>
-								<a href="index.php?view=g&a=c&c=0">CLASSICS</a>
-							</li>
+						<li>
+							<a href="index.php?view=g&a=c&c=2">RAINE CAMPAIGN</a>
+						</li>
+						<li>
+							<a href="index.php?view=g&a=c&c=1">DUSK LOOKBOOK</a>
+						</li>
+						<li>
+							<a href="index.php?view=g&a=c&c=0">CLASSICS</a>
+						</li>
 						<li>
 							<a href="index.php?view=g&a=w">REAL BRIDES</a>
 						</li>

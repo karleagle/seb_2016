@@ -622,11 +622,11 @@ nav.browsePages a:hover{
 
 /******************* CAMPAIGN *******************/
 img.campaign_p {
-	width: 49.7%;
+	width: 49.6%;
 }
 
 img.campaign_p.float_left {
-	margin: 0 0.4em 0.4em 0;
+	margin: 0 0.39em 0.4em 0;
 }
 
 img.campaign_l1 {
@@ -635,14 +635,14 @@ img.campaign_l1 {
 
 img.campaign_l2_left {
 	float: left;
-	margin: 0 0.4em 0.4em 0;
-	width: 49.7%;
+	margin: 0 0.39em 0.4em 0;
+	width: 49.6%;
 }
 
 img.campaign_l2_right {
 	float: left;
 	margin-bottom: 0.4em;
-	width: 49.7%;
+	width: 49.6%;
 }
 
 div.campaign_box {
@@ -1122,6 +1122,14 @@ form input {
 	div.border {
 		overflow-x:scroll;
 	}
+
+	/* fix campaign images on shrink */
+	div.campaign_box{
+		height: auto;
+	}
+
+	div.campaign_box img{
+	}
 }
 
 /* BP1: below "normal" width */
@@ -1227,9 +1235,19 @@ form input {
 	div.dress_header {
     width:100%;
     text-align:center;
-}
+	}
 
-	/* increase real wedding image size */
+	/* increase campaign image size */
+	img.campaign_l2_right,
+	img.campaign_l2_left,
+	img.campaign_p {
+		width: 100%;
+		float:none;
+	}
+
+	div.campaign_box {
+		height: auto;
+	}
 }
 
 /* BP3: Drop menu, centralise, shrink biggest text */
