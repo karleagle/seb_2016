@@ -409,7 +409,11 @@ class Controller {
 		// If a group type is given, only SELECT those. Otherwise, SELECT all.  NB 'm' is the image used for the browse page (Main)
 		if (isset($group)) {
 			if($group=='c'){
-				$statement = "SELECT * FROM $table WHERE $table.listType = '$group' AND active = '1' AND $table.collection = '$collection' ORDER BY $table.listId DESC";
+				$statement = "SELECT * FROM $table WHERE $table.listType = '$group' AND active = '1' ";
+				if (isset($collection)) {
+					$statement .= "AND $table.collection = '$collection' ";
+				}
+				$statement .= "ORDER BY $table.listId DESC";
 			} elseif($group=='b'||$group=='c'||$group=='w'||$group=='f') {
 				$statement = "SELECT * FROM $table WHERE $table.listType = '$group' AND active = '1' ORDER BY $table.listId DESC";
 			} else {
