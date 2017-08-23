@@ -38,6 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <?php // INCLUDE HEADER
 	include('templates/header.php');
 ?>
+<!-- ONLY ONE MONTH
 	<div class="submenu ">
 		<ul class="opaque88">
 			<li>
@@ -48,25 +49,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</li>
 		</ul>
 	</div>
-<h2 class="stockist">
-	AUGUST 2017
-</h2>
-<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
-<?php	Controller::addTrunkshow( //$CITY, $DATE, $website, $name, $map, $address, $email, $phone, $id
-		"AUCKLAND, NEW ZEALAND",
-		"11&#8211;13 AUGUST",
-		"http://www.thehavenbridal.co.nz/sally-eagle/",
-		"The Haven Bridal Boutique",
-		"https://goo.gl/maps/gXwKkrKhZFT2",
-		"15 Khyber Pass Rd, Auckland",
-		"hello@thehavenbridal.co.nz",
-		"021 0246 4189",
-		"1"
-); ?>
+-->
 <h2 class="stockist">
 	SEPTEMBER 2017
 </h2>
 <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+<?php	Controller::addTrunkshow( //$CITY, $DATE, $website, $name, $map, $address, $email, $phone, $id
+		"SYDNEY, AUSTRALIA",
+		"2&#8211;3 SEPTEMBER",
+		"http://www.hopeandpage.com.au/",
+		"HOPE X PAGE",
+		"https://goo.gl/maps/BZ9nefJeW2k",
+		"1/296 Kingsway, Caringbah NSW 2227",
+		"contact@hopeandpage.com.au",
+		"0410 628 564",
+		""
+); ?>
 <?php	Controller::addTrunkshow( //$CITY, $DATE, $website, $name, $map, $address, $email, $phone, $id
 		"LONDON, ENGLAND",
 		"12&#8211;17 SEPTEMBER",

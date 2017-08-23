@@ -96,8 +96,8 @@ Controller::addStockist(
 );
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"http://www.hopeandpage.com.au/",
-		"HOPE AND PAGE",
-		"https://www.google.co.nz/maps/place/Mille+Feuille/@-43.5809392,172.560495,17z/data=!3m1!4b1!4m5!3m4!1s0x6d318bb59ef7ec77:0xe0bf8c6522f01881!8m2!3d-43.5809431!4d172.5626837",
+		"HOPE X PAGE",
+		"https://goo.gl/maps/BZ9nefJeW2k",
 		"1/296 Kingsway, Caringbah NSW 2227",
 		"contact@hopeandpage.com.au",
 		"0410 628 564",
