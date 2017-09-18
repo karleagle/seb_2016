@@ -38,53 +38,62 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <?php // INCLUDE HEADER
 	include('templates/header.php');
 ?>
-<!-- ONLY ONE MONTH
 	<div class="submenu ">
 		<ul class="opaque88">
 			<li>
-				<a href="#">AUGUST 2017</a>
+				<a href="#">SEPTEMBER 2017</a>
 			</li>
 			<li>
-				<a href="#1">SEPTEMBER 2017</a>
+				<a href="#1">OCTOBER 2017</a>
+			</li>
+			<li>
+				<a href="#2">NOVEMBER 2017</a>
 			</li>
 		</ul>
 	</div>
--->
 <h2 class="stockist">
 	SEPTEMBER 2017
 </h2>
 <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
 <?php	Controller::addTrunkshow( //$CITY, $DATE, $website, $name, $map, $address, $email, $phone, $id
-		"SYDNEY, AUSTRALIA",
-		"2&#8211;3 SEPTEMBER",
-		"http://www.hopeandpage.com.au/",
-		"HOPE X PAGE",
-		"https://goo.gl/maps/BZ9nefJeW2k",
-		"1/296 Kingsway, Caringbah NSW 2227",
-		"contact@hopeandpage.com.au",
-		"0410 628 564",
-		""
-); ?>
-<?php	Controller::addTrunkshow( //$CITY, $DATE, $website, $name, $map, $address, $email, $phone, $id
-		"LONDON, ENGLAND",
-		"12&#8211;17 SEPTEMBER",
-		"https://www.luellas.co.uk/collections/sally-eagle",
-		"Luella&#39;s Bridal",
-		"https://www.google.com/maps/place/Luella's+Bridal/@51.424179,-0.217066,17z/data=!4m5!3m4!1s0x487608cc084c7ff1:0x1afd7507343b352!8m2!3d51.425298!4d-0.217134?hl=en",
-		"78a The High Street, London",
-		"boutique@luellas.co.uk",
-		"020 8879 7744",
-		""
-); ?>
-<?php	Controller::addTrunkshow( //$CITY, $DATE, $website, $name, $map, $address, $email, $phone, $id
 		"ROSM&#200;RE, CANADA",
 		"22 SEPTEMBER&#8211;1 OCTOBER",
-		"https://www.macheriebleue.com/weddingdresses",
+		"https://www.macheriebleue.com/trunkshows",
 		"Ma Ch&#233;rie Bleue",
 		"https://goo.gl/maps/T5puFfzXM132",
 		"303 Chemin de la Grande-C&#244;te",
 		"info@macheriebleue.com",
 		"450 818 8388",
+		"1"
+); ?>
+<h2 class="stockist">
+	OCTOBER 2017
+</h2>
+<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+<?php	Controller::addTrunkshow( //$CITY, $DATE, $website, $name, $map, $address, $email, $phone, $id
+		"MINNEAPOLIS, USA",
+		"13&#8211;23 OCTOBER",
+		"http://www.flutterboutique.com/sally-eagle-",
+		"Flutter Boutique",
+		"https://goo.gl/maps/7cwU9E41J2m",
+		"43 Main Street SE, Suite 141, Minneapolis",
+		"info@flutterboutique.com",
+		"720 627 5760",
+		"2"
+); ?>
+<h2 class="stockist">
+	NOVEMBER 2017
+</h2>
+<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
+<?php	Controller::addTrunkshow( //$CITY, $DATE, $website, $name, $map, $address, $email, $phone, $id
+		"SINGAPORE",
+		"19&#8211;20 NOVEMBER",
+		"https://www.friedabrides.com/sally-eagle/",
+		"Frieda Brides",
+		"https://goo.gl/maps/rYFJb2zsWh92",
+		"45 Kampong Bahru Rd, Singapore",
+		"info@friedabrides.com",
+		"+65 92280190",
 		""
 ); ?>
 <!-- NO TRUNKSHOWS
