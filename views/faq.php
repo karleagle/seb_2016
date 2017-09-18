@@ -43,7 +43,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </div>
 	<div class="left_align padded faq">
 	  <p class="large blue">
-			Here are the answers to some of the questions you may have.
+			Here are our answers to some of the questions you may have.
 	  </p>
 		<h2 class="blue">
 			Do I need an appointment to visit?
@@ -62,13 +62,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			What is the charge for a consultation appointment?
 		</h2>
 		<p>
-			There is a $30 charge for an initial wedding dress consultation and a $15 charge for an initial bridesmaids consultation.
+			There is a $30 charge for an initial wedding dress consultation.
 	  </p>
 		<h2 class="blue">
 			How long does a consultation take?
 		</h2>
 		<p>
-			We book wedding dress consultations in for an hour and bridesmaids consultations for half an hour.
+			We book wedding dress consultations in for an hour.
+			We find that there is usually time for you to try on up to 8 bridal gowns,
+			depending on how long you have each wedding dress on for.
 		</p>
 		<p>
 			We love to spoil our brides and create a nice and relaxing environment
@@ -122,16 +124,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			What is the price range of your dresses?
 		</h2>
 		<p>
-			Our wedding dresses range from $2000&#8211;$3800
-			 and our wedding separates (skirts and tops) range from $360&#8211;$1600.
-			Our bridesmaids dresses range from $220&#8211;$550.
+			Our wedding dresses range from $2,300&#8211;$4,000
+			and our wedding separates (skirts and tops) range from $360&#8211;$1600.
 	  </p>
 		<h2 class="blue">
 			What sizes are our dress samples in?
 		</h2>
 		<p>
-			We have dresses in our boutique to try on in sizes 6 through to 18.
-			 As we make all of our dresses in&#45;house we are able to create your dress in any size required.
+			We have dresses in our boutique to try on in sizes 6 through to 22.
+			As we make all of our dresses in&#45;house we are able to create your dress in any size required.
 	  </p>
 		<h2 class="blue">
 			How long does it take from when I order a dress to when I receive it?
@@ -139,11 +140,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<p>
 			We require 5 months to make a dress over the peak period (spring/summer)
 			and 4 months over the quieter period (autumn/winter).
-			We suggest ordering at least 6 months out from your wedding date.
 		</p>
 		<p>
-			We can make dresses in a shorter timeframe, which may incur a rush fee.
-			Please give us a call or email and we can let you know whether we can meet your wedding date.
+			We suggest ordering at least 6 months out from your wedding date.
+			However, if you require a shorter timeframe we may be able to make it work.
+			Please give us a call or <a class="link blue ls_thin"
+	      href="mailto&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Website%20enquiry">
+			email</a> and we can let you know whether we can
+			meet your wedding date.
 	  </p>
 		<h2 class="blue">
 			Do you make custom wedding dresses?
