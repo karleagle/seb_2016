@@ -56,3 +56,7 @@ Redirect /ava https://www.sallyeagle.co.nz/index.php?view=c&a=94
 Redirect /farrah https://www.sallyeagle.co.nz/index.php?view=c&a=93
 Redirect /isla https://www.sallyeagle.co.nz/index.php?view=c&a=92
 Redirect /harlow https://www.sallyeagle.co.nz/index.php?view=c&a=91
+
+#Redirect removed dresses
+Redirect /index.php?view=c&a=30 https://www.sallyeagle.co.nz/index.php?view=g&a=c&c=1
+Redirect /index.php?view=g&a=b https://www.sallyeagle.co.nz/index.php?view=g&a=c&c=0
