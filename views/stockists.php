@@ -65,20 +65,20 @@
 		"021 0246 4189"
 );
 Controller::addStockist(
-		"http://www.millefeuille.co.nz/new-page-2",
-		"MILLE FEUILLE",
-		"https://www.google.co.nz/maps/place/Mille+Feuille/@-43.5809392,172.560495,17z/data=!3m1!4b1!4m5!3m4!1s0x6d318bb59ef7ec77:0xe0bf8c6522f01881!8m2!3d-43.5809431!4d172.5626837",
-		"29 Nicholls Rd, Christchurch",
-		"info@millefeuille.co.nz",
-		"03 356 0163"
-);
-Controller::addStockist(
 		"http://www.noviabrides.co.nz/sally-eagle-wedding-dresses/",
 		"NOVIA BRIDES",
 		"https://goo.gl/maps/z4WaoDDEL332",
 		"3 Loach Road, Hawea Flat, Wanaka",
 		"gowns@noviabrides.co.nz ",
-		"021 245 1904",
+		"021 245 1904"
+);
+Controller::addStockist(
+		"http://www.millefeuille.co.nz/new-page-2",
+		"MILLE FEUILLE",
+		"https://www.google.co.nz/maps/place/Mille+Feuille/@-43.5809392,172.560495,17z/data=!3m1!4b1!4m5!3m4!1s0x6d318bb59ef7ec77:0xe0bf8c6522f01881!8m2!3d-43.5809431!4d172.5626837",
+		"29 Nicholls Rd, Christchurch",
+		"info@millefeuille.co.nz",
+		"03 356 0163",
 		"2"
 );
  ?>
