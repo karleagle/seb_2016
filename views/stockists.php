@@ -16,14 +16,6 @@
 <script src="https://use.typekit.net/vyq5cic.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NGJ5HZ');</script>
-<!-- End Google Tag Manager -->
-
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="js/menu_hover.js"></script>
 
@@ -71,6 +63,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		"15 Khyber Pass Rd, Auckland",
 		"hello@thehavenbridal.co.nz",
 		"021 0246 4189"
+);
+Controller::addStockist(
+		"http://www.noviabrides.co.nz/sally-eagle-wedding-dresses/",
+		"NOVIA BRIDES",
+		"https://goo.gl/maps/z4WaoDDEL332",
+		"3 Loach Road, Hawea Flat, Wanaka",
+		"gowns@noviabrides.co.nz ",
+		"021 245 1904"
 );
 Controller::addStockist(
 		"http://www.millefeuille.co.nz/new-page-2",
