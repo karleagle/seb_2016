@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	include('templates/header.php');
 ?>
 	<div class="header white about bgImg">
-    <h1 class="underscore">MEET SALLY</h1>
+    <h1 class="underscore">SALLY EAGLE</h1>
   </div>
 	<div class="left_align padded">
 	  <p class="large blue">
@@ -60,8 +60,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			spending time with her husband and their two young boys.
 		</p>
 	</div>
-	<img class="banner_image_1" src="images/sally2.jpg" alt="Sally Eagle" />
-	<img class="banner_image_2" src="images/sally3.jpg" alt="Sally Eagle" />
+	<img class="about" src="images/sally4.jpg" alt="Sally Eagle" />
 	<!-- END MAIN BLOCK -->
 	</div>
 <?php // INCLUDE FOOTER

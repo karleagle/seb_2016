@@ -231,7 +231,7 @@ div.bgImg.auckland{
 }
 
 div.bgImg.about{
-  background-image:url('../images/sally1.jpg');
+  background-image:url('../images/about.jpg');
 }
 
 div.bgImg.faq{
@@ -886,6 +886,11 @@ div.darken::before{
     top:0; left:0;
     background:rgba(0,0,0,0.65);
     opacity: 0.65;
+}
+
+img.about {
+	margin:4em auto 1em;
+	max-width: 45.4em;
 }
 
 /******************* READ MORE ******************/
