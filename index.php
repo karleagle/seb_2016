@@ -80,6 +80,9 @@
 		case 'raine':
 			raine();
 			break;
+		case 'workroom':
+			workroom();
+			break;
 		default:
 			base('h');
 	};
@@ -134,6 +137,10 @@
 
 	function raine(){
 		include('views/campaign_raine.php');
+	};
+
+	function workroom(){
+		include('views/workroom.php');
 	};
 
 ?>

@@ -238,6 +238,10 @@ div.bgImg.faq{
   background-image:url('../images/faq.jpg');
 }
 
+div.bgImg.workroom{
+  background-image:url('../images/workroom/workroom-0.jpg');
+}
+
 /* TITLEBOX */
 div.titlebox{
   border-left:1px solid #E9EEF8;
@@ -858,15 +862,9 @@ img.banner_image_1{
 	margin-right: .6%;
 }
 
-div.workroom{
-	font-size: 1.5em;
-	margin: 0.7em auto 0;
-	max-width: 30.2em;
-}
+/*********** ABOUT & FAQ & WORKROOM ************/
 
-/***************** ABOUT & FAQ ******************/
-
-div.about, div.faq.header {
+div.about, div.faq.header, div.workroom.header {
   margin-bottom:6.5em;
 	padding-bottom:17em;
 	position:relative;
@@ -891,6 +889,10 @@ div.darken::before{
 img.about {
 	margin:4em auto 1em;
 	max-width: 45.4em;
+}
+
+img.workroom {
+	width: 24.6%;
 }
 
 /******************* READ MORE ******************/
@@ -1253,6 +1255,11 @@ form input {
 	div.campaign_box {
 		height: auto;
 	}
+
+	/* workroom images 2x4 */
+	img.workroom {
+		width: 49.5%;
+	}
 }
 
 /* BP3: Drop menu, centralise, shrink biggest text */
@@ -1444,5 +1451,10 @@ form input {
 
 	section.details{
 		width:72%;
+	}
+
+	/* workroom images 1x8 */
+	img.workroom {
+		width: 99.5%;
 	}
 }
