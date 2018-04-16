@@ -62,6 +62,9 @@
 							<a href="index.php?view=about">SALLY EAGLE</a>
 						</li>
 						<li>
+							<a href="index.php?view=workroom">WORKROOM</a>
+						</li>
+						<li>
 							<a href="index.php?view=faq">FREQUENTLY ASKED QUESTIONS</a>
 						</li>
 					</ul>
