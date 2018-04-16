@@ -1175,6 +1175,10 @@ form input {
 		margin:0 .73% 0 2.8%;
 	}
 
+	nav.main ul ul.about{
+		padding-left:37%;
+	}
+
 	/* shrinking header */
 	div.header h1{
 		margin-top:27.5%;
@@ -1259,6 +1263,11 @@ form input {
 	/* workroom images 2x4 */
 	img.workroom {
 		width: 49.5%;
+	}
+
+	/* move About submenu in */
+	nav.main ul ul.about{
+		padding-left:13%;
 	}
 }
 
