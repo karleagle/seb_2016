@@ -53,7 +53,7 @@
 		</p>
 	</div>
 	<div class="titlebox">
-		<h2>FROM THE WORMROOM</h2>
+		<h2>FROM THE WORKROOM</h2>
 	</div>
 	<div class="squares">
 		<img class="workroom" src="images/workroom/square/Workroom-6.jpg" alt="Sally Eagle" />
