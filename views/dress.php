@@ -95,7 +95,7 @@ $dress->setImages();
 <?php if ($_GET['view'] == 'f' || $_GET['view'] == 'acs') {/*No fitting*/} else { echo '
 	      <p class="dress_details">
         All Sally Eagle&#39;s collection ' . $dress->typeName . 'es are available in sizes
-				6 through to 18.
+				6 through to 22.
       </p>
       <p class="dress_details">
         To ensure a perfect fit you can also have your dress made and fitted to
