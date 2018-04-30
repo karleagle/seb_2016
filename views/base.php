@@ -34,13 +34,27 @@
 	<div class="content">
 		<div class="main_image">
 		<!-- HOLD THE MAIN IMAGE FOR THE HOMEPAGE -->
-			<a href="index.php?view=g&a=c&c=2">
-				<img class="welcome" src="images/collections/raine/home.jpg" title="See the RAINE collection" alt="Welcome to the Sally Eagle website." />
+			<a href="index.php?view=g&a=c&c=3">
+				<img class="welcome" src="images/eden_home.jpg" title="See the Eden collection" alt="Welcome to the Sally Eagle website." />
 			</a>
 		</div>
+		<div class="titlebox">
+			<h2>#committedtoNZ</h2>
+		</div>
+			<p class="large blue">
+				I love the fact that we can work so closely with New Zealand brides to
+				find their perfect dress!
+			</p>
+			<p>
+				I also love working alongside my talented production team, it gives me
+				better control over the final product and also supports NZ .
+				So I have made a committment to keeping the production of my dresses
+				in New Zealand rather than outsourcing overseas.
+				Read more about it and meet the team here.
+			</p>
 		<section class="image_box">
 		<!-- SHOW COLLECTION IMAGES -->
-			<h1>2018 BRIDAL COLLECTION</h1>
+			<h1>EDEN BRIDAL COLLECTION</h1>
 			<div class="image_box"> <!-- FRAME COLLECTION IMAGES -->
 				<p class="top_bar blue">&#95;&#95;&#95;&#95;</p>
 				<div class="border"> <!-- BORDER -->
@@ -49,9 +63,9 @@
 							<a class="hover_reveal"
 								href="index.php?view=c&a=98">
 								<img class="collection p1"
-									src="images/collections/raine/farrah_home.jpg"
-									title="Farrah"
-									alt="Sally Eagle's 2018 wedding dress and bridal wear collection shoot" />
+									src="images/collections/eden/campaign/eden-home-57.jpg"
+									title="Matilda"
+									alt="Sally Eagle's Eden wedding dress and bridal wear collection shoot" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
 				        </div>
@@ -61,9 +75,9 @@
 							<a class="hover_reveal"
 								href="index.php?view=c&a=100">
 								<img class="collection l1"
-									src="images/collections/raine/taylor_home.jpg"
-									title="Taylor"
-									alt="Sally Eagle's 2018 wedding dress and bridal wear collection shoot" />
+									src="images/collections/eden/campaign/eden-home-38.jpg"
+									title="Eden Collection"
+									alt="Sally Eagle's Eden wedding dress and bridal wear collection shoot" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
 				        </div>
@@ -73,9 +87,9 @@
 							<a class="hover_reveal"
 								href="index.php?view=c&a=95">
 								<img class="collection p1"
-									src="images/collections/raine/skye_home.jpg"
-									title="Skye"
-									alt="Sally Eagle's 2018 wedding dress and bridal wear collection shoot" />
+									src="images/collections/eden/campaign/eden-home-67.jpg"
+									title="Eden Collection"
+									alt="Sally Eagle's Eden wedding dress and bridal wear collection shoot" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
 				        </div>
@@ -85,9 +99,9 @@
 							<a class="hover_reveal"
 								href="index.php?view=c&a=91">
 								<img class="collection l2"
-									src="images/collections/raine/harlow_home.jpg"
-									title="Harlow"
-									alt="Sally Eagle's 2018 wedding dress and bridal wear collection shoot" />
+									src="images/collections/eden/campaign/eden-home-34.jpg"
+									title="Evelyn"
+									alt="Sally Eagle's Eden wedding dress and bridal wear collection shoot" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
 				        </div>
@@ -97,9 +111,9 @@
 							<a class="hover_reveal"
 								href="index.php?view=c&a=93">
 								<img class="collection l2"
-									src="images/collections/raine/isla_home.jpg"
-									title="Isla"
-									alt="Sally Eagle's 2018 wedding dress and bridal wear collection shoot" />
+									src="images/collections/eden/campaign/eden-home-78.jpg"
+									title="Eden Collection"
+									alt="Sally Eagle's Eden wedding dress and bridal wear collection shoot" />
 								<div class="gallery_details absolute opaque75 hidden">
 				          <p class="box ">VIEW</p>
 				        </div>
