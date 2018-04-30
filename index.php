@@ -80,6 +80,9 @@
 		case 'raine':
 			raine();
 			break;
+		case 'eden':
+			eden();
+			break;
 		case 'workroom':
 			workroom();
 			break;
@@ -137,6 +140,10 @@
 
 	function raine(){
 		include('views/campaign_raine.php');
+	};
+
+	function eden(){
+		include('views/campaign_eden.php');
 	};
 
 	function workroom(){
