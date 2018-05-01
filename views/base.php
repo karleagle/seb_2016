@@ -47,7 +47,7 @@
 			</p>
 			<p>
 				I also love working alongside my talented production team, it gives me
-				better control over the final product and also supports NZ .
+				better control over the final product and also supports NZ.
 				So I have made a committment to keeping the production of my dresses
 				in New Zealand rather than outsourcing overseas.
 				Read more about it and meet the team here.
