@@ -34,7 +34,7 @@
 	<div class="content">
 		<div class="main_image">
 		<!-- HOLD THE MAIN IMAGE FOR THE HOMEPAGE -->
-			<a href="index.php?view=g&a=c&c=3">
+			<a href="index.php?view=eden">
 				<img class="welcome" src="images/eden_home.jpg" title="See the Eden collection" alt="Welcome to the Sally Eagle website." />
 			</a>
 		</div>
@@ -62,7 +62,7 @@
 					<div class="holder"> <!-- HOLD COLLECTION IMAGES -->
 						<div class="relative float_left p1">
 							<a class="hover_reveal"
-								href="index.php?view=c&a=98">
+								href="index.php?view=c&a=103">
 								<img class="collection p1"
 									src="images/collections/eden/campaign/eden-home-57.jpg"
 									title="Matilda"
@@ -74,7 +74,7 @@
 						</div>
 						<div class="relative float_left l1">
 							<a class="hover_reveal"
-								href="index.php?view=c&a=100">
+								href="index.php?view=eden">
 								<img class="collection l1"
 									src="images/collections/eden/campaign/eden-home-38.jpg"
 									title="Eden Collection"
@@ -86,7 +86,7 @@
 						</div>
 						<div class="relative float_left p1">
 							<a class="hover_reveal"
-								href="index.php?view=c&a=95">
+								href="index.php?view=eden">
 								<img class="collection p1"
 									src="images/collections/eden/campaign/eden-home-67.jpg"
 									title="Eden Collection"
@@ -98,7 +98,7 @@
 						</div>
 						<div class="relative float_left l2">
 							<a class="hover_reveal"
-								href="index.php?view=c&a=91">
+								href="index.php?view=c&a=104">
 								<img class="collection l2"
 									src="images/collections/eden/campaign/eden-home-34.jpg"
 									title="Evelyn"
@@ -110,7 +110,7 @@
 						</div>
 						<div class="relative float_left l3">
 							<a class="hover_reveal"
-								href="index.php?view=c&a=93">
+								href="index.php?view=eden">
 								<img class="collection l2"
 									src="images/collections/eden/campaign/eden-home-78.jpg"
 									title="Eden Collection"
