@@ -50,7 +50,8 @@
 				better control over the final product and also supports NZ.
 				So I have made a committment to keeping the production of my dresses
 				in New Zealand rather than outsourcing overseas.
-				Read more about it and meet the team here.
+				Check out our workroom
+				<a class="ls_thin link" href="index.php?view=workroom">here</a>.
 			</p>
 		<section class="image_box">
 		<!-- SHOW COLLECTION IMAGES -->
