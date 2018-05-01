@@ -253,7 +253,7 @@ div.titlebox{
   width:25.938em;
 }
 
-div.titlebox h2{
+div.titlebox h2, div.titlebox h1{
   background-color:#fff;
   color:#686C72;
   display:inline-block;
@@ -625,6 +625,14 @@ nav.browsePages a:hover{
 }
 
 /******************* CAMPAIGN *******************/
+div.campaign {
+	margin:9.5em 0 4em;
+}
+
+div.campaign h1 {
+	font-size: .875em;
+}
+
 img.campaign_p {
 	width: 49.6%;
 }

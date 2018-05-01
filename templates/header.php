@@ -8,13 +8,16 @@
 					<a class="no_click under" href="index.php?view=g&a=c">DRESSES</a>
 					<ul class="opaque88 hidden">
 						<li>
-							<a href="index.php?view=g&a=c&c=2">RAINE LOOKBOOK</a>
+							<a href="index.php?view=eden">EDEN CAMPAIGN</a>
 						</li>
 						<li>
-							<a href="index.php?view=raine">RAINE CAMPAIGN</a>
+							<a href="index.php?view=g&a=c&c=3">EDEN LOOK BOOK</a>
 						</li>
 						<li>
-							<a href="index.php?view=g&a=c&c=1">DUSK LOOKBOOK</a>
+							<a href="index.php?view=g&a=c&c=2">RAINE</a>
+						</li>
+						<li>
+							<a href="index.php?view=g&a=c&c=1">DUSK</a>
 						</li>
 						<li>
 							<a href="index.php?view=g&a=c&c=0">CLASSICS</a>

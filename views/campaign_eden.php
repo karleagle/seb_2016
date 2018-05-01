@@ -33,86 +33,105 @@
 	include('templates/header.php');
 ?>
 	<div class="content">
+		<div class="campaign">
+			<div class="titlebox">
+				<h1>EDEN WEDDING DRESS COLLECTION</h1>
+			</div>
+			<p class="large blue">
+				Eden is a celebration of natural beauty.
+			</p>
+			<p>
+				This collection is for real women of all shapes and sizes, which is why
+				these beautiful girls you see below are not professional models but office
+				workers, housewives, students, mums &#8212; real women like you and me!
+			</p>
+			<p>
+				The Garden of Eden was beauty at its most natural, so we want our dresses
+				to show off your natural beauty. Through focussing on fabric choices and
+				production techniques we have ensured Eden is more accessible by keeping
+				the dress price between $1,600 &#8211; $2,500 NZD.
+			</p>
+		</div>
 	<!-- START MAIN BLOCK -->
-		<a href="index.php?view=c&a=100">
+		<a href="index.php?view=g&a=c&c=3">
 			<img class="campaign_l1"
 			src="images/collections/eden/campaign/eden-45.jpg"
-			title="Taylor"
-			alt="Taylor wedding dress by Sally Eagle"/>
+			title="Eden Collection"
+			alt="Eden wedding dress collection by Sally Eagle"/>
 		</a>
-		<a href="index.php?view=c&a=95">
+		<a href="index.php?view=c&a=102">
 			<img class="campaign_p"
 			src="images/collections/eden/campaign/eden-08.jpg"
-			title="Skye"
-			alt="Skye wedding dress by Sally Eagle"/>
+			title="Fleur"
+			alt="Fleur wedding dress by Sally Eagle"/>
 		</a>
-		<a href="index.php?view=c&a=97">
+		<a href="index.php?view=c&a=109">
 			<img class="campaign_p"
 			src="images/collections/eden/campaign/eden-16.jpg"
-			title="Ophelia"
-			alt="Ophelia wedding dress by Sally Eagle"/>
+			title="Giselle"
+			alt="Giselle wedding dress by Sally Eagle"/>
 		</a>
-			<a href="index.php?view=c&a=100">
+			<a href="index.php?view=g&a=c&c=3">
 				<img class="campaign_l1"
 				src="images/collections/eden/campaign/eden-78.jpg"
-				title="Taylor"
-				alt="Taylor wedding dress by Sally Eagle"/>
+				title="Eden Collection"
+				alt="Eden wedding dress collection by Sally Eagle"/>
 			</a>
 		<div class="campaign_box">
-			<a href="index.php?view=c&a=95">
+			<a href="index.php?view=c&a=104">
 				<img class="campaign_l2_left clear_left"
 				src="images/collections/eden/campaign/eden-34.jpg"
-				title="Skye"
-				alt="Skye wedding dress by Sally Eagle"/>
+				title="Evelyn"
+				alt="Evelyn wedding dress by Sally Eagle"/>
 			</a>
-			<a href="index.php?view=c&a=100">
+			<a href="index.php?view=g&a=c&c=3">
 				<img class="campaign_l2_left"
 				src="images/collections/eden/campaign/eden-38.jpg"
-				title="Taylor"
-				alt="Taylor wedding dress by Sally Eagle"/>
+				title="Eden Collection"
+				alt="Eden wedding dress collection by Sally Eagle"/>
 			</a>
-			<a href="index.php?view=c&a=95">
+			<a href="index.php?view=g&a=c&c=3">
 				<img class="campaign_p"
 				src="images/collections/eden/campaign/eden-47.jpg"
-				title="Skye"
-				alt="Skye wedding dress by Sally Eagle"/>
+				title="Giselle + Evelyn"
+				alt="Giselle + Evelyn wedding dresses by Sally Eagle"/>
 			</a>
 		</div>
-		<a href="index.php?view=c&a=95">
+		<a href="index.php?view=g&a=c&c=3">
 			<img class="campaign_l1"
 			src="images/collections/eden/campaign/eden-67.jpg"
-			title="Skye"
-			alt="Skye wedding dress by Sally Eagle"/>
+			title="Eden Collection"
+			alt="Eden wedding dress collection by Sally Eagle"/>
 		</a>
-		<a href="index.php?view=c&a=97">
+		<a href="index.php?view=c&a=103">
 			<img class="campaign_l1"
 			src="images/collections/eden/campaign/eden-55.jpg"
-			title="Ophelia"
-			alt="Ophelia wedding dress by Sally Eagle"/>
+			title="Matilda"
+			alt="Matilda wedding dress by Sally Eagle"/>
 		</a>
-		<a href="index.php?view=c&a=93">
+		<a href="index.php?view=c&a=104">
 			<img class="campaign_p"
 			src="images/collections/eden/campaign/eden-28.jpg"
-			title="Isla"
-			alt="Isla wedding dress by Sally Eagle"/>
+			title="Evelyn"
+			alt="Evelyn wedding dress by Sally Eagle"/>
 		</a>
-		<a href="index.php?view=c&a=98">
+		<a href="index.php?view=c&a=105">
 			<img class="campaign_p"
 			src="images/collections/eden/campaign/eden-48.jpg"
-			title="Farrah"
-			alt="Farrah wedding dress by Sally Eagle"/>
+			title="Bianca"
+			alt="Bianca wedding dress by Sally Eagle"/>
 		</a>
-		<a href="index.php?view=c&a=98">
+		<a href="index.php?view=g&a=c&c=3">
 			<img class="campaign_l1"
 			src="images/collections/eden/campaign/eden-86.jpg"
-			title="Farrah"
-			alt="Farrah wedding dress by Sally Eagle"/>
+			title="Eden Collection"
+			alt="Eden wedding dress collection by Sally Eagle"/>
 		</a>
-		<a href="index.php?view=c&a=96">
+		<a href="index.php?view=c&a=102">
 			<img class="campaign_l1"
 			src="images/collections/eden/campaign/eden-04.jpg"
-			title="Amara"
-			alt="Amara wedding dress by Sally Eagle"/>
+			title="Fleur"
+			alt="Fleur wedding dress by Sally Eagle"/>
 		</a>
 
 

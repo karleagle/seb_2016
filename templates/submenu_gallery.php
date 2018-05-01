@@ -1,7 +1,8 @@
 <?php // Set an array to hold the menu items
 	$submenu = [
-		['c','2018 RAINE',2],
-		['c','2017 DUSK',1],
+		['c','EDEN',3],
+		['c','RAINE',2],
+		['c','DUSK',1],
 		['c','CLASSICS',0],
 		['w','REAL BRIDES',null]
 //		, ['b','BRIDESMAIDS',null]
