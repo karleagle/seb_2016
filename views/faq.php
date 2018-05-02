@@ -54,7 +54,7 @@ $block = new Block('c','5')
 			What is the charge for a consultation appointment?
 		</h2>
 		<p>
-			There is a $30 charge for an initial wedding dress consultation.
+			There is a $50 charge for an initial wedding dress consultation.
 	  </p>
 		<h2 class="blue">
 			How long does a consultation take?

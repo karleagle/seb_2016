@@ -123,7 +123,7 @@
 					</div>
 				</div>
 			</div>
-			<a class="box" href="index.php?view=g&a=c&c=2">VIEW ALL</a>
+			<a class="box" href="index.php?view=g&a=c&c=3">VIEW ALL</a>
 		</section>
 		<section class="image_box"> <!-- SHOW COLLECTION IMAGES -->
 			<h1>OUR BRIDES</h1>
