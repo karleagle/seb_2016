@@ -35,7 +35,10 @@
 		<div class="main_image">
 		<!-- HOLD THE MAIN IMAGE FOR THE HOMEPAGE -->
 			<a href="index.php?view=contact">
-				<img class="welcome" src="images/auck_home.jpg" title="Auckland store" alt="Celebrate the opening of our Sally Eagle Auckland store with us!" />
+				<img class="welcome"
+				src="images/auck_home.jpg"
+				title="Click for contact page" 
+				alt="Celebrate the opening of our Sally Eagle Auckland store with us!" />
 			</a>
 		</div>
 		<div class="titlebox">
