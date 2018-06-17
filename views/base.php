@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>Sally Eagle &#45; Wellington&#39;s top wedding dress designer</title>
 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-<meta name="description" content="Sally Eagle is a New Zealand bridal designer. She creates beautiful wedding dresses and vintage-inspired bridal gowns from her Central Wellington bridal boutique." />
+<meta name="description" content="Sally Eagle is a New Zealand bridal designer. She creates beautiful wedding dresses and romantic bridal gowns from her Central Wellington bridal boutique." />
 <meta name="keywords" content="sally eagle, sally eagle bridal, vintage, vintage inspired, vintage wedding dress, vintage wedding gown, vintage bridal gown, wedding dress, wedding dresses, bridal dress, bridal dresses, bridal gown, bridal gowns, bridal wear, bridalwear, wedding dress designer, wedding dress designers, bridal gown designer, bridal gown designers, bridal dress design, bridal dress designer, bridal design, bridal designer, bridal designers, designer bridal, bridal dressmaker, wedding gown designer, wedding gown designers, wellington, willis st, willis street, bridal shop, wellington bridal shop, bridal store, wellington bridal, wellington bridal store, bridal boutique, wellington bridal boutique, wedding dress shop, wedding dress store, wedding dress boutique, wedding gown store, wedding gown shop, wedding gown boutique, bridesmaid, bridesmain dresses, bridesmaids dresses, ball dress, ball dresses, ball dress shops" />
 <meta name="robots" content="INDEX,FOLLOW" />
 
@@ -34,8 +34,8 @@
 	<div class="content">
 		<div class="main_image">
 		<!-- HOLD THE MAIN IMAGE FOR THE HOMEPAGE -->
-			<a href="index.php?view=eden">
-				<img class="welcome" src="images/eden_home.jpg" title="See the Eden collection" alt="Welcome to the Sally Eagle website." />
+			<a href="index.php?view=contact">
+				<img class="welcome" src="images/auck_home.jpg" title="Auckland store" alt="Celebrate the opening of our Sally Eagle Auckland store with us!" />
 			</a>
 		</div>
 		<div class="titlebox">

@@ -32,7 +32,7 @@ $block = new Block('c','5')
 	include('templates/header.php');
 ?>
 	<div class="header white boutique bgImg">
-    <h1 class="underscore">THE BOUTIQUE</h1>
+    <h1 class="underscore">THE WELLINGTON BOUTIQUE</h1>
     <div>
       <a
         class="white link"
@@ -40,7 +40,7 @@ $block = new Block('c','5')
         47 CUBA STREET, WELLINGTON
       </a>
     </div>
-    <a class="white box opaque centered" href="#">MAKE A BOOKING</a>
+    <a class="white box opaque centered" href="index.php?view=contact">MAKE A BOOKING</a>
     <p>OPEN TUES &#8211; SAT 10AM TO 5PM</p>
   </div>
 	<div class="left_align padded">
@@ -78,9 +78,11 @@ $block = new Block('c','5')
 	    This ensures that you have the full attention of  Sally&#39;s trusted bridal consultant
 			as she takes you through a tailored experience to find your perfect wedding dress.
 			You can book a consultation by
-				<a class="ls_thin" href="mailto&#58;enquir&#37;69&#37;&#54;&#53;%73&#64;s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Website%20enquiry">emailing</a>
-			, or call the boutique on 020 4005 9959.
+				<a class="ls_thin" href="mailto&#58;hello@s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Website%20enquiry">emailing</a>,
+			or call the boutique on 020 4005 9959.
 		</p>
+
+		<!-- NOW HAS ITS OWN PAGE
 		<div class="workroom">
 			<h2 class="blue underscore dress_name pad_1">
 	      THE WORKROOM
@@ -94,6 +96,9 @@ $block = new Block('c','5')
 			experienced dressmakers and every dress is hand-made to order
 			specifically for each bride.
 		</p>
+
+	-->
+
 	<!-- END MAIN BLOCK -->
 
 	</div>

@@ -2,9 +2,9 @@
 <html class="no-js">
 <head>
 <meta charset="UTF-8">
-<title>Sally Eagle&#39;s full range in Auckland</title>
+<title>Sally Eagle&#39;s range in Auckland</title>
 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-<meta name="description" content="See Sally Eagle&#39;s full range of wedding dresses at The Haven Bridal Boutique in Auckland." />
+<meta name="description" content="See Sally Eagle&#39;s full range of wedding dresses at her Auckland Boutique in Grafton." />
 <meta name="keywords" content="sally eagle, sally eagle bridal, vintage, vintage inspired, vintage wedding dress, vintage wedding gown, vintage bridal gown, wedding dress, wedding dresses, bridal dress, bridal dresses, bridal gown, bridal gowns, bridal wear, bridalwear, wedding dress designer, wedding dress designers, bridal gown designer, bridal gown designers, bridal dress design, bridal dress designer, bridal design, bridal designer, bridal designers, designer bridal, bridal dressmaker, wedding gown designer, wedding gown designers, wellington, willis st, willis street, bridal shop, wellington bridal shop, bridal store, wellington bridal, wellington bridal store, bridal boutique, wellington bridal boutique, wedding dress shop, wedding dress store, wedding dress boutique, wedding gown store, wedding gown shop, wedding gown boutique, bridesmaid, bridesmain dresses, bridesmaids dresses, ball dress, ball dresses, ball dress shops" />
 <meta name="robots" content="INDEX,FOLLOW" />
 
@@ -31,7 +31,7 @@
     <h1 class="underscore">
 			<a class="white"
 				href="http://www.thehavenbridal.co.nz/" target="_blank">
-				THE HAVEN BRIDAL BOUTIQUE
+				THE AUCKLAND BOUTIQUE
 			</a>
 		</h1>
     <div>
@@ -41,34 +41,23 @@
         15 KHYBER PASS RD, GRAFTON, AUCKLAND
       </a>
     </div>
-    <a class="white box ls_wide opaque centered"
-			href="http://www.thehavenbridal.co.nz/about/">
-			LEARN MORE
-		</a>
-    <p class="ls_thin">OPEN FRI &#8211; SUN 10AM TO 5PM</p>
+    <a class="white box opaque centered" href="index.php?view=contact">MAKE A BOOKING</a>
+    <p class="ls_thin">OPEN SAT &amp; SUN 10AM TO 5PM</p>
   </div>
 	<div class="left_align padded">
 	  <p class="large blue">
-			Sally Eagle has finally brought her exquisite collection
+			Sally Eagle has brought her exquisite collection
 			of beautiful, hand&#45;made wedding dresses to Auckland!
 	  </p>
 	  <p>
-			Sally is stocking the best of her bridal collection at
-			<a class="ls_thin"
-				href="http://www.thehavenbridal.co.nz/" target="_blank">
-				The Haven Bridal Boutique</a>.
-			The Haven is Auckland&#39;s newest bridal boutique, stocking
-			gorgeous designs from exclusive local and international bridal designers.
-	  </p>
-	  <p>
-			The Haven is located in a cute boutique in Grafton.
+			You can find her dresses in Sally's gorgeous boutique in Grafton.
 			Groups of up to 4 people are recommended, which ensures
 			seating for all and leaves ample room for you to move freely in
 			your dress.
 	  </p>
 		<p>
-			With refreshments readily at hand in The Haven&#39;s relaxed
-			atmosphere, you and your friends or family can enjoy yourselves
+			With refreshments readily at hand and Sally's emphasis on a relaxing
+			experience, you and your friends or family can enjoy yourselves
 			as you find	the dress that is perfectly you.
 		</p>
 		<p>
@@ -76,8 +65,8 @@
 			This ensures that you have the time and privacy required to
 			enjoy the experience and find your perfect wedding dress.
 			You can book a consultation by
-			<a class="ls_thin" href="mailto&#58;hello@thehavenbridal.co.nz">
-				emailing The Haven
+			<a class="ls_thin" href="mailto&#58;acukland@sallyeagle.co.nz">
+				emailing the Auckland boutique
 			</a>
 			 or calling on 021 0246 4189.
 		</p>

@@ -45,10 +45,7 @@
 				<a href="#5">UNITED KINGDOM</a>
 			</li>
 			<li>
-				<a href="#6">EUROPE</a>
-			</li>
-			<li>
-				<a href="#7">SINGAPORE</a>
+				<a href="#6">SINGAPORE</a>
 			</li>
 		</ul>
 	</div>
@@ -57,14 +54,6 @@
   </h2>
   <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
 <?php Controller::addStockist(
-		"http://www.thehavenbridal.co.nz/sally-eagle/",
-		"THE HAVEN BRIDAL BOUTIQUE",
-		"https://goo.gl/maps/gXwKkrKhZFT2",
-		"15 Khyber Pass Rd, Auckland",
-		"hello@thehavenbridal.co.nz",
-		"021 0246 4189"
-);
-Controller::addStockist(
 		"http://www.noviabrides.co.nz/sally-eagle-wedding-dresses/",
 		"NOVIA BRIDES",
 		"https://goo.gl/maps/z4WaoDDEL332",
@@ -86,14 +75,7 @@ Controller::addStockist(
     AUSTRALIA
   </h2>
   <div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
-<?php Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
-		"http://www.throughthewhitedoor.com.au/index/#/sally-eagle-bridal/",
-		"THROUGH THE WHITE DOOR",
-		"https://www.google.co.nz/maps/place/Through+The+White+Door/@-32.0364864,115.753833,19.5z/data=!4m13!1m7!3m6!1s0x2a32a1592ff5eea1:0x1b7c522f428dfbae!2s14%2F210+Queen+Victoria+St,+North+Fremantle+WA+6159,+Australia!3b1!8m2!3d-32.0363757!4d115.7540073!3m4!1s0x0:0x59d07358b0a446e!8m2!3d-32.0361542!4d115.753895",
-		"210 Queen Victoria St, North Fremantle",
-		"hello@throughthewhitedoor.com.au",
-		"0434 966 225"
-);
+<?php
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"http://www.hopeandpage.com.au/",
 		"HOPE X PAGE",
@@ -124,22 +106,6 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"43 Main Street SE, Suite 141, Minneapolis",
 		"info@flutterboutique.com",
 		"720 627 5760"
-);
-Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
-		"http://harlowbrides.com/designers/sally-eagle/",
-		"HARLOW BRIDES",
-		"https://www.google.co.nz/maps/place/Harlow+Brides/@40.7017578,-111.8880121,13.75z/data=!4m5!3m4!1s0x87528a7e0a5dfb13:0xc9a918fcbbea9526!8m2!3d40.699645!4d-111.862725",
-		"988 E 3300 S, Salt Lake City",
-		"info@harlowbrides.com",
-		"385 355 4436"
-);
-Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
-		"http://www.schonebride.com/new-page-3",
-		"SCHONE BRIDE",
-		"https://goo.gl/maps/hAAEzyDEeoG2",
-		"530 3rd Avenue, Brooklyn NY",
-		"hello@schonebride.com",
-		"718 788 3849"
 );
 Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 		"http://www.serendipitybridal.com/",
@@ -208,20 +174,6 @@ Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
 );
 ?>
 	<h2 class="stockist" id="6">
-		EUROPE
-	</h2>
-	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
-<?php
-Controller::addStockist( //$website, $name, $map, $address, $email, $phone, $id
-		"http://www.feinstens.com/",
-		"FEINSTENS",
-		"https://www.google.co.nz/maps/place/Altstadt+5,+4020+Linz,+Austria/@48.3052525,14.2824955,17z/data=!3m1!4b1!4m5!3m4!1s0x47739783c3073357:0x4ea77f08339d507b!8m2!3d48.3052525!4d14.2846842",
-		"Altstadt 5, 4020 Linz, Austria",
-		"love@feinstens.com",
-		"664 150 3150"
-);
-?>
-	<h2 class="stockist" id="7">
 		SINGAPORE
 	</h2>
 	<div class='bar'><p>&#95;&#95;&#95;&#95;</p></div>
