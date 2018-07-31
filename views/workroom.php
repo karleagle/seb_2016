@@ -47,10 +47,6 @@
 			in Wellington she is able to give jobs to others in the same situation as
 			her, without them having to move or, worse, for the work to go overseas!
 		</p>
-		<p>
-			If you would like a sneak peek behind the scenes, feel free to let Sally
-			or any of the staff know and they will show you where the magic happens.
-		</p>
 	</div>
 	<div class="titlebox">
 		<h2>FROM THE WORKROOM</h2>

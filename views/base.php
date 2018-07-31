@@ -36,9 +36,9 @@
 		<!-- HOLD THE MAIN IMAGE FOR THE HOMEPAGE -->
 			<a href="index.php?view=contact">
 				<img class="welcome"
-				src="images/auck_home.jpg"
-				title="Click for contact page" 
-				alt="Celebrate the opening of our Sally Eagle Auckland store with us!" />
+				src="images/eden_home.jpg"
+				title="Eden range of wedding dresses out now"
+				alt="5 women wearing Sally Eagle's wedding dresses from her Eden collection" />
 			</a>
 		</div>
 		<div class="titlebox">

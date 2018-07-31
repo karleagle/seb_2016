@@ -86,9 +86,7 @@ $block = new Block('c','5')
 			Is there parking located nearby?
 		</h2>
 		<p>
-			There is street parking outside the boutique along lower Cuba St and on
-			Wakefield street, and a carpark area at the
-			<a class="ls_thin link" href="https://en.parkopedia.co.nz/parking/carpark/michael_fowler_centre_car_park/wellington/" target="_blank">Michael Fowler Centre</a> nearby.
+			There is street parking directly outside the boutique and along Jackson Steret.
 	  </p>
 		<h2 class="blue">
 			How many people can I bring to an appointment?

@@ -38,17 +38,20 @@
 		</h2>
 		<div>
 	    <a class="ls_thin black contact link"
-	      href="https://www.google.co.nz/maps/place/Sally+Eagle+Bridal/@-41.2914281,174.7763628,17z/data=!4m5!3m4!1s0x6d38b02708301a8d:0xcb0272ff22e64c0d!8m2!3d-41.290618!4d174.777382" target="_blank">
-	      Level 1, 47 Cuba Street, Wellington, New Zealand
+	      href="https://goo.gl/maps/8j1PNKmhYvw" target="_blank">
+	      287 Jackson Street, Petone, Wellington
 	    </a>
 		</div>
 		<p>
-			Open Tuesday to Saturday, 10am to 5pm
+			Wed &amp; Thu, 10am to 2pm
+		</p>
+		<p>
+			Fri &amp; Sat, 10am to 5pm
 		</p>
 		<div>
 	    <a class="link dk_grey ls_thin contact"
 	      href="mailto&#58;hello@s%61ll%79%&#54;5%61gl&#37;65&#46;%&#54;&#51;o&#46;n%7&#65;?subject=Wellington%20enquiry">
-	      hello@sallyeagle.co.nz
+	      hello@s&#97;llyeagle.co.nz
 	    </a>
 		</div>
 		<p>
