@@ -34,7 +34,7 @@
 	<div class="content">
 		<div class="main_image">
 		<!-- HOLD THE MAIN IMAGE FOR THE HOMEPAGE -->
-			<a href="index.php?view=contact">
+			<a href="index.php?view=eden">
 				<img class="welcome"
 				src="images/eden_home.jpg"
 				title="Eden range of wedding dresses out now"
