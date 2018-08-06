@@ -37,7 +37,7 @@ $block = new Block('c','5')
       <a
         class="white link"
         href="https://goo.gl/maps/8j1PNKmhYvw">
-        287 JACKSON STREET, WELLINGTON
+        287 JACKSON STREET, PETONE
       </a>
     </div>
     <a class="white box opaque centered" href="index.php?view=contact">MAKE A BOOKING</a>
