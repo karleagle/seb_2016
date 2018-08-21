@@ -32,14 +32,14 @@
   </div>
 	<div class="left_align padded">
 	  <p class="large blue">
-			The Sally Eagle workroom adjoins the boutique, and is where every dress
-			is designed, constructed and perfected.
+			The Sally Eagle workroom is where every dress	is designed, constructed and
+			perfected.
 	  </p>
 		<p>
-			Designing the dresses in the same room that they are elegantly put
-			together is a big thing for Sally Eagle. It means she knows and maintains
-			the standard to which they are made. It also gives her huge flexibility to
-			change a dress to however she or the bride she's working with pictures.
+			Having her own workroom is a big thing for Sally Eagle.
+			It means she knows and maintains the standard to which her dresses are made.
+			It also gives her flexibility, so she is able to change a dress to
+			ensure it meets her high standards and those of her brides-to-be.
 		</p>
 		<p>
 			Sally studied at Massey's design school in Wellington, so she knows how
